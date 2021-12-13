@@ -1,5 +1,5 @@
 # Useful Mods
-Alkyaly has stopped maintain his list hes given me the responsibility to maintain his list [original list](https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88)<br>
+Alkyaly has stopped maintaining their list they have given me the responsibility to maintain their list [original list](https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88)<br>
 A list of usefull mods for most major-played versions.<br>
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the gist comments.<br><br>
