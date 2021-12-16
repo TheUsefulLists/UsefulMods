@@ -2,7 +2,7 @@
 Alkyaly has stopped maintaining their list they have given me the responsibility to maintain their list [original list](https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88)<br>
 A list of usefull mods for most major-played versions.<br>
 Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the gist comments.<br><br>
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
   
 ## Notice! security vulnerability with 1.18 or older versions of Minecraft
  Read about the [Security Vulnerability information](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) <br>
