@@ -1,89 +1,49 @@
-# Useful Mods
-Alkyaly has stopped maintain his list hes given me the responsibility to maintain his list [original list](https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88)<br>
-A list of usefull mods for most major-played versions.<br>
+# Performance Mods
+A list of performance-enhancing mods for 1.18.x forge/fabric versions.
+
 Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the gist comments.<br><br>
-  
-## Notice! security vulnerability with 1.18 or older versions of Minecraft
- Read about the [Security Vulnerability information](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) <br>
-Follow this guide to fix it [Link](https://www.creeperhost.net/wiki/books/minecraft-java-edition/page/mitigating-cve-2021-44228-in-minecraft)
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
- &nbsp;
- 
-everything that is under consideration to be added is found [HERE](https://docs.google.com/document/d/127YtDboB7mQIH3SK8jd4d3_I7ur0LPHT46l9I1zRrwA/edit?usp=sharing)<br>
-Keep in mind everything in the dokument above is not checked for harmful software or mods so download at your own caution
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
 
-## Version List, Performance Mods
+## Fabric 1.18.X
 
-| Version | Loaders |
-| --- | :---: |
-| [1.18.x](https://gist.github.com/NordicGamerFE/b40d62bbf2660949a1894aa4c6a99988) | Fabric & Forge |
-| [1.17.x](https://gist.github.com/NordicGamerFE/4b475a7fdb99b1f06522cbf579e09ced) | Fabric & Forge |
-| [1.16.x](https://gist.github.com/NordicGamerFE/43947409d14b23b3eb42f32458b7fe0c) | Fabric & Forge |
-| [1.15.x](https://gist.github.com/NordicGamerFE/aef5c418ebe1d509c3874e990abe7718) | Forge |
-| [1.12.x](https://gist.github.com/NordicGamerFE/f180324b649f0f62a1deb6ff571e2859) | Forge |
-| [1.8.9 and Below](https://gist.github.com/NordicGamerFE/3394b115e34639376aee9c5e2d11a2ba) | Forge |
+| Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](https://github.com/NordicGamerFE/usefulmods/tree/main#threat-level) |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| [Starlight](https://modrinth.com/mod/starlight) | Unknown | Fabric mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both | none | 
+| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Mods that remove the DFU | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | astei | Both | none | 
+| [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Unknown | Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems | UltimateBoomer | Both | none | 
+| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Unknown | This mod reduces the memory usage of Minecraft in a few different ways | malte0811 | Both | none | 
+| [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Both | none | 
+| [Sodium](https://modrinth.com/mod/sodium) | Mods that utilize of the FRAPI[⁴](https://github.com/NordicGamerFE/usefulmods/tree/main#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium) | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft | CaffeineMC | Client | [Alpha(3)](https://github.com/NordicGamerFE/usefulmods/tree/main#lables) | 
+| [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader) | Enhanced Block Entities | This mod launches minecraft faster by caching all of the content on first launch and then loading that cache on the next one | alphaqu | Client | [Incompatible(2)](https://github.com/NordicGamerFE/usefulmods/tree/main#lables) | 
+| [lazy-language-loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader) | Unknown | lazy-language-loader improves loading times when changing your language by only reloading the language instead of all the game resources! | chachylmao | Client | none | 
+| [Canvas](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) | Sodium | Advanced Rendering Engine for Fabric | grondag | Client | none | 
+| [EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | None | EntityCulling using async path-tracing to skip rendering Tiles/Entities that are not visible | tr9zw | Client | none | 
+| [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | Unknown | This mod helps by removing dynamic models from chests and making them render as static chunk geometry. | fake_domi | Client | none | 
+| [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | Unknown | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client | none | 
+| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Motschen | Client | none | 
+| [Smoke Suppresion](https://www.curseforge.com/minecraft/mc-mods/smoke-suppression) | Unknown | This is to prevent client-side lag and general annoyance when using large numbers of campfires in farms. | supersaiyansubtlety | Client | none | 
+| [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) | Unknown | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client | none | 
+| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | None | Lithium is a general-purpose optimization mod for Minecraft which works to improve a number of systems without changing any behavior | CaffeineMC | Server | none | 
+| [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Unknown | Krypton is a Minecraft mod designed for the Fabric mod loader that implements a suite of optimizations focused on the Minecraft networking stack | astei | Server | none | 
+| [C2ME](https://github.com/YatopiaMC/C2ME-fabric/releases) | Tic-Tacs, + | A Fabric mod designed to improve the chunk performance of Minecraft. | YatopiaMC | Server | [Corruption(3)](https://github.com/NordicGamerFE/usefulmods/tree/main#lables) | 
+| [Dimensional Threading](https://github.com/WearBlackAllDay/DimensionalThreading/releases) | Unknown | Minecraft mod which optimizes the processing of multiple Dimensions, by assigning them independent threads | WearBlackAllDay | Server | [Incompatible(2)](https://github.com/NordicGamerFE/usefulmods/tree/main#lables) | 
+| [Alternate Current](https://modrinth.com/mod/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation | Space Walker | Server | none | 
+| [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) | FastFurnace, FastBench (?) | Caches recipe lookup for crafting and furnaces to lessen server lag caused by crafting stacks of items and large amounts of furnaces ticking | biom4st3r1 | Server | none | 
+| [ServerCore](https://modrinth.com/mod/servercore) | Unknown | A fabric mod that aims to optimize & add multiplayer features to the minecraft server. | Wesley1808 | Server | none | 
+| [Very Many Players](https://modrinth.com/mod/vmp-fabric) | Unknown | Very Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount without sacrificing vanilla functionality or behavior. | ishland | Server | none | 
 
-## Version List, Bugfix Mods
 
-| Version | Loaders |
-| --- | :---: |
-| [1.18.x](https://gist.github.com/NordicGamerFE/4b6ce02bf607c64dd1c06f3270874781) | Fabric & Forge |
-| [1.17.x]() (Coming Soon) | Fabric & Forge |
-| [1.16.x]() (Coming Soon) | Fabric & Forge |
-| [1.15.x]() (Coming Soon) | Forge |
-| [1.12.x]() (Coming Soon) | Forge |
-| [1.8.9 and Below]() (Coming Soon) | Forge |
 
-## Software that is Handy, Fixes stuff, Enhance performance and other
+## Forge 1.18.X
 
-| Version |
-| --- |
-| [All](https://gist.github.com/NordicGamerFE/7928314a43dbe706cde223ec45363cbb) |
+| Name | Known Incompatibilities | Description | Author | Performance Improvement | Label |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | Unknown | This mod reduces the memory usage of Minecraft in a few different ways | malte0811 | Both | none | 
+| [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Both | none | 
+| [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) | Unknown | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client | none | 
+| [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | Unknown | This mod adds two configuration options to control how dropped items combine on the ground. This can significantly improve performance in areas with lots of dropped items | bl4ckscor3 | Server | none | 
+| [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)[⁵](https://github.com/NordicGamerFE/usefulmods/tree/main#-ai-improvements-newer-versions-114-dont-have-as-much-impact-as-the-older-versions-have-since-in-newer-versions-of-minecraft-a-lot-of-fixes-to-the-ai-are-implemented-sources-curseforge-page-faq-dev) | None | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game | QueenOfMissiles | Server | none | 
 
-## Threat level
-
-| Description |
-| --- |
-| Used beside lables for a clearer understanding |
-
-## Threat level
-
-| Level | Meaning |
-| --- | :---: |
-| 1 | Low chance to affect user |
-| 2 | Low to medium chance to affect user |
-| 3 | Medium chance to affect user |
-| 4 | Medium to high chance to affect user |
-| 5 | High chance to affect user |
-| 6 | Extremly high chance to affect user |
-| 7 | Will affect user |
-
-## Lables
-
-| Description |
-| --- |
-| Lables are used to give you a better understanding how a mod might act |
-
-## Lables
-
-| Name | Meaning |
-| --- | :---: |
-| Alpha | Mod is in alpha and therefor might be unstable |
-| Unstable | Mod is unstable |
-| Corruption | Mod has a chance to corrupt save files |
-| Incompatible | Mod is incompatible with other mods |
-| Buggy | Mod is buggy |
-| Reverse features | Mod takes away features for sake of performance or bugfixes |
-| Configuration needed | Mod needs to be configured to work like intended or at its best |
-
-## Extra Information
-You might find small numbers around the gist that look like this(¹,²,³,⁴,⁵,⁶) these are used to tell extra information
-&nbsp;
-
-###### ¹ Should work if [Mixin-0-7-0-8-Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility) is applied. 
-###### ² Cull Particles isn't needed anymore in newer Forge versions, it was implemented in forge.
-###### ³ Do not blame me if you didn't read this notice, *if you try to load a older world in a newer instance of the game, and you have one of these mods installed, bad things will happen*, uninstall the mod first.
-###### ⁴ Some of the mods that have Sodium as an incompatibility, might work if you use [Indium](https://modrinth.com/mod/indium)
-###### ⁵ AI Improvements newer versions (1.14+) don't have as much impact as the older versions have, since in newer versions of Minecraft, a lot of fixes to the AI are implemented [Sources: Curseforge page FAQ, [Dev](https://media.discordapp.net/attachments/254806806516203520/831525756143534150/unknown.png)]
-###### ⁶ Halogen has issues with forge's ExplosionEvent, see [sodium-forge#33](https://github.com/spoorn/sodium-forge/issues/33).
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
