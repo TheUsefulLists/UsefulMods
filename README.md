@@ -37,9 +37,13 @@ Keep in mind everything in the dokument above is not checked for harmful softwar
 
 ## Software that is Handy, Fixes stuff, Enhance performance and other
 
-| Version |
+| Theme |
 | --- |
-| [All](https://gist.github.com/NordicGamerFE/7928314a43dbe706cde223ec45363cbb) |
+| [Launchers](https://github.com/NordicGamerFE/usefulmods/tree/softlaunchers) |
+| [Bukkit, Spigot & ETC](https://github.com/NordicGamerFE/usefulmods/tree/softbukkitetc) |
+| [Graphical](https://github.com/NordicGamerFE/usefulmods/tree/softgraphical) |
+| [World Management](https://github.com/NordicGamerFE/usefulmods/tree/softworld) |
+| [Server Management](https://github.com/NordicGamerFE/usefulmods/tree/main) (Coming soon) |
 
 ## Threat level
 
