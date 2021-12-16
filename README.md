@@ -17,23 +17,23 @@ Keep in mind everything in the dokument above is not checked for harmful softwar
 
 | Version | Loaders |
 | --- | :---: |
-| [1.18.x](https://gist.github.com/NordicGamerFE/b40d62bbf2660949a1894aa4c6a99988) | Fabric & Forge |
-| [1.17.x](https://gist.github.com/NordicGamerFE/4b475a7fdb99b1f06522cbf579e09ced) | Fabric & Forge |
-| [1.16.x](https://gist.github.com/NordicGamerFE/43947409d14b23b3eb42f32458b7fe0c) | Fabric & Forge |
-| [1.15.x](https://gist.github.com/NordicGamerFE/aef5c418ebe1d509c3874e990abe7718) | Forge |
-| [1.12.x](https://gist.github.com/NordicGamerFE/f180324b649f0f62a1deb6ff571e2859) | Forge |
-| [1.8.9 and Below](https://gist.github.com/NordicGamerFE/3394b115e34639376aee9c5e2d11a2ba) | Forge |
+| [1.18.x](https://github.com/NordicGamerFE/usefulmods/tree/per118) | Fabric & Forge |
+| [1.17.x](https://github.com/NordicGamerFE/usefulmods/tree/per117) | Fabric & Forge |
+| [1.16.x](https://github.com/NordicGamerFE/usefulmods/tree/per116) | Fabric & Forge |
+| [1.15.x](https://github.com/NordicGamerFE/usefulmods/tree/per115) | Forge |
+| [1.12.x](https://github.com/NordicGamerFE/usefulmods/tree/per112) | Forge |
+| [1.8.9 and Below](https://github.com/NordicGamerFE/usefulmods/tree/perold) | Forge |
 
 ## Version List, Bugfix Mods
 
 | Version | Loaders |
 | --- | :---: |
-| [1.18.x](https://gist.github.com/NordicGamerFE/4b6ce02bf607c64dd1c06f3270874781) | Fabric & Forge |
-| [1.17.x]() (Coming Soon) | Fabric & Forge |
-| [1.16.x]() (Coming Soon) | Fabric & Forge |
-| [1.15.x]() (Coming Soon) | Forge |
-| [1.12.x]() (Coming Soon) | Forge |
-| [1.8.9 and Below]() (Coming Soon) | Forge |
+| [1.18.x](https://github.com/NordicGamerFE/usefulmods/blob/bug118/README.md) | Fabric & Forge |
+| [1.17.x](https://github.com/NordicGamerFE/usefulmods/tree/bug117) (Coming Soon) | Fabric & Forge |
+| [1.16.x](https://github.com/NordicGamerFE/usefulmods/blob/bug116/README.md) (Coming Soon) | Fabric & Forge |
+| [1.15.x](https://github.com/NordicGamerFE/usefulmods/blob/bug115/README.md) (Coming Soon) | Forge |
+| [1.12.x](https://github.com/NordicGamerFE/usefulmods/blob/bug112/README.md) (Coming Soon) | Forge |
+| [1.8.9 and Below](https://github.com/NordicGamerFE/usefulmods/blob/bugold/README.md) (Coming Soon) | Forge |
 
 ## Software that is Handy, Fixes stuff, Enhance performance and other
 
