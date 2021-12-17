@@ -5,7 +5,7 @@ Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
 
 ## Fabric 1.17.X
@@ -56,4 +56,4 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view) | APTweaks | This is a small/light serverside utility mod to help balancing lag (TPS) and chunk view/load distance. | someaddon | Server |
 | [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)[⁵](https://github.com/NordicGamerFE/usefulmods/tree/main#-ai-improvements-newer-versions-114-dont-have-as-much-impact-as-the-older-versions-have-since-in-newer-versions-of-minecraft-a-lot-of-fixes-to-the-ai-are-implemented-sources-curseforge-page-faq-dev) | None | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game | QueenOfMissiles | Server |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
