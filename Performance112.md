@@ -5,7 +5,7 @@ Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
 
 ## Forge 1.12.2
@@ -33,4 +33,4 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Multithreaded Noise](https://www.curseforge.com/minecraft/mc-mods/multithreaded-noise) | Unknown | This mod makes overworld terrain generate faster by replacing the three 3D noise generators in the overworld with multithreaded versions. | bloodnbonesgaming | Server (Must be installed in client aswell) | 
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) (Dangerous) | Unknown | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
