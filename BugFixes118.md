@@ -5,7 +5,7 @@ Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
 ## Fabric 1.18.X
 
@@ -30,4 +30,4 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [FlickerFix](https://www.curseforge.com/minecraft/mc-mods/flickerfix) | Unknown | By default, when the night vision effect goes below 10 seconds, the screen starts flickering. This mod replaces that behavior with a fast fade-out at 1 second remaining duration. |  MutantGumdrop | Client |
 | [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Have you been trying to pre-generate large areas of your world with pregenerator mods and keep randomly crashing with this error?<br><br> If so, congrats! You found a really wacky bug in 1.18 Minecraft! This mod aims to fix that.  | telepathicgrunt | Server |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
