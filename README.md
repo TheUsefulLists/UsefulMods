@@ -1,4 +1,3 @@
-# Performance Mods
 A list of performance-enhancing mods for 1.17.x forge/fabric versions.
 
 Any suggestions/complaints?<br>
