@@ -5,7 +5,7 @@ Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
 
 ## Fabric 1.16+
@@ -82,4 +82,4 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Magnesium, Sulfuric, Hydrogen Reforged](https://www.curseforge.com/members/someoneelsewastaken/projects) | Unknown | Unofficial ports to forge of Sodium and Phosphor respectively. | someoneelsewastaken | ~~----~~ |
 
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
