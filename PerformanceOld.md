@@ -5,7 +5,7 @@ Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
 ## Forge 1.8.9
 
@@ -27,4 +27,4 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [CoFHTweaks](https://www.curseforge.com/minecraft/mc-mods/cofhtweaks) | Unknown | Configuration options | skyboy026 (TeamCoFH) | Both |
 | [Squidless](https://www.curseforge.com/minecraft/mc-mods/squidless) | Unknown | Prevents squids spawning in regions where they would instantly despawn | hilburn | Server |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/tree/main)
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
