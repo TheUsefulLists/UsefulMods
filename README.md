@@ -18,33 +18,33 @@ Keep in mind everything in the dokument above is not checked for harmful softwar
 
 | Version | Loaders |
 | --- | :---: |
-| [1.18.x](https://github.com/NordicGamerFE/usefulmods/tree/per118) | Fabric & Forge |
-| [1.17.x](https://github.com/NordicGamerFE/usefulmods/tree/per117) | Fabric & Forge |
-| [1.16.x](https://github.com/NordicGamerFE/usefulmods/tree/per116) | Fabric & Forge |
-| [1.15.x](https://github.com/NordicGamerFE/usefulmods/tree/per115) | Forge |
-| [1.12.x](https://github.com/NordicGamerFE/usefulmods/tree/per112) | Forge |
-| [1.8.9 and Below](https://github.com/NordicGamerFE/usefulmods/tree/perold) | Forge |
+| [1.18.x](https://github.com/NordicGamerFE/usefulmods/blob/main/Performance118.md) | Fabric & Forge |
+| [1.17.x](https://github.com/NordicGamerFE/usefulmods/blob/main/Performance117.md) | Fabric & Forge |
+| [1.16.x](https://github.com/NordicGamerFE/usefulmods/blob/main/Performance116.md) | Fabric & Forge |
+| [1.15.x](https://github.com/NordicGamerFE/usefulmods/blob/main/Performance115.md) | Forge |
+| [1.12.x](https://github.com/NordicGamerFE/usefulmods/blob/main/Performance112.md) | Forge |
+| [1.8.9 and Below](https://github.com/NordicGamerFE/usefulmods/blob/main/PerformanceOld.md) | Forge |
 
 ## Version List, Bugfix Mods
 
 | Version | Loaders |
 | --- | :---: |
-| [1.18.x](https://github.com/NordicGamerFE/usefulmods/blob/bug118/README.md) | Fabric & Forge |
-| [1.17.x](https://github.com/NordicGamerFE/usefulmods/tree/bug117) (Coming Soon) | Fabric & Forge |
-| [1.16.x](https://github.com/NordicGamerFE/usefulmods/blob/bug116/README.md) (Coming Soon) | Fabric & Forge |
-| [1.15.x](https://github.com/NordicGamerFE/usefulmods/blob/bug115/README.md) (Coming Soon) | Forge |
-| [1.12.x](https://github.com/NordicGamerFE/usefulmods/blob/bug112/README.md) (Coming Soon) | Forge |
-| [1.8.9 and Below](https://github.com/NordicGamerFE/usefulmods/blob/bugold/README.md) (Coming Soon) | Forge |
+| [1.18.x](https://github.com/NordicGamerFE/usefulmods/blob/main/BugFixes118.md) | Fabric & Forge |
+| [1.17.x](https://github.com/NordicGamerFE/usefulmods/blob/main/BugFixes117.md) (Coming Soon) | Fabric & Forge |
+| [1.16.x](https://github.com/NordicGamerFE/usefulmods/blob/main/BugFixes116.md) (Coming Soon) | Fabric & Forge |
+| [1.15.x](https://github.com/NordicGamerFE/usefulmods/blob/main/BugFixes115.md) (Coming Soon) | Forge |
+| [1.12.x](https://github.com/NordicGamerFE/usefulmods/blob/main/BugFixes112.md) (Coming Soon) | Forge |
+| [1.8.9 and Below](https://github.com/NordicGamerFE/usefulmods/blob/main/BugFixesOld.md) (Coming Soon) | Forge |
 
 ## Software that is Handy, Fixes stuff, Enhance performance and other
 
 | Theme |
 | --- |
-| [Launchers](https://github.com/NordicGamerFE/usefulmods/tree/softlaunchers) |
-| [Bukkit, Spigot & ETC](https://github.com/NordicGamerFE/usefulmods/tree/softbukkitetc) |
-| [Graphical](https://github.com/NordicGamerFE/usefulmods/tree/softgraphical) |
-| [World Management](https://github.com/NordicGamerFE/usefulmods/tree/softworld) |
-| [Server Management](https://github.com/NordicGamerFE/usefulmods/tree/main) (Coming soon) |
+| [Launchers](https://github.com/NordicGamerFE/usefulmods/blob/main/SoftwareLaunchers.md) |
+| [Bukkit, Spigot & ETC](https://github.com/NordicGamerFE/usefulmods/blob/main/SoftwareBukkitSpigotETC.md) |
+| [Graphical](https://github.com/NordicGamerFE/usefulmods/blob/main/SoftwareGraphical.md) |
+| [World Management](https://github.com/NordicGamerFE/usefulmods/blob/main/SoftwareWorldManagement.md) |
+| [Server Management](https://github.com/NordicGamerFE/usefulmods/blob/main/SoftwareServerManagement.md) (Coming soon) |
 
 ## Threat level
 
