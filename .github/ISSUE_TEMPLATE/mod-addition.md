@@ -1,6 +1,6 @@
 ---
 name: Mod Addition
-about: Describe this issue template's purpose here.
+about: For suggesting the addition of a mod.
 title: "[Addition]"
 labels: Addition
 assignees: ''
