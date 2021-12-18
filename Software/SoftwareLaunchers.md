@@ -1,0 +1,23 @@
+# Launchers
+A list of launchers that can be used to play Minecraft (Mostly focused on modded)
+
+Any suggestions/complaints?<br>
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
+
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+
+## Launchers
+
+| Name | Supported Loaders | Supported Versions | Description | Score |
+| --- | :---: | :---: | :---: | :---: | 
+| [Curseforge](https://www.curseforge.com) | Fabric & Forge | Releases | Curseforge is the most used launcher when it comes to playing modded with a big list of modpacks and mods and a easy way to make modpacks yourself. | 7/10 |
+| [ATLauncher](https://atlauncher.com) | Fabric & Forge | All | ATLauncher has loads of unique modpack and also list modpacks from Curseforge, FTB and Technic. ATLauncher also lets you make your own modpacks. | 7/10 |
+| [GDLauncher](https://gdevs.io) | Fabric & Forge | All | GDLauncher is a clean and easy to use launcher with selection of modpacks from Curseforge and FTB. GDLauncher also lets you make modpacks with easy access to all curseforge mods via the launcher. | 9/10 |
+| [Technic Launcher](https://www.technicpack.net/download) | Unknown | Unknown | Technic has a wide selection of offical and community modpacks a great launcher for someone who wants to try something new or old. | 4/10
+| [FTB Launcher](https://www.feed-the-beast.com/app) | Fabric & Forge | Unknown | FTB Launcher is where you will find all the new FTB modpacks, FTB Launcher also has support for Curseforge modpacks and instance editing. | 5/10 |
+| [VoidsWrath](http://test.voidswrath.com/voidlauncher/) | Inapplicable | Inapplicable | VoidsWrath Launcher has a couple of unique modpacks. | 2/10 |
+| [MultiMC](https://multimc.org) | Fabric, Forge & Liteloader | All | MultiMC is a free, open source launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface. MultiMC Also has Support for Curseforge, ATLauncher, FTB and Technic modpacks. | 8/10 |
+| [Lunar Client](https://www.lunarclient.com) | None | Releases | Lunar is a client ment to be used with vanilla that improve frames and add many cool features to the game and ofc twerking. | 8/10 |
+| [Badlion Client](https://client.badlion.net) | None | Releases | Badlion is a client ment to be used with vanilla that improve frames and add many cool features. | 9/10 |
+
+[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
