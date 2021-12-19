@@ -1,0 +1,64 @@
+---
+name: Software Addition
+about: For suggesting the addition of a software
+title: "[Software Addition]"
+labels: Addition Software
+assignees: ''
+
+---
+
+Software name:
+
+Software links:
+
+Works on what systems:
+
+The reasoning for Inclusion:
+
+Other information:
+
+name: Software Addition
+description: Suggest the addition of a piece of software to the list!
+title: "[Software Addition]"
+labels: Addition Software
+body:
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Issue will be closed if incomplete.
+      options:
+        - label: I've checked that my software suggestion hasn't already been added to one of the lists.
+          required: true
+        - label: I've checked the latest issues to make sure that this software hasn't already been suggested.
+          required: true
+  - type: input
+    attributes:
+      label: What is your software's name?
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: What systems do you know your software works on?
+      options:
+        - Windows 11
+        - Windows 10
+        - Windows 8/8.1
+        - Windows 7
+        - Windows XP or earlier
+        - MacOS
+        - Linux
+        - Other
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Input a link to your suggested software.
+    validations:
+      required: true
+  - type: text
+    attributes:
+      label: What is your reasoning for including this software?
+  - type: input
+    attributes:
+      label: (OPTIONAL) Give some extra information about the software.
+
