@@ -14,8 +14,7 @@ Follow this guide to fix it [Link](https://www.creeperhost.net/wiki/books/minecr
 everything that is under consideration to be added is found [HERE](https://docs.google.com/document/d/127YtDboB7mQIH3SK8jd4d3_I7ur0LPHT46l9I1zRrwA/edit?usp=sharing)<br>
 Keep in mind everything in the dokument above is not checked for harmful software or mods so download at your own caution
 
-## Version List, Performance Mods
-
+## Version List - Performance Mods
 | Version | Loaders |
 | --- | :---: |
 | [1.18.x](Performance/Performance118.md) | Fabric & Forge |
@@ -25,18 +24,18 @@ Keep in mind everything in the dokument above is not checked for harmful softwar
 | [1.12.x](Performance/Performance112.md) | Forge |
 | [1.8.9 and Below](Performance/PerformanceOld.md) | Forge |
 
-## Version List, Bugfix Mods
+## Version List - Bugfixing Mods
 
 | Version | Loaders |
 | --- | :---: |
 | [1.18.x](BugFixes/BugFixes118.md) | Fabric & Forge |
-| [1.17.x](BugFixes/BugFixes117.md) (Coming Soon) | Fabric & Forge |
-| [1.16.x](BugFixes/BugFixes116.md) (Coming Soon) | Fabric & Forge |
-| [1.15.x](BugFixes/BugFixes115.md) (Coming Soon) | Forge |
-| [1.12.x](BugFixes/BugFixes112.md) (Coming Soon) | Forge |
-| [1.8.9 and Below](BugFixes/BugFixesOld.md) (Coming Soon) | Forge |
+| [1.17.x](BugFixes/BugFixes117.md) (WIP) | Fabric & Forge |
+| [1.16.x](BugFixes/BugFixes116.md) (WIP) | Fabric & Forge |
+| [1.15.x](BugFixes/BugFixes115.md) (WIP) | Forge |
+| [1.12.x](BugFixes/BugFixes112.md) (WIP) | Forge |
+| [1.8.9 and below](BugFixes/BugFixesOld.md) (WIP) | Forge |
 
-## Software that is Handy, Fixes stuff, Enhance performance and other
+## External Software (is handy, fixes bugs, enhances performance, and others)
 
 | Theme |
 | --- |
@@ -46,13 +45,9 @@ Keep in mind everything in the dokument above is not checked for harmful softwar
 | [World Management](Software/SoftwareWorldManagement.md) |
 | [Server Management](Software/SoftwareServerManagement.md) (Coming soon) |
 
-## Threat level
+## Threat Levels
 
-| Description |
-| --- |
-| Used beside lables for a clearer understanding |
-
-## Threat level
+Threat levels are used alongside labels for a clearer understanding of the mod's danger.
 
 | Level | Meaning |
 | --- | :---: |
@@ -61,34 +56,30 @@ Keep in mind everything in the dokument above is not checked for harmful softwar
 | 3 | Medium chance to affect user |
 | 4 | Medium to high chance to affect user |
 | 5 | High chance to affect user |
-| 6 | Extremly high chance to affect user |
+| 6 | Very high chance to affect user |
 | 7 | Will affect user |
 
-## Lables
+## Labels
 
-| Description |
-| --- |
-| Lables are used to give you a better understanding how a mod might act |
-
-## Lables
+Labels are used to give you a better understanding of how a mod may act.
 
 | Name | Meaning |
 | --- | :---: |
-| Alpha | Mod is in alpha and therefor might be unstable |
-| Unstable | Mod is unstable |
-| Corruption | Mod has a chance to corrupt save files |
-| Incompatible | Mod is incompatible with other mods |
-| Buggy | Mod is buggy |
-| Reverse features | Mod takes away features for sake of performance or bugfixes |
-| Configuration needed | Mod needs to be configured to work like intended or at its best |
+| Alpha | Mod is in alpha and therefore might be unstable. |
+| Unstable | Mod is unstable and may act unpredictably. |
+| Corruption | Mod has a chance to corrupt save files. |
+| Incompatible | Mod is incompatible with some mods. |
+| Buggy | Mod is buggy. |
+| Reverse Features | Mod takes away features for sake of performance or bugfixes. |
+| Configuration Needed | Mod needs to be configured to act at its best. |
 
 ## Extra Information
-You might find small numbers around the gist that look like this(¹,²,³,⁴,⁵,⁶) these are used to tell extra information
+You might find small numbers around the gist that look like this(¹,²,³,⁴,⁵,⁶) these are used to tell extra information.
 &nbsp;
 
-###### ¹ Should work if [Mixin-0-7-0-8-Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility) is applied. 
-###### ² Cull Particles isn't needed anymore in newer Forge versions, it was implemented in forge.
+###### ¹ The mod hould work if [Mixin-0-7-0-8-Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility) is applied. 
+###### ² Cull Particles isn't needed anymore in newer Forge versions, as it was implemented in Forge.
 ###### ³ Do not blame me if you didn't read this notice, *if you try to load a older world in a newer instance of the game, and you have one of these mods installed, bad things will happen*, uninstall the mod first.
 ###### ⁴ Some of the mods that have Sodium as an incompatibility, might work if you use [Indium](https://modrinth.com/mod/indium)
 ###### ⁵ AI Improvements newer versions (1.14+) don't have as much impact as the older versions have, since in newer versions of Minecraft, a lot of fixes to the AI are implemented [Sources: Curseforge page FAQ, [Dev](https://media.discordapp.net/attachments/254806806516203520/831525756143534150/unknown.png)]
-###### ⁶ Halogen has issues with forge's ExplosionEvent, see [sodium-forge#33](https://github.com/spoorn/sodium-forge/issues/33).
+###### ⁶ Halogen has issues with Forge's ExplosionEvent, see [sodium-forge#33](https://github.com/spoorn/sodium-forge/issues/33).
