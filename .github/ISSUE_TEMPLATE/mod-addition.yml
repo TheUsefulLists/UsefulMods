@@ -1,0 +1,35 @@
+name: Mod Addition
+about: Suggest the addition of a mod to the list!
+title: "[Addition]"
+labels: Addition
+body:
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Issue will be closed if incomplete.
+      options:
+        - label: I've checked that my mod suggestion hasn't already been added to one of the lists.
+          required: true
+        - label: I've checked the latest issues to make sure that this mod hasn't already been suggested.
+          required: true
+  - type: textarea
+    attributes:
+      label: What is your mod's name?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What is your mod's version?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Input a link to your suggested mod. Make sure isn't hosted on a site listed on (StopModReposts)[https://stopmodreposts.org/sites.html].
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What is your reasoning for including this mod?
+  - type: textarea
+    attributes:
+      label: (OPTIONAL) Give some extra information about the mod.
