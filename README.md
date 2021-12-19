@@ -33,7 +33,7 @@ Keep in mind that nothing in the document is screened for harmful code (or malwa
 | [1.12.x](BugFixes/BugFixes112.md) | Yes | Forge |
 | [1.8.9 and below](BugFixes/BugFixesOld.md) | Yes | Forge |
 
-## External Software (handy, fixes bugs, or enhances performance, alongside others)
+## External Software
 | Theme |
 | ----- |
 | [Launchers](Software/SoftwareLaunchers.md) |
