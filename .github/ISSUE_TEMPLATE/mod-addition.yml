@@ -32,7 +32,7 @@ body:
       required: true
   - type: input
     attributes:
-      label: Input a link to your suggested mod. Make sure isn't hosted on a site listed on StopModReposts.
+      label: Input a link to your suggested mod. Make sure it isn't hosted on a site listed on StopModReposts.
     validations:
       required: true
   - type: input
