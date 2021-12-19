@@ -12,24 +12,32 @@ body:
           required: true
         - label: I've checked the latest issues to make sure that this mod hasn't already been suggested.
           required: true
-  - type: textarea
+  - type: input
     attributes:
       label: What is your mod's name?
     validations:
       required: true
-  - type: textarea
+  - type: dropdown
     attributes:
       label: What is your mod's version?
+    options:
+      - 1.8.X or earlier
+      - 1.12.X
+      - 1.15.X
+      - 1.16.X
+      - 1.17.X
+      - 1.18.X
+      - Other
     validations:
       required: true
-  - type: textarea
+  - type: input
     attributes:
       label: Input a link to your suggested mod. Make sure isn't hosted on a site listed on StopModReposts.
     validations:
       required: true
-  - type: textarea
+  - type: input
     attributes:
       label: What is your reasoning for including this mod?
-  - type: textarea
+  - type: input
     attributes:
       label: (OPTIONAL) Give some extra information about the mod.
