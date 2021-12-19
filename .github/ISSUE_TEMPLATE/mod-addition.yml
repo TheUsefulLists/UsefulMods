@@ -24,7 +24,7 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Input a link to your suggested mod. Make sure isn't hosted on a site listed on (StopModReposts)[https://stopmodreposts.org/sites.html].
+      label: Input a link to your suggested mod. Make sure isn't hosted on a site listed on StopModReposts.
     validations:
       required: true
   - type: textarea
