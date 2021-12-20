@@ -37,7 +37,7 @@ Keep in mind that nothing in the document is screened for harmful code (or malwa
 | Theme |
 | ----- |
 | [Launchers](Software/SoftwareLaunchers.md) |
-| [Bukkit, Spigot & ETC](Software/SoftwareBukkitSpigotETC.md) |
+| [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) |
 | [Graphical](Software/SoftwareGraphical.md) |
 | [World Management](Software/SoftwareWorldManagement.md) |
 | [Server Management](Software/SoftwareServerManagement.md) |
