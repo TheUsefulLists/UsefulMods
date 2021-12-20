@@ -29,8 +29,6 @@ body:
         - label: MacOS
         - label: Linux
         - label: Other
-    validations:
-      required: true
   - type: input
     attributes:
       label: Input a link to your suggested software.
