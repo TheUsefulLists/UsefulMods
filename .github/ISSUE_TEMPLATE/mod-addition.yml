@@ -19,7 +19,7 @@ body:
       required: true
   - type: dropdown
     attributes:
-      label: What is your mod's version?
+      label: What is your mod's main version?
       options:
         - 1.8.X or earlier
         - 1.12.X
@@ -27,6 +27,15 @@ body:
         - 1.16.X
         - 1.17.X
         - 1.18.X
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: What is your mod's main version?
+      options:
+        - Forge
+        - Fabric
         - Other
     validations:
       required: true
