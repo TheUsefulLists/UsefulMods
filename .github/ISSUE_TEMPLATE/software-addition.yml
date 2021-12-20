@@ -20,15 +20,15 @@ body:
   - type: checkboxes
     attributes:
       label: What systems do you know your software works on?
-      hash:
-        - Windows 11
-        - Windows 10
-        - Windows 8/8.1
-        - Windows 7
-        - Windows XP or earlier
-        - MacOS
-        - Linux
-        - Other
+      options:
+        - label: Windows 11
+        - label: Windows 10
+        - label: Windows 8/8.1
+        - label: Windows 7
+        - label: Windows XP or earlier
+        - label: MacOS
+        - label: Linux
+        - label: Other
     validations:
       required: true
   - type: input
