@@ -36,7 +36,7 @@ body:
       label: Input a link to your suggested software.
     validations:
       required: true
-  - type: text
+  - type: textarea
     attributes:
       label: What is your reasoning for including this software?
   - type: input
