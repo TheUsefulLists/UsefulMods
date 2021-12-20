@@ -23,20 +23,17 @@ body:
       options:
         - 1.8.X or earlier
         - 1.12.X
-        - 1.15.X
-        - 1.16.X
-        - 1.17.X
-        - 1.18.X
-        - Other
-    validations:
-      required: true
-  - type: dropdown
-    attributes:
-      label: What is your mod's main version?
-      options:
-        - Forge
-        - Fabric
-        - Other
+        - 1.15.X (Forge)
+        - 1.15.X (Fabric)
+        - 1.16.X (Forge)
+        - 1.16.X (Fabric)
+        - 1.17.X (Forge)
+        - 1.17.X (Fabric)
+        - 1.18.X (Forge)
+        - 1.18.X (Fabric)
+        - Other (Forge)
+        - Other (Fabric)
+        - Other (Other)
     validations:
       required: true
   - type: input
