@@ -31,38 +31,26 @@ body:
       options:
         - label: I've checked the latest issues to make sure that this hasn't already been suggested.
           required: true
+  - type: input
+    attributes:
+      label: Please describe the problem.
+      description: A clear and concise description of what the problem is.
+      value: I'm always frustrated when...
+    validations:
+      required: true
   - type: textarea
     attributes:
-      label: What is your mod's name?
+      label: Describe the solution you'd like.
+      description: A clear and concise description of what you want to happen.
     validations:
       required: true
-  - type: dropdown
+  - type: textarea
     attributes:
-      label: What is your mod's main version?
-      options:
-        - 1.8.X or earlier
-        - 1.12.X
-        - 1.15.X (Forge)
-        - 1.15.X (Fabric)
-        - 1.16.X (Forge)
-        - 1.16.X (Fabric)
-        - 1.17.X (Forge)
-        - 1.17.X (Fabric)
-        - 1.18.X (Forge)
-        - 1.18.X (Fabric)
-        - Other (Forge)
-        - Other (Fabric)
-        - Other (Other)
+      label: Describe alternatives you've considered.
+      description: A clear and concise description of any alternative solutions or features you've considered.
     validations:
       required: true
-  - type: input
+  - type: textarea
     attributes:
-      label: Input a link to your suggested mod. Make sure it isn't hosted on a site listed on StopModReposts.
-    validations:
-      required: true
-  - type: input
-    attributes:
-      label: What is your reasoning for including this mod?
-  - type: input
-    attributes:
-      label: (OPTIONAL) Give some extra information about the mod.
+      label: Additional context.
+      description: Keep in mind that you can still insert screenshots below.
