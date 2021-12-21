@@ -35,11 +35,11 @@ Keep in mind that nothing in the document is screened for harmful code (or malwa
 
 ## External Software
 | Theme |
-| ----- |
+| :---: |
 | [Launchers](Software/SoftwareLaunchers.md) |
 | [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) |
 | [Graphical](Software/SoftwareGraphical.md) |
-| [World Management](Software/SoftwareWorldManagement.md) |
+| [World Management](Software/SoftwareWorldManagement.md) (WIP) |
 | [Server Management](Software/SoftwareServerManagement.md) |
 
 ## Threat Levels
