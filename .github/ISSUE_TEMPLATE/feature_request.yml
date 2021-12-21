@@ -1,7 +1,6 @@
 name: Feature Request
 description: Suggest the addition of a mod to the list!
 title: "[Feature Request]"
-labels: ""
 body:
   - type: checkboxes
     attributes:
