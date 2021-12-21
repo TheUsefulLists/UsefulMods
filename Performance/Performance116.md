@@ -12,7 +12,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
-| [Angerable Patch](https://www.curseforge.com/minecraft/mc-mods/angerable-patch) | Unknown | Fixes MC-192362 / MC-189565, which causes drastically large log file sizes and lag | Client | Draylar |
+| [Angerable Patch](https://www.curseforge.com/minecraft/mc-mods/angerable-patch) | Unknown | Fixes MC-192362 / MC-189565, which causes drastically large log file sizes and lag | Draylar | Client
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Motschen | Client |
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | Sodium | Better Biome Blend is a mod  which accelerates the biome color blending algorithm. | FionaTheMortal | Client | 
 | [C2ME](https://github.com/YatopiaMC/C2ME-fabric/releases) (***DANGEROUS***) | Tic-Tacs, + | A Fabric mod designed to improve the chunk performance of Minecraft. | YatopiaMC | Server |
