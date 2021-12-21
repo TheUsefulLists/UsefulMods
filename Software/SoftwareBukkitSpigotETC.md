@@ -1,5 +1,5 @@
 # Bukkit, Spigot & ETC
-A list of Bukkit, Spigot & ETC loaders
+A list of Bukkit, Spigot, and other loaders
 
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
