@@ -33,7 +33,6 @@ body:
         - 1.18.X (Fabric)
         - Other (Forge)
         - Other (Fabric)
-        - Other (Other)
     validations:
       required: true
   - type: input
@@ -41,9 +40,9 @@ body:
       label: Input a link to your suggested mod. Make sure it isn't hosted on a site listed on StopModReposts.
     validations:
       required: true
-  - type: input
+  - type: textarea
     attributes:
       label: What is your reasoning for including this mod?
-  - type: input
+  - type: textarea
     attributes:
       label: (OPTIONAL) Give some extra information about the mod.
