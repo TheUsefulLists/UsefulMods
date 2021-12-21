@@ -69,7 +69,7 @@ Labels are used to give you a better understanding of how a mod may act.
 | Configuration Needed | Mod needs to be configured to act at its best. |
 
 ## Extra Information
-You might find small numbers around the gist that look like this(¹,²,³,⁴,⁵,⁶) these are used to tell extra information.
+You might find some superscripted numbers around the repository. These are used to tell extra information about the mods that labels and danger levels do not apply to.
 &nbsp;
 
 ###### ¹ The mod should work if [Mixin-0-7-0-8-Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility) is applied. 
