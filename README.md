@@ -39,8 +39,8 @@ Keep in mind that nothing in the document is screened for harmful code (or malwa
 | [Launchers](Software/SoftwareLaunchers.md) |
 | [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) |
 | [Graphical](Software/SoftwareGraphical.md) |
-| [World Management](Software/SoftwareWorldManagement.md) (WIP) |
-| [Server Management](Software/SoftwareServerManagement.md) |
+| [World Management](Software/SoftwareWorldManagement.md) |
+| [Server Management](Software/SoftwareServerManagement.md) (WIP) |
 
 ## Threat Levels
 Threat levels are used alongside labels for a clearer understanding of the mod's danger.
