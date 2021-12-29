@@ -52,7 +52,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | Unknown | This mod reduces the memory usage of Minecraft in a few different ways | malte0811 | Both |
-| [Starlight](https://github.com/PaperMC/Starlight/releases) | Create | Mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both |
+| [Starlight x Create](https://www.curseforge.com/minecraft/mc-mods/starlight-x-create) | Unknown | Mod for completely rewriting the vanilla light engine. | Spottedleaf(PaperMC), Create Patch by: AeiouEnigma, Curseforge Upload and 1.16 Maintained by SirOMGitsYOU | Both |
 | [DataFixerSlayer](https://www.curseforge.com/minecraft/mc-mods/datafixerslayer) (Dangerous[³](https://github.com/NordicGamerFE/usefulmods/tree/main#-do-not-blame-me-if-you-didnt-read-this-notice-if-you-try-to-load-a-older-world-in-a-newer-instance-of-the-game-and-you-have-one-of-these-mods-installed-bad-things-will-happen-uninstall-the-mod-first)) | Any other mod that also removes DFU | DataFixerSlayer prevents the DataFixerUpper (DFU) system from loading | Vazkii | Both |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) | Mods that remove the DFU | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | Corgi_Taco | Both |
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge) | Unknown | Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems | UltimateBoomer | Both |
