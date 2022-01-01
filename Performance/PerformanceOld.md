@@ -13,7 +13,6 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | --- | :---: | :---: | :---: | :---: |
 | [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) | None | BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods. | Guichaguri | Both |
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. | asiekierka | Both |
-| [Legacy VanillaFix](https://modrinth.com/mod/legacyvanillafix) | Unknown | Legacy VanillaFix is a mod that fixes bugs and annoyances in vanilla Minecraft. | piper742 | Both |
 | [Patcher](https://sk1er.club/mods/patcher) | None | Patcher is a 1.8.9 Forge mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements, and tons of Vanilla bug fixes. | Sk1er | Client | 
 
 
