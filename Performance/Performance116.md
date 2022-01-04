@@ -79,6 +79,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-forge) | Unknown | Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems | UltimateBoomer | Both |
 | [Spawner Bug Fix](https://www.curseforge.com/minecraft/mc-mods/spawner-fix) | Unknown | This addresses a bug which causes lag in mods that create custom spawners. | Lupicus | Client |
 | [Starlight](https://github.com/PaperMC/Starlight/releases) | Create | Mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both |
+| [Starlight x Create](https://www.curseforge.com/minecraft/mc-mods/starlight-x-create) | Unknown | Mod for completely rewriting the vanilla light engine. | Spottedleaf(PaperMC), Create Patch by: AeiouEnigma, Curseforge Upload and 1.16 Maintained by SirOMGitsYOU | Both |
 | [~~⠀⠀Cull Particles⠀⠀~~](https://www.toptal.com/developers/hastebin/ativisulut.sql)[²](https://github.com/NordicGamerFE/usefulmods/tree/main#-cull-particles-isnt-needed-anymore-in-newer-forge-versions-it-was-implemented-in-forge)| None | This mod increases fps by not rendering particles that the player can't see | tfarecnim | Client |
 
 
