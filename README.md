@@ -54,6 +54,7 @@ Threat levels are used alongside labels for a clearer understanding of the mod's
 | 5 | High chance to affect user |
 | 6 | Very high chance to affect user |
 | 7 | Will affect user |
+| ? | Level of threat is unknown |
 
 ## Labels
 Labels are used to give you a better understanding of how a mod may act.
