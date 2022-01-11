@@ -6,9 +6,6 @@ A list of useful mods for most commonly-played versions.<br>
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull request fixing it!)
 
-## NOTICE - Security vulnerability with 1.8 through 1.18
-Read about the [Security Vulnerability information](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition), and follow [this guide](https://www.creeperhost.net/wiki/books/minecraft-java-edition/page/mitigating-cve-2021-44228-in-minecraft) to fix it.
-
 ## Mods Under Consideration
 Everything that is under consideration to be added is found [here](https://docs.google.com/document/d/127YtDboB7mQIH3SK8jd4d3_I7ur0LPHT46l9I1zRrwA/edit?usp=sharing).<br>
 Keep in mind that nothing in the document is screened for harmful code (or malware). Download at your own caution.
@@ -42,20 +39,6 @@ Keep in mind that nothing in the document is screened for harmful code (or malwa
 | [World Management](Software/SoftwareWorldManagement.md) |
 | [Server Management](Software/SoftwareServerManagement.md) (WIP) |
 
-## Threat Levels
-Threat levels are used alongside labels for a clearer understanding of the mod's danger.
-
-| Level | Meaning |
-| :---: | :-----: |
-| 1 | Low chance to affect user |
-| 2 | Low to medium chance to affect user |
-| 3 | Medium chance to affect user |
-| 4 | Medium to high chance to affect user |
-| 5 | High chance to affect user |
-| 6 | Very high chance to affect user |
-| 7 | Will affect user |
-| ? | Level of threat is unknown |
-
 ## Labels
 Labels are used to give you a better understanding of how a mod may act.
 
@@ -68,6 +51,20 @@ Labels are used to give you a better understanding of how a mod may act.
 | Buggy | Mod is buggy. |
 | Reverse Features | Mod takes away features for sake of performance or bugfixes. |
 | Configuration Needed | Mod needs to be configured to act at its best. |
+
+## Severity Level
+Severity Level is used alongside labels for a clearer understanding of how severe the issue is.
+
+| Level | Meaning |
+| :---: | :-----: |
+| 1 | Low chance to affect user |
+| 2 | Low to medium chance to affect user |
+| 3 | Medium chance to affect user |
+| 4 | Medium to high chance to affect user |
+| 5 | High chance to affect user |
+| 6 | Very high chance to affect user |
+| 7 | Will affect user |
+| ? | Level of threat is unknown |
 
 ## Extra Information
 You might find some superscripted numbers around the repository. These are used to tell extra information about the mods that labels and danger levels do not apply to.
