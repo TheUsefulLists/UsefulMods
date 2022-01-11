@@ -53,7 +53,7 @@ Labels are used to give you a better understanding of how a mod may act.
 | Configuration Needed | Mod needs to be configured to act at its best. |
 
 ## Severity Level
-Severity Level is used alongside labels for a clearer understanding of the mod's danger.
+Severity Level is used alongside labels for a clearer understanding of how severe the issue is.
 
 | Level | Meaning |
 | :---: | :-----: |
