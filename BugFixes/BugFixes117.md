@@ -1,4 +1,4 @@
-# Bugfixing Mods (WIP)
+# Bugfixing Mods
 A list of bugfix mods for 1.17.x forge/fabric versions.
 
 Any suggestions/complaints?<br>
