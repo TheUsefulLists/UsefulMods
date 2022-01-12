@@ -30,5 +30,6 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
 | [Legacy VanillaFix](https://modrinth.com/mod/legacyvanillafix) | Unknown | Legacy VanillaFix is a mod that fixes bugs and annoyances in vanilla Minecraft. | piper742 | Both |
+| [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Both |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
