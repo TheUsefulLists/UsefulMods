@@ -8,10 +8,11 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
 
-## Fabric 1.16+
+## Fabric 1.16.X
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
+| [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server |
 | [Angerable Patch](https://www.curseforge.com/minecraft/mc-mods/angerable-patch) | Unknown | Fixes MC-192362 / MC-189565, which causes drastically large log file sizes and lag | Draylar | Client
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Motschen | Client |
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | Sodium | Better Biome Blend is a mod  which accelerates the biome color blending algorithm. | FionaTheMortal | Client | 
@@ -46,8 +47,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [VanillaFix](https://github.com/DimensionalDevelopment/VanillaFix/releases) | Unknown | Bug fixes and optimizations for Minecraft | BoogieMonster1O1 (Dimensional Development) | Both |
 
 
-
-## Forge 1.16+
+## Forge 1.16.X
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |

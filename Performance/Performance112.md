@@ -8,7 +8,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
 
-## Forge 1.12.2
+## Forge 1.12.X
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
@@ -32,5 +32,11 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix) | **FoamFix-Anarchy**, MCPatcher | TexFix optimizes the loading of textures of other mods | Speiger | Client |
 | [Tiquality](https://www.curseforge.com/minecraft/mc-mods/tiquality) | Unknown | Limiting a player's tick time in the world to evenly distribute time. | Terminator_NL | Server |
 | [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix) | Mods using outdated mixin versions[¹](https://github.com/NordicGamerFE/usefulmods/tree/main#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | VanillaFix is a mod that improves performance and fixes bugs and annoyances in vanilla Minecraft | Runemoro (Dimensional Development) | Both |
+
+## Legacy Fabric 1.12.X
+
+| Name | Known Incompatibilities | Description | Author | Performance Improvement |
+| --- | :---: | :---: | :---: | :---: |
+| [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
