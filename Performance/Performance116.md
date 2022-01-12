@@ -8,7 +8,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
 
-## Fabric 1.16+
+## Fabric 1.16.X
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
@@ -47,8 +47,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [VanillaFix](https://github.com/DimensionalDevelopment/VanillaFix/releases) | Unknown | Bug fixes and optimizations for Minecraft | BoogieMonster1O1 (Dimensional Development) | Both |
 
 
-
-## Forge 1.16+
+## Forge 1.16.X
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
