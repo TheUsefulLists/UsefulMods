@@ -8,6 +8,12 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
 
+## Fabric 1.15.x
+
+| Name | Known Incompatibilities | Description | Author | Performance Improvement |
+| --- | :---: | :---: | :---: | :---: |
+| [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server |
+
 ## Forge 1.15.x
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
@@ -23,11 +29,5 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Out of Sight](https://www.curseforge.com/minecraft/mc-mods/out-of-sight) | Unknown | Out of Sight simply stops modded tile entities from rendering if they are further than 24 blocks away | Corosus | Client |
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) | Unknown | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | None | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas, the lighting engine | jellysquid_ | Both |
-
-## Fabric 1.15.x
-
-| Name | Known Incompatibilities | Description | Author | Performance Improvement |
-| --- | :---: | :---: | :---: | :---: |
-| [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
