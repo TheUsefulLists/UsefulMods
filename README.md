@@ -24,7 +24,7 @@ Keep in mind that nothing in the document is screened for harmful code (or malwa
 | Version | WIP? | Loaders |
 | :-----: | :--: | :-----: |
 | [1.18.x](BugFixes/BugFixes118.md) | No | Fabric & Forge |
-| [1.17.x](BugFixes/BugFixes117.md) | Yes | Fabric & Forge |
+| [1.17.x](BugFixes/BugFixes117.md) | No | Fabric & Forge |
 | [1.16.x](BugFixes/BugFixes116.md) | Yes | Fabric & Forge |
 | [1.15.x](BugFixes/BugFixes115.md) | Yes | Forge |
 | [1.12.x](BugFixes/BugFixes112.md) | Yes | Forge |
