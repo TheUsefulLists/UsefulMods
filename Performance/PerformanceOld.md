@@ -7,7 +7,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
 
-## Forge 1.8.9
+## Forge 1.8
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
@@ -15,7 +15,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. | asiekierka | Both |
 | [Patcher](https://sk1er.club/mods/patcher) | None | Patcher is a 1.8.9 Forge mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements, and tons of Vanilla bug fixes. | Sk1er | Client | 
 
-## Forge 1.7.10
+## Forge 1.7
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
@@ -25,14 +25,14 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. | asiekierka | Both |
 | [Squidless](https://www.curseforge.com/minecraft/mc-mods/squidless) | Unknown | Prevents squids spawning in regions where they would instantly despawn | hilburn | Server |
 
-## Legacy Fabric 1.8.9
+## Legacy Fabric 1.8
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
 | [Legacy VanillaFix](https://modrinth.com/mod/legacyvanillafix) | Unknown | Legacy VanillaFix is a mod that fixes bugs and annoyances in vanilla Minecraft. | piper742 | Both |
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Both |
 
-## Legacy Fabric 1.7.10
+## Legacy Fabric 1.7
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
