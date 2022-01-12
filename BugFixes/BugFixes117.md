@@ -17,17 +17,15 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric) | Unknown | Ever played on a multiplayer server, built near other players and when returning from the Nether, surprisingly found yourself in another player's base? It's because of the 8:1 block ratio between the Nether and the Overworld. It's really weird though that you enter a portal in the overworld, and then when going back through where you came, come out of a different portal in the overworld. This mod fixes that issue. | BlayTheNinth | Server |
 | [Night Vision flash be gone](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) <br>(use 1.18 version) | Unknown | Fixes night vision flashing | AshIndigo | Client |
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire) <br>(use 1.18 version) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both |
-<!--
 | [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Have you been trying to pre-generate large areas of your world with pregenerator mods and keep randomly crashing with this error?<br><br> If so, congrats! You found a really wacky bug in 1.18 Minecraft! This mod aims to fix that.  | telepathicgrunt | Server |
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes https://bugs.mojang.com/browse/MC-185901 by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both |
--->
+
 
 #### Notes
 * Mods marked as "*use 1.18 version*" also work on 1.17.x , despite having only 1.16 and 1.18 releases in curseforge, no workarounds needed : install them like any other mods and your fabric loader won't complain about missing dependencies
 * Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
 
-<!--
 ## Forge 1.17.X
 
 | Name | Known Incompatibilities | Description | Author | bugfix Improvement |
