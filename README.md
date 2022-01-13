@@ -16,9 +16,9 @@ Keep in mind that nothing in the document is screened for harmful code (or malwa
 | [1.18.x](Performance/Performance118.md) | Fabric & Forge |
 | [1.17.x](Performance/Performance117.md) | Fabric & Forge |
 | [1.16.x](Performance/Performance116.md) | Fabric & Forge |
-| [1.15.x](Performance/Performance115.md) | Forge |
-| [1.12.x](Performance/Performance112.md) | Forge |
-| [1.8.9 and below](Performance/PerformanceOld.md) | Forge |
+| [1.15.x](Performance/Performance115.md) | Fabric & Forge |
+| [1.12.x](Performance/Performance112.md) | Forge & Legacy Fabric |
+| [1.8.9 and below](Performance/PerformanceOld.md) | Forge & Legacy Fabric |
 
 ## Version List - Bugfixing Mods
 | Version | WIP? | Loaders |
