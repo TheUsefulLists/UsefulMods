@@ -76,3 +76,4 @@ You might find some superscripted numbers around the repository. These are used 
 ###### ⁴ Some of the mods that have Sodium as an incompatibility, might work if you use [Indium](https://modrinth.com/mod/indium).
 ###### ⁵ AI Improvements newer versions (1.14+) don't have as much impact as the older versions have, since in newer versions of Minecraft, a lot of fixes to the AI are implemented ([Sources: Curseforge page FAQ, [Dev](https://media.discordapp.net/attachments/254806806516203520/831525756143534150/unknown.png)]).
 ###### ⁶ Halogen has issues with Forge's ExplosionEvent, see [sodium-forge#33](https://github.com/spoorn/sodium-forge/issues/33).
+###### ⁷ These mods also work on 1.17.x , despite having only 1.16 and 1.18 releases in curseforge, no workarounds needed. Install them like any other mods and your fabric loader won't complain about missing dependencies.
