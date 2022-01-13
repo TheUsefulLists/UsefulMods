@@ -10,7 +10,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing |
 | --- | :---: | :---: | :---: | :---: |
-| [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) <br>(use 1.18 version) | Unknown | Rrewrites one function of the advancements logic to make advancements checking faster, and use less recursion. | thetechnici4n | Client |
+| [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) <br>(use 1.18 version) | Unknown | Rewrites one function of the advancements logic to make advancements checking faster, and use less recursion. | thetechnici4n | Client |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client |
 | [Carpet Fixes](https://www.curseforge.com/minecraft/mc-mods/carpet-fixes) | Unknown | Fabric Carpet extension mod which attempts to fix as many vanilla Minecraft bugs as possible | FX_PR0CESS | Server |
 | [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client |
