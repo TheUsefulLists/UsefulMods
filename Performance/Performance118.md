@@ -8,7 +8,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 ## Fabric 1.18.X
 
-| Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](https://github.com/NordicGamerFE/usefulmods/tree/main#threat-level) |
+| Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](https://github.com/NordicGamerFE/usefulmods/tree/main#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation | Space Walker | Server | none | 
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Motschen | Client | none | 
@@ -43,7 +43,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 ## Forge 1.18.X
 
-| Name | Known Incompatibilities | Description | Author | Performance Improvement | Label |
+| Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](https://github.com/NordicGamerFE/usefulmods/tree/main#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)[⁵](https://github.com/NordicGamerFE/usefulmods/tree/main#-ai-improvements-newer-versions-114-dont-have-as-much-impact-as-the-older-versions-have-since-in-newer-versions-of-minecraft-a-lot-of-fixes-to-the-ai-are-implemented-sources-curseforge-page-faq-dev) | None | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game | QueenOfMissiles | Server | none | 
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server | none |
