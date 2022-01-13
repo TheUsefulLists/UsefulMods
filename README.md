@@ -37,7 +37,7 @@ Keep in mind that nothing in the document is screened for harmful code (or malwa
 | [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) |
 | [Graphical](Software/SoftwareGraphical.md) |
 | [World Management](Software/SoftwareWorldManagement.md) |
-| [Server Management](Software/SoftwareServerManagement.md) (WIP) |
+| [Server Management](Software/SoftwareServerManagement.md) |
 
 ## Labels
 Labels are used to give you a better understanding of how a mod may act.
