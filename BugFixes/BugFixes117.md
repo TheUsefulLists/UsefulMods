@@ -30,7 +30,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 ## Forge 1.17.X
 
-| Name | Known Incompatibilities | Description | Author | bugfix Improvement |
+| Name | Known Incompatibilities | Description | Author | Bugfixing |
 | --- | :---: | :---: | :---: | :---: |
 | [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Unknown | Lightweight mod which solves several connection problems like DecoderException, Packet size larget than X bytes, Payload too large and more. | someaddon | Both |
 | [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client |
