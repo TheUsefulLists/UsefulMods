@@ -64,7 +64,7 @@ Severity Level is used alongside labels for a clearer understanding of how sever
 | 5 | High chance to affect user |
 | 6 | Very high chance to affect user |
 | 7 | Will affect user |
-| ? | Level of threat is unknown |
+| ? | Level of severity is unknown |
 
 ## Extra Information
 You might find some superscripted numbers around the repository. These are used to tell extra information about the mods that labels and danger levels do not apply to.
