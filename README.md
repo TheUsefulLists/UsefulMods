@@ -10,25 +10,15 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull 
 Everything that is under consideration to be added is found [here](https://docs.google.com/document/d/127YtDboB7mQIH3SK8jd4d3_I7ur0LPHT46l9I1zRrwA/edit?usp=sharing).<br>
 Keep in mind that nothing in the document is screened for harmful code (or malware). Download at your own caution.
 
-## Version List - Performance Mods
-| Version | Loaders |
-| :-: | :---: |
-| [1.18.x](Performance/Performance118.md) | Fabric & Forge |
-| [1.17.x](Performance/Performance117.md) | Fabric & Forge |
-| [1.16.x](Performance/Performance116.md) | Fabric & Forge |
-| [1.15.x](Performance/Performance115.md) | Fabric & Forge |
-| [1.12.x](Performance/Performance112.md) | Forge & Legacy Fabric |
-| [1.8.9 and below](Performance/PerformanceOld.md) | Forge & Legacy Fabric |
-
-## Version List - Bugfixing Mods
-| Version | WIP? | Loaders |
-| :-----: | :--: | :-----: |
-| [1.18.x](BugFixes/BugFixes118.md) | No | Fabric & Forge |
-| [1.17.x](BugFixes/BugFixes117.md) | No | Fabric & Forge |
-| [1.16.x](BugFixes/BugFixes116.md) | Yes | Fabric & Forge |
-| [1.15.x](BugFixes/BugFixes115.md) | Yes | Forge |
-| [1.12.x](BugFixes/BugFixes112.md) | Yes | Forge |
-| [1.8.9 and below](BugFixes/BugFixesOld.md) | Yes | Forge |
+## Version List
+| Version | Performance | Bugfixes |
+| :-: | :-: | :-: |
+| 1.18.x | [✔️ Available](Performance/Performance118.md) | [✔️ Available](BugFixes/BugFixes118.md) |
+| 1.17.x | [✔️ Available](Performance/Performance117.md) | [✔️ Available](BugFixes/BugFixes117.md) |
+| 1.16.x | [✔️ Available](Performance/Performance116.md) | [⚠️ WIP](BugFixes/BugFixes116.md)
+| 1.15.x | [✔️ Available](Performance/Performance115.md) | [⚠️ WIP](BugFixes/BugFixes115.md)
+| 1.12.x | [✔️ Available](Performance/Performance112.md) | [⚠️ WIP](BugFixes/BugFixes112.md)
+| 1.8.9 and below | [✔️ Available](Performance/PerformanceOld.md) | [⚠️ WIP](BugFixes/BugFixesOld.md)
 
 ## External Software
 | Theme |
