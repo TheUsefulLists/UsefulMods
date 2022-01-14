@@ -34,7 +34,6 @@ Labels are used to give you a better understanding of how a mod may act.
 
 | Name | Meaning |
 | :--: | :-----: |
-| Stable | Mod has no outstanding issues |
 | Alpha | Mod is in alpha and therefore might be unstable. |
 | Unstable | Mod is unstable and may act unpredictably. |
 | Corruption | Mod has a chance to corrupt save files. |
