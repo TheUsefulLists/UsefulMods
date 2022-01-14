@@ -47,8 +47,8 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 
 ## Forge 1.17.X
 
-| Name | Known Incompatibilities | Description | Author | Performance Improvement |
-| --- | :---: | :---: | :---: | :---: |
+| Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
+| --- | :---: | :---: | :---: | :---: | :---: |
 | [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)[⁵](/README.md#-ai-improvements-newer-versions-114-dont-have-as-much-impact-as-the-older-versions-have-since-in-newer-versions-of-minecraft-a-lot-of-fixes-to-the-ai-are-implemented-sources-curseforge-page-faq-dev) | None | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game | QueenOfMissiles | Server | None |
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | Probably any Sodium port | Better Biome Blend is a mod  which accelerates the biome color blending algorithm. | FionaTheMortal | Client |  None |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) | Unknown | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client | None |
