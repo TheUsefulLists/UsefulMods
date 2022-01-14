@@ -4,7 +4,7 @@ A list of launchers that can be used to play Minecraft (Mostly focused on modded
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 ## Launchers
 
@@ -20,4 +20,4 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Technic Launcher](https://www.technicpack.net/download) | Unknown | Unknown | Technic has a wide selection of offical and community modpacks a great launcher for someone who wants to try something new or old. | 4/10
 | [VoidsWrath](http://test.voidswrath.com/voidlauncher/) | Inapplicable | Inapplicable | VoidsWrath Launcher has a couple of unique modpacks. | 2/10 |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)

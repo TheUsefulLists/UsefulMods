@@ -4,7 +4,7 @@ A list of Bukkit, Spigot, and other loaders
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 ## Bukkit, Spigot, and other loaders
 
@@ -20,4 +20,4 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [ThermosX](https://github.com/DireClanMC/ThermosX) | Forge | 1.7.10 | ThermosX is a fork of KCauldron and Thermos, a CraftBukkit-Forge server for Minecraft 1.7.10. After periods of inactivity on KCauldron's (and Thermos) GitLab concerning major issues, ThermosX was created to allow active members of the Minecraft coding community to optimize it and provide fixes in a timely manner. |
 | [Thermos](https://cyberdynecc.github.io/Thermos/install) | Forge | 1.7.10 | Thermos is a fork of KCauldron, a craftbukkit forge server for Minecraft 1.7.10. |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)

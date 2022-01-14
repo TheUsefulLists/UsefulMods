@@ -4,7 +4,7 @@ A list of software that allows you to better manage or edit your world
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 ## World Management
 
@@ -18,4 +18,4 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Universal Minecraft Editor](https://www.universalminecrafteditor.com) | Data editor | Xbox 360, Playstation 3, Wii U, PC Java, Pocket Editon, Windows 10 Edition, | The one stop shop to edit anything pretty much |
 | [WorldPainter](https://www.worldpainter.net) (Known to active false positives in some anti-viruses.) | interactive map generator | Unknown | WorldPainter is an interactive map generator for Minecraft. It allows you to "paint" landscapes using similar tools as a regular paint program. Sculpt and mould the terrain, paint materials, trees, snow and ice, etc. onto it, and much more. |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)

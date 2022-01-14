@@ -5,7 +5,7 @@ Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 
 ## Fabric 1.16.X
@@ -21,7 +21,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | Unknown | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client |
 | [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader) (Dangerous) | Hydrogen, Enhanced Block Entities | This mod launches minecraft faster by caching all of the content on first launch and then loading that cache on the next one | alphaqu | Client |
 | [Dimensional Threading](https://github.com/WearBlackAllDay/DimensionalThreading/releases) (Dangerous) | Unknown | Minecraft mod which optimizes the processing of multiple Dimensions, by assigning them independent threads | WearBlackAllDay | Server |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Sodium[⁴](https://github.com/NordicGamerFE/usefulmods/tree/main#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium), DashLoader | EBE is a mod which aims to increase the performance of block entity rendering, as well as offer customizability via resource packs. | FoundationGames | Client |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Sodium[⁴](/README.md#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium), DashLoader | EBE is a mod which aims to increase the performance of block entity rendering, as well as offer customizability via resource packs. | FoundationGames | Client |
 | [Entity Distance](https://modrinth.com/mod/entity-distance) | Unknown | Allows the user to adjust the (client) distance at which different entities render | capnkork | Client | 
 | [EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | None | EntityCulling using async path-tracing to skip rendering Tiles/Entities that are not visible | tr9zw | Client |
 | [FastBench](https://www.curseforge.com/minecraft/mc-mods/fastbench-for-fabric) | None | This is a mod aimed at improving performance of all crafting-related functions. | tfarecnim | Server |
@@ -41,7 +41,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Resolution Control](https://www.curseforge.com/minecraft/mc-mods/resolutioncontrol) | Unknown | ResolutionControl+ allows you to change Minecraft's render resolution separately from the HUD elements. | Ultimate Boomer | Client |
 | [Smoke Suppresion](https://www.curseforge.com/minecraft/mc-mods/smoke-suppression) | Unknown | This is to prevent client-side lag and general annoyance when using large numbers of campfires in farms. | supersaiyansubtlety | Client |
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Unknown | Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems | UltimateBoomer | Both |
-| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | Mods that utilize of the FRAPI[⁴](https://github.com/NordicGamerFE/usefulmods/tree/main#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium) | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft | CaffeineMC | Client |
+| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | Mods that utilize of the FRAPI[⁴](/README.md#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium) | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft | CaffeineMC | Client |
 | [Starlight](https://github.com/PaperMC/Starlight/releases) | Phosphor | Fabric mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both |
 | [Tic-Tacs](https://github.com/Gegy/tic-tacs/releases) (Dangerous) | C2ME | Tic-TACS is an experimental reimplementation of Minecraft's chunk loading engine | gegy | Server |
 | [VanillaFix](https://github.com/DimensionalDevelopment/VanillaFix/releases) | Unknown | Bug fixes and optimizations for Minecraft | BoogieMonster1O1 (Dimensional Development) | Both |
@@ -51,13 +51,13 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | --- | :---: | :---: | :---: | :---: |
-| [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)[⁵](https://github.com/NordicGamerFE/usefulmods/tree/main#-ai-improvements-newer-versions-114-dont-have-as-much-impact-as-the-older-versions-have-since-in-newer-versions-of-minecraft-a-lot-of-fixes-to-the-ai-are-implemented-sources-curseforge-page-faq-dev) | None | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game | QueenOfMissiles | Server |
+| [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)[⁵](/README.md#-ai-improvements-newer-versions-114-dont-have-as-much-impact-as-the-older-versions-have-since-in-newer-versions-of-minecraft-a-lot-of-fixes-to-the-ai-are-implemented-sources-curseforge-page-faq-dev) | None | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game | QueenOfMissiles | Server |
 | [APTweaks](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks) | Dynamic View (View Distance Feature), Clumps | Adaptive Performance Tweaks is a Minecraft Forge Mod which automatically adjust specific settings on the server and client side to allow a balanced TPS/FPS. | Kaworru | Server |
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | None | Better Biome Blend is a mod  which accelerates the biome color blending algorithm. | FionaTheMortal | Client |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) | Unknown | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client |
 | [C2ME](https://github.com/YatopiaMC/C2ME-forge/releases) (***DANGEROUS***) | Unknown | A Forge mod designed to improve the chunk performance of Minecraft. | YatopiaMC | Server |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | APTweaks, MCMT | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area | jaredlll08 | Both |
-| [DataFixerSlayer](https://www.curseforge.com/minecraft/mc-mods/datafixerslayer) (Dangerous[³](https://github.com/NordicGamerFE/usefulmods/tree/main#-do-not-blame-me-if-you-didnt-read-this-notice-if-you-try-to-load-a-older-world-in-a-newer-instance-of-the-game-and-you-have-one-of-these-mods-installed-bad-things-will-happen-uninstall-the-mod-first)) | Any other mod that also removes DFU | DataFixerSlayer prevents the DataFixerUpper (DFU) system from loading | Vazkii | Both |
+| [DataFixerSlayer](https://www.curseforge.com/minecraft/mc-mods/datafixerslayer) (Dangerous[³](/README.md#-do-not-blame-me-if-you-didnt-read-this-notice-if-you-try-to-load-a-older-world-in-a-newer-instance-of-the-game-and-you-have-one-of-these-mods-installed-bad-things-will-happen-uninstall-the-mod-first)) | Any other mod that also removes DFU | DataFixerSlayer prevents the DataFixerUpper (DFU) system from loading | Vazkii | Both |
 | [DrawerFPS](https://www.curseforge.com/minecraft/mc-mods/drawerfps) | Unknown | Simple, efficient mod which lets you configure at which range Storage Drawers do render items to improve fps. | someaddon | Client |
 | [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view) | APTweaks | This is a small/light serverside utility mod to help balancing lag (TPS) and chunk view/load distance. | someaddon | Server |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entity-culling) | None | Entity Culling is a small client-side performance core mod which improves the rendering of entities and tile entities. | meldexun | Client |
@@ -80,7 +80,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Spawner Bug Fix](https://www.curseforge.com/minecraft/mc-mods/spawner-fix) | Unknown | This addresses a bug which causes lag in mods that create custom spawners. | Lupicus | Client |
 | [Starlight](https://github.com/PaperMC/Starlight/releases) | Create | Mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both |
 | [Starlight x Create](https://www.curseforge.com/minecraft/mc-mods/starlight-x-create) | Unknown | Mod for completely rewriting the vanilla light engine. | Spottedleaf(PaperMC), Create Patch by: AeiouEnigma, Curseforge Upload and 1.16 Maintained by SirOMGitsYOU | Both |
-| [~~⠀⠀Cull Particles⠀⠀~~](https://www.curseforge.com/minecraft/mc-mods/cull-particles)[²](https://github.com/NordicGamerFE/usefulmods/tree/main#-cull-particles-isnt-needed-anymore-in-newer-forge-versions-as-it-was-implemented-in-forge)| None | This mod increases fps by not rendering particles that the player can't see | tfarecnim | Client |
+| [~~⠀⠀Cull Particles⠀⠀~~](https://www.curseforge.com/minecraft/mc-mods/cull-particles)[²](/README.md#-cull-particles-isnt-needed-anymore-in-newer-forge-versions-as-it-was-implemented-in-forge)| None | This mod increases fps by not rendering particles that the player can't see | tfarecnim | Client |
 
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
