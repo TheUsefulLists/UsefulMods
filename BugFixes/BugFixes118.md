@@ -30,5 +30,6 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client |
 | [FlickerFix](https://www.curseforge.com/minecraft/mc-mods/flickerfix) | Unknown | By default, when the night vision effect goes below 10 seconds, the screen starts flickering. This mod replaces that behavior with a fast fade-out at 1 second remaining duration. |  MutantGumdrop | Client |
 | [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Fixes crashing when trying to pre-generate large areas of a world.  | telepathicgrunt | Server |
+| [Potion ID Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/potion-id-packet-fixer) | Unknown | If you have more than 255 potion effects registered, the client will receive incorrect information for potion effects above ID 255, due to an issue with vanilla packets. This mod fixes that issue. | Both |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
