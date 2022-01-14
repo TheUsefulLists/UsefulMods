@@ -4,7 +4,7 @@ A list of software that is used to do graphical tasks for Minecraft.
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 ## Graphical, Models & etc
 
@@ -17,4 +17,4 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Mine-imator](https://www.mineimator.com) | Animation | 1.17 | Create animated videos using blocks, items and the lovable characters from Minecraft |
 | [Mineways](https://www.mineimator.com) | Exporting builds to 3D files | 1.18 & Below | Mineways lets you export your creations from Minecraft: Java Edition, versions 1.18 and earlier, into 3D files you can use for making images, movies, or 3D prints |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)

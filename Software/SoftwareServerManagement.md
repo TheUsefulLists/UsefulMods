@@ -4,7 +4,7 @@ A list of software to make the life of a server operator easier
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 ## Server Management
 | Name | Description |
@@ -19,4 +19,4 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Multicraft](https://www.multicraft.org/)(Free/Paid) | The Complete Minecraft Server Hosting Solution and Control Panel |
 | [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) | A highly customisable, open source server software for Minecraft: Bedrock Edition written in PHP |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)

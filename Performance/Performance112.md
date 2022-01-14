@@ -5,7 +5,7 @@ Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 
 ## Forge 1.12.X
@@ -25,10 +25,10 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Multithreaded Noise](https://www.curseforge.com/minecraft/mc-mods/multithreaded-noise) | Unknown | This mod makes overworld terrain generate faster by replacing the three 3D noise generators in the overworld with multithreaded versions. | bloodnbonesgaming | Server (Must be installed in client as well) | 
 | [Particle Culling](https://www.curseforge.com/minecraft/mc-mods/particle-culling) | None | This mod is a client-side performance enhancing mod, which stops particles that are outside the player's view from rendering | bl4ckscor3 | Client |
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) (Dangerous) | Unknown | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server |
-| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | Mods using outdated mixin versions[¹](https://github.com/NordicGamerFE/usefulmods/tree/main#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas, the lighting engine | jellysquid_ | Both |
+| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | Mods using outdated mixin versions[¹](/README.md#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas, the lighting engine | jellysquid_ | Both |
 | [PortalSuperCache](https://github.com/LucunJi/PortalSuperCacheForge112/releases) (Dangerous) | Unknown | When using this mod, your game will search portal blocks at a high speed on teleport. | LucunJi | Server |
 | [Stackie](https://www.curseforge.com/minecraft/mc-mods/stackie) | Unknown | This mod increases stack sizes of experience and items | Lunatrius | Server |
-| [Surge](https://www.curseforge.com/minecraft/mc-mods/surge) | Mods using outdated mixin versions[¹](https://github.com/NordicGamerFE/usefulmods/tree/main#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | Surge is an open source mod which aims to improve the load time and performance of the game. | DarkhaxDev | Both |
+| [Surge](https://www.curseforge.com/minecraft/mc-mods/surge) | Mods using outdated mixin versions[¹](/README.md#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | Surge is an open source mod which aims to improve the load time and performance of the game. | DarkhaxDev | Both |
 | [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix) | **FoamFix-Anarchy**, MCPatcher | TexFix optimizes the loading of textures of other mods | Speiger | Client |
 | [Tiquality](https://www.curseforge.com/minecraft/mc-mods/tiquality) | Unknown | Limiting a player's tick time in the world to evenly distribute time. | Terminator_NL | Server |
 | [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix) | Mods using outdated mixin versions[¹](https://github.com/NordicGamerFE/usefulmods/tree/main#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | VanillaFix is a mod that improves performance and fixes bugs and annoyances in vanilla Minecraft | Runemoro (Dimensional Development) | Both |
@@ -39,4 +39,4 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | --- | :---: | :---: | :---: | :---: |
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](https://github.com/NordicGamerFE/usefulmods/blob/main/README.md)
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
