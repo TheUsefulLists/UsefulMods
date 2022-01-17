@@ -3,7 +3,6 @@ A list of performance-enhancing mods for 1.12.x versions.
 
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
-Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
@@ -24,9 +23,9 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | None | This mod adds two configuration options to control how dropped items combine on the ground. This can significantly improve performance in areas with lots of dropped items | bl4ckscor3 | Server | none |
 | [Multithreaded Noise](https://www.curseforge.com/minecraft/mc-mods/multithreaded-noise) | Unknown | This mod makes overworld terrain generate faster by replacing the three 3D noise generators in the overworld with multithreaded versions. | bloodnbonesgaming | Server | Alpha (1) |
 | [Particle Culling](https://www.curseforge.com/minecraft/mc-mods/particle-culling) | None | This mod is a client-side performance enhancing mod, which stops particles that are outside the player's view from rendering | bl4ckscor3 | Client | none |
-| [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) (Dangerous) | Unknown | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server | Incompatible (2) |
+| [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) | Unknown | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server | Incompatible (2) |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | Mods using outdated mixin versions[¹](/README.md#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas, the lighting engine | jellysquid_ | Both | none |
-| [PortalSuperCache](https://github.com/LucunJi/PortalSuperCacheForge112/releases) (Dangerous) | Unknown | When using this mod, your game will search portal blocks at a high speed on teleport. | LucunJi | Server | Alpha (?) |
+| [PortalSuperCache](https://github.com/LucunJi/PortalSuperCacheForge112/releases) | Unknown | When using this mod, your game will search portal blocks at a high speed on teleport. | LucunJi | Server | Alpha (?) |
 | [Stackie](https://www.curseforge.com/minecraft/mc-mods/stackie) | Unknown | This mod increases stack sizes of experience and items | Lunatrius | Server | none |
 | [Surge](https://www.curseforge.com/minecraft/mc-mods/surge) | Mods using outdated mixin versions[¹](/README.md#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | Surge is an open source mod which aims to improve the load time and performance of the game. | DarkhaxDev | Both | none |
 | [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix) | **FoamFix-Anarchy**, MCPatcher | TexFix optimizes the loading of textures of other mods | Speiger | Client | none |
