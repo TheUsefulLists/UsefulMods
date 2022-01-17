@@ -24,13 +24,13 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 
 ## Forge 1.18.X
 
-| Name | Known Incompatibilities | Description | Author | Bugfixing |
-| --- | :---: | :---: | :---: | :---: |
-| [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix) | Unknown | This mod fixes MC-229321 : Bees Can Despawn This bug causes multiple issues that cause bees to despawn or fail to be saved under different edge cases. Also fixes MC-168329 : Bees refuse to leave hive in end/nether. | none |
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix) | Unknown | This mod fixes MC-229321 : Bees Can Despawn This bug causes multiple issues that cause bees to despawn or fail to be saved under different edge cases. Also fixes MC-168329 : Bees refuse to leave hive in end/nether. | lupicus| Server | none |
 | [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Unknown | Lightweight mod which solves several connection problems like DecoderException, Packet size larget than X bytes, Payload too large and more. | someaddon | Both | none |
 | [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client | none |
 | [FlickerFix](https://www.curseforge.com/minecraft/mc-mods/flickerfix) | Unknown | By default, when the night vision effect goes below 10 seconds, the screen starts flickering. This mod replaces that behavior with a fast fade-out at 1 second remaining duration. |  MutantGumdrop | Client | none |
 | [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Fixes crashing when trying to pre-generate large areas of a world.  | telepathicgrunt | Server | none |
-| [Potion ID Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/potion-id-packet-fixer) | Unknown | If you have more than 255 potion effects registered, the client will receive incorrect information for potion effects above ID 255, due to an issue with vanilla packets. This mod fixes that issue. | Both | none |
+| [Potion ID Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/potion-id-packet-fixer) | Unknown | If you have more than 255 potion effects registered, the client will receive incorrect information for potion effects above ID 255, due to an issue with vanilla packets. This mod fixes that issue. | stepcros | Both | none |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
