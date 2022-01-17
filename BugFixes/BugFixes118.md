@@ -3,7 +3,6 @@ A list of bugfixing mods for 1.18.x forge/fabric versions.
 
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
-Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
