@@ -10,7 +10,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 ## Fabric 1.18.X
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
-| --- | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: |
 | [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) | Unknown | Rewrites one function of the advancements logic to make advancements checking faster, and use less recursion. | thetechnici4n | Client | none |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none |
 | [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client | none |
