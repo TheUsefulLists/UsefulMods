@@ -3,7 +3,6 @@ A list of performance-enhancing mods for 1.17.x forge/fabric versions.
 
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
-Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behaviour.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
@@ -20,7 +19,7 @@ Mods marked as "*Dangerous*" might be unstable, and cause some unexpected behavi
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Both | none |
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | Unknown | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client | none |
 | [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader)| Enhanced Block Entities | This mod launches minecraft faster by caching all of the content on first launch and then loading that cache on the next one | alphaqu | Client | Incompatible (4) |
-| [Dimensional Threading](https://github.com/WearBlackAllDay/DimensionalThreading/releases) (Dangerous) | Unknown | Minecraft mod which optimizes the processing of multiple Dimensions, by assigning them independent threads | WearBlackAllDay | Server | none |
+| [Dimensional Threading](https://github.com/WearBlackAllDay/DimensionalThreading/releases)| Unknown | Minecraft mod which optimizes the processing of multiple Dimensions, by assigning them independent threads | WearBlackAllDay | Server | none |
 | [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view) | APTweaks | This is a small/light serverside utility mod to help balancing lag (TPS) and chunk view/load distance. | someaddon | Server | none |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Sodium[⁴](https://github.com/NordicGamerFE/usefulmods/tree/main#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium), DashLoader | EBE is a mod which aims to increase the performance of block entity rendering, as well as offer customizability via resource packs. | FoundationGames | Client | none |
 | [Entity Distance](https://modrinth.com/mod/entity-distance) | Unknown | Allows the user to adjust the (client) distance at which different entities render | capnkork | Client | none |
