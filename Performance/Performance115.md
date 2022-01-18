@@ -26,7 +26,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | None | This mod adds two configuration options to control how dropped items combine on the ground. This can significantly improve performance in areas with lots of dropped items | bl4ckscor3 | Server | none |
 | [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) | Unknown | Speeds up your world loading by not loading nearby chunks every time. | VidTu | Both | Reverse Features (1) |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium-forge) | None | Lithium is a general-purpose optimization mod for Minecraft which works to improve a number of systems without changing any behavior | jellysquid_ | Server | none |
-| [Out of Sight](https://www.curseforge.com/minecraft/mc-mods/out-of-sight) | Unknown | Out of Sight simply stops modded tile entities from rendering if they are further than 24 blocks away | Corosus | Client | none |
+| [Out of Sight](https://www.curseforge.com/minecraft/mc-mods/out-of-sight) | Unknown | Out of Sight simply stops modded tile entities from rendering if they are further than 24 blocks away | Corosus | Client | Reverse Features (1) |
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) | Unknown | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server | Incompatible (2) |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | None | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas, the lighting engine | jellysquid_ | Both | none |
 
