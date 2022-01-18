@@ -59,6 +59,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | Unknown | This mod adds two configuration options to control how dropped items combine on the ground. This can significantly improve performance in areas with lots of dropped items | bl4ckscor3 | Server | none | 
 | [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged) | Unknown | Krypton Reforged is a Minecraft mod that implements a suite of optimizations focused on the Minecraft networking stack | TeamDeusVult | Both | none | 
 | [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) | Unknown | Speeds up your world loading by not loading nearby chunks every time. | VidTu | Both | Reverse Features (1) |
+| [Phosphor Reloaded](https://www.curseforge.com/minecraft/mc-mods/phosphor-reloaded) | Unknown | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas-- the lighting engine | reforged89 | Client | none |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Forge mod for rewriting the light engine to fix lighting performance and lighting errors | SpottedLeaf (PaperMC) | Server | none | 
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
