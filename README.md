@@ -7,8 +7,8 @@ Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull request fixing it!)
 
 ## Mods Under Consideration
-Everything that is under consideration to be added is found [here](https://docs.google.com/document/d/127YtDboB7mQIH3SK8jd4d3_I7ur0LPHT46l9I1zRrwA/edit?usp=sharing).<br>
-Keep in mind that nothing in the document is screened for harmful code (or malware). Download at your own caution.
+Everything that is under consideration to be added is found in the github issues [here](https://github.com/NordicGamerFE/usefulmods/issues/).<br>
+Keep in mind that nothing in the github issues is screened for harmful code (or malware). Download at your own caution.
 
 ## Version List
 | Version | Performance | Bugfixes |
