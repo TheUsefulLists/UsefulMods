@@ -17,7 +17,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Erroring Entity Remover](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)| Unknown | Removes entities that throw errors and crash the game while ticking. | The_Fireplace | Both | Unstable (2) |
 | [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric) | Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | none |
 | [Night Vision flash be gone](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) | Unknown | Fixes night vision flashing | AshIndigo | Client | none |
-| [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Fixes crashing when trying to pre-generate large areas of a world.  | telepathicgrunt | Server | none |
+| [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Fixes crashing when trying to pre-generate large areas of a world. | telepathicgrunt | Server | none |
+| [TieFix](https://modrinth.com/mod/tiefix) | Unknown | Fixes some annoying bugs in the Minecraft client. | j-tai | Client | none |
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none |
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
 
