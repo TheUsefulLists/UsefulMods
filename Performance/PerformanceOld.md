@@ -11,6 +11,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) | None | BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods. | Guichaguri | Both | none |
+| [EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | None | EntityCulling using async path-tracing to skip rendering Tiles/Entities that are not visible | tr9zw | Client | none | 
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. | asiekierka | Both | none |
 | [Patcher](https://sk1er.club/mods/patcher) | None | Patcher is a 1.8.9 Forge mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements, and tons of Vanilla bug fixes. | Sk1er | Client | none |
 
