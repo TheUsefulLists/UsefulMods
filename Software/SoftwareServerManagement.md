@@ -18,5 +18,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [MC Server Soft](https://mcserversoft.com/) | The oldest maintained Minecraft Server Wrapper for Windows. |
 | [Multicraft](https://www.multicraft.org/)(Free/Paid) | The Complete Minecraft Server Hosting Solution and Control Panel |
 | [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) | A highly customisable, open source server software for Minecraft: Bedrock Edition written in PHP |
+| [Pterodactyl](https://pterodactyl.io/) | Web-based game server management panel with built in support for most Minecraft server software. |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
