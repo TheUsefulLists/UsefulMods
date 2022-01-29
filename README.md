@@ -11,6 +11,8 @@ Everything that is under consideration to be added is found in the github issues
 Keep in mind that nothing in the github issues is screened for harmful code (or malware). Download at your own caution.
 
 ## Version List
+
+### Performance and Bug fixing mods
 | Version | Performance | Bugfixes |
 | :-: | :-: | :-: |
 | 1.18.x | [✔️ Available](Performance/Performance118.md) | [✔️ Available](BugFixes/BugFixes118.md) |
@@ -19,6 +21,13 @@ Keep in mind that nothing in the github issues is screened for harmful code (or 
 | 1.15.x | [✔️ Available](Performance/Performance115.md) | [⚠️ WIP](BugFixes/BugFixes115.md)
 | 1.12.x | [✔️ Available](Performance/Performance112.md) | [⚠️ WIP](BugFixes/BugFixes112.md)
 | 1.8.9 and below | [✔️ Available](Performance/PerformanceOld.md) | [⚠️ WIP](BugFixes/BugFixesOld.md)
+
+### Enhancement mods
+| Version | Essentials | Extras | Improvements |
+| :-: | :-: | :-: | :-: |
+| 1.18.x | [✔️ Available](Enhancements/Essentials/Essentials118.md) | [⚠️ WIP](Enhancements/Extras/Extras118.md) | [⚠️ WIP](Enhancements/Improvements/Improvements118.md) |
+| 1.17.x | [⚠️ WIP](Enhancements/Essentials/Essentials117.md) | [⚠️ WIP](Enhancements/Extras/Extras117.md) | [⚠️ WIP](Enhancements/Improvements/Improvements117.md) |
+| 1.16.x | [⚠️ WIP](Enhancements/Essentials/Essentials116.md) | [⚠️ WIP](Enhancements/Extras/Extras116.md) | [⚠️ WIP](Enhancements/Improvements/Improvements116.md) |
 
 ## External Software
 | Theme |
