@@ -1,12 +1,12 @@
 # Essential Mods
-A list of essential enhancement mods for 1.18.x forge/fabric versions.
+A list of essential enhancement mods for 1.17.x forge/fabric versions.
 
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
-## Fabric 1.18.X
+## Fabric 1.17.X
 
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
@@ -26,7 +26,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Stendhal](https://modrinth.com/mod/stendhal) | Unknown | Stendhal enhances the book and sign writing client-side interfaces | NebSpacefarer | Client | none |
 
 
-## Forge 1.18.X
+## Forge 1.17.X
 
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
