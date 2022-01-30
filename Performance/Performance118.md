@@ -65,7 +65,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) | Unknown | Speeds up your world loading by skipping vanilla's unnecessary 441 chunk loading-unloading on every login. | VidTu | Both | Incompatible (1) |
 | [Magnesium](https://www.curseforge.com/minecraft/mc-mods/sodium-reforged) | Optifine, Halogen | (Formerly Sodium Reforged) Unofficial port of "Sodium" to Forge. | someoneelsewastaken | Client | Alpha (3) |
 | [Observable](https://modrinth.com/mod/observable) | Unknown | Shows what's lagging your world/server by profiling (tile) entities. | tasgon | Server | none |
-| [Phosphor Reloaded](https://www.curseforge.com/minecraft/mc-mods/phosphor-reloaded) | Unknown | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas-- the lighting engine | reforged89 | Client | none |
+| [Radium Reforged](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) | Unknown | Radium is an Unofficial Fork of CaffeineMC's "Lithium," made to work with Forge Mod Loader | Asek3 | Both | none |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Forge mod for rewriting the light engine to fix lighting performance and lighting errors | SpottedLeaf (PaperMC) | Server | none | 
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
