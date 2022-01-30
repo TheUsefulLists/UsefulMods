@@ -15,11 +15,11 @@ Keep in mind that nothing in the github issues is screened for harmful code (or 
 ### Performance and Bug fixing mods
 | Version | Performance | Bugfixes |
 | :-: | :-: | :-: |
-| 1.18.x | [✔️ Available](Performance/Performance118.md) | [✔️ Available](BugFixes/BugFixes118.md) |
-| 1.17.x | [✔️ Available](Performance/Performance117.md) | [✔️ Available](BugFixes/BugFixes117.md) |
+| 1.18.x | [✔️ Available](Performance/Performance118.md) | [✔️ Available](BugFixes/BugFixes118.md)
+| 1.17.x | [✔️ Available](Performance/Performance117.md) | [✔️ Available](BugFixes/BugFixes117.md)
 | 1.16.x | [✔️ Available](Performance/Performance116.md) | [✔️ Available](BugFixes/BugFixes116.md)
-| 1.15.x | [✔️ Available](Performance/Performance115.md) | [⚠️ WIP](BugFixes/BugFixes115.md)
-| 1.12.x | [✔️ Available](Performance/Performance112.md) | [⚠️ WIP](BugFixes/BugFixes112.md)
+| 1.15.x | [✔️ Available](Performance/Performance115.md) | [✔️ Available](BugFixes/BugFixes115.md)
+| 1.12.x | [✔️ Available](Performance/Performance112.md) | [✔️ Available](BugFixes/BugFixes112.md)
 | 1.8.9 and below | [✔️ Available](Performance/PerformanceOld.md) | [⚠️ WIP](BugFixes/BugFixesOld.md)
 
 ### Enhancement mods
