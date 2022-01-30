@@ -19,7 +19,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Unknown | Adds a mod menu to view the list of mods you have installed | Prospector | Client | none |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Unknown | Mouse Tweaks replaces the standard RMB dragging mechanic, adds two new LMB dragging mechanics and an ability to quickly move items with the scroll wheel. | YaLTeR | Client | none |
 | [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie) | Unknown | A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more | Siphalor | Client | none |
-| [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Unknown | Adds a highly-configurable zoom key for Fabric | Ennui | Client | Alpha (1) |
+| [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Unknown | Adds a highly-configurable zoom key for Fabric | Ennui | Client | none |
 | [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) | Unknown | An easy way to browse recipes. | shedaniel | Both | none |
 | [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer) | Unknown | Overlay a timer on the Vanilla status effect HUD icons | magicus | Client | none |
 | [Stendhal](https://modrinth.com/mod/stendhal) | Unknown | Stendhal enhances the book and sign writing client-side interfaces | NebSpacefarer | Client | none |
