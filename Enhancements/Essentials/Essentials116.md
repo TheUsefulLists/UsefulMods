@@ -30,7 +30,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | Unknown | Food/hunger-related HUD improvements | squeek502 | Both | none |
-| [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | Unknown | JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance. | mezz | Both | none |
+| [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) | Unknown | JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance. | mezz | Both | Alpha (1) |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Unknown | Mouse Tweaks replaces the standard RMB dragging mechanic, adds two new LMB dragging mechanics and an ability to quickly move items with the scroll wheel. | YaLTeR | Client | none |
 | [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) | Unknown | An easy way to browse recipes. | shedaniel | Both | none |
 
