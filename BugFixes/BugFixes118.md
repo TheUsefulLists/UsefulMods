@@ -12,6 +12,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) | Unknown | Rewrites one function of the advancements logic to make advancements checking faster, and use less recursion. | thetechnici4n | Client | none |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none |
+| [Blanket](https://www.curseforge.com/minecraft/mc-mods/blanket) | Unknown | Fixes a variety of bugs, as well as including some QoL features | KosmX | Client | none |
 | [Carpet-Fixes](https://github.com/fxmorin/carpet-fixes/releases) | Unknown | Fabric Carpet extension mod which attempts to fix as many vanilla minecraft bugs as possible! | FX_PR0CESS | Both | none |
 | [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client | none |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should. | juliand665 | Client | none | 
@@ -21,6 +22,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Night Vision flash be gone](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) | Unknown | Fixes night vision flashing | AshIndigo | Client | none |
 | [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Fixes crashing when trying to pre-generate large areas of a world. | telepathicgrunt | Server | none |
 | [TieFix](https://modrinth.com/mod/tiefix) | Unknown | Fixes some annoying bugs in the Minecraft client. | j-tai | Client | none |
+| [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | Unknown | Stops tooltips that are too large to fit on the screen from running off the screen | Kryptonaught | Client | none |
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none |
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
 
