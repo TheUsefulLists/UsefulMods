@@ -21,7 +21,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)[⁷](/README.md#-these-mods-also-work-on-117x--despite-having-only-116-and-118-releases-in-curseforge-no-workarounds-needed-install-them-like-any-other-mods-and-your-fabric-loader-wont-complain-about-missing-dependencies) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none |
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
 
-
 ## Forge 1.16.X
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
@@ -33,8 +32,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) | Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | none |
 | [Potion ID Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/potion-id-packet-fixer) | Unknown | If you have more than 255 potion effects registered, the client will receive incorrect information for potion effects above ID 255, due to an issue with vanilla packets. This mod fixes that issue. | stepcros | Both | none |
 | [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | none |
+| [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) | Unknown | Removes the server-side limitations on player speed that result in "player XYZ moved too fast" messages in the console and rubber-banding. | Noobanidus | Server | none |
 | [XL Packets](https://www.curseforge.com/minecraft/mc-mods/xl-packets) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
-
-
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
