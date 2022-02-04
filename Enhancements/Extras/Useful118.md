@@ -1,5 +1,5 @@
-# Extra Mods
-A list of extra enhancement mods for 1.18.x forge/fabric versions.
+# Useful Enhancement Mods
+A list of useful enhancement mods for 1.18.x forge/fabric versions.
 
 Any suggestions/complaints?<br>
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
