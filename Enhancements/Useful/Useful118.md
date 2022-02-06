@@ -11,6 +11,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [AFKPeace](https://modrinth.com/mod/afkpeace) | Unknown | Adds peace-of-mind features for AFKing. | AMereBagatelle | Client | none | 
+| [Boosted Brightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness) | Unknown | Adds an Advanced Brightness slider that can go from -150% to 1000% gamma
 | [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Both | none |
 | [DeathLog](https://modrinth.com/mod/deathlog) | Unknown | Keeps track of the many embarrassing times you died | glisco | Client | none |
 | [Durability Viewer](https://modrinth.com/mod/durabilityviewer) | Unknown | Armor and Tool durability HUD | Giselbaer | Client | none |
