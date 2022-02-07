@@ -25,7 +25,7 @@ Keep in mind that nothing in the github issues is screened for harmful code (or 
 ### Enhancement mods
 | Version | Essentials | Useful | Improvements |
 | :-: | :-: | :-: | :-: |
-| 1.18.x | [✔️ Available](Enhancements/Essentials/Essentials118.md) | [✔️ Available](Enhancements/Useful/Useful118.md) | [⚠️ WIP](Enhancements/Improvements/Improvements118.md) |
+| 1.18.x | [✔️ Available](Enhancements/Essentials/Essentials118.md) | [✔️ Available](Enhancements/Useful/Useful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) |
 | 1.17.x | [✔️ Available](Enhancements/Essentials/Essentials117.md) | [⚠️ WIP](Enhancements/Useful/Useful117.md) | [⚠️ WIP](Enhancements/Improvements/Improvements117.md) |
 | 1.16.x | [✔️ Available](Enhancements/Essentials/Essentials116.md) | [⚠️ WIP](Enhancements/Useful/Useful116.md) | [⚠️ WIP](Enhancements/Improvements/Improvements116.md) |
 
