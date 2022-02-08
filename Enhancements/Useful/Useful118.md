@@ -14,7 +14,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Both | none |
 | [DeathLog](https://modrinth.com/mod/deathlog) | Unknown | Keeps track of the many embarrassing times you died | glisco | Client | none |
 | [Durability Viewer](https://modrinth.com/mod/durabilityviewer) | Unknown | Armor and Tool durability HUD | Giselbaer | Client | none |
-| [EasierChests](https://modrinth.com/mod/easierchests) | Unknown | Move items between inventory and chests easily, includes a sorter | Giselbaer | Client | none |
+| [EasierChests](https://www.curseforge.com/minecraft/mc-mods/easierchests) | Unknown | Move items between inventory and chests easily, includes a sorter | Giselbaer | Client | none |
 | [FabricSit](https://modrinth.com/mod/sit) | Unknown | A server side mod to allow players to sit on slabs and stairs | bradbot1 | Server | none |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Unknown | Take insanely large screenshots because why not | ramidzkh | Client | none |
 | [Flour's Various Tweaks](https://modrinth.com/mod/fvt) | Unknown | Various client-side tweaks & enhancements fabric mod | Flourick | Client | none |
