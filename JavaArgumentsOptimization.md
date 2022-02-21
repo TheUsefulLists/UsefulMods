@@ -26,14 +26,14 @@ Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g 
 ## Garbage Collectors
 
 ### Garbage-First Garbage Collector
-- The Garbage-First (G1) garbage collector is a server-style garbage collector, targeted for multiprocessor machines with large memories. It attempts to meet garbage collection (GC) pause time goals with high probability while achieving high throughput. Whole-heap operations, such as global marking, are performed concurrently with the application threads. This prevents interruptions proportional to heap or live-data size. The Garbage-First (G1) garbage collector is enabled using the command-line option -XX:+UseG1GC. It is used by default in Java 9+ and is used by default in the official Minecraft launcher.
+- The Garbage-First (G1) garbage collector is a server-style garbage collector, targeted for multiprocessor machines with large memories. It attempts to meet garbage collection (GC) pause time goals with high probability while achieving high throughput. Whole-heap operations, such as global marking, are performed concurrently with the application threads. This prevents interruptions proportional to heap or live-data size. The Garbage-First (G1) garbage collector is enabled using the command-line option ```-XX:+UseG1GC```. It is used by default in Java 9+ and is used by default in the official Minecraft launcher.
 
 ### Z Garbage Collector
 - The Z Garbage Collector, also known as ZGC, is a scalable low latency garbage collector designed to meet sub-millisecond max pause times, pause times that do not increase with the heap, live-set or root-set size and to handle heaps ranging from 8MB to 16TB in size.
-<br> The Z Garbage Collector is enabled using the command-line option -XX:+UseZGC. It isn’t supported in Java 8, so only use it for Minecraft versions 1.17 and above.
+<br> The Z Garbage Collector is enabled using the command-line option ```-XX:+UseZGC```. It isn’t supported in Java 8, so only use it for Minecraft versions 1.17 and above.
 
 ### Shenandoah GC
-- Shenandoah is the low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Shenandoah does the bulk of GC work concurrently, including the concurrent compaction, which means its pause times are no longer directly proportional to the size of the heap. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behaviour. The Shenandoah GC is enabled using the command-line option -XX:+UseShenandoahGC. It does not ship in Oracle JDK builds, so you will have to use other vendors for your JDK builds like AdoptOpenJDK and Azul.
+- Shenandoah is the low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Shenandoah does the bulk of GC work concurrently, including the concurrent compaction, which means its pause times are no longer directly proportional to the size of the heap. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behaviour. The Shenandoah GC is enabled using the command-line option ```-XX:+UseShenandoahGC```. It does not ship in Oracle JDK builds, so you will have to use other vendors for your JDK builds like AdoptOpenJDK and Azul.
 
 For me the Shenandoah GC works best but I would recommend that you try all of them and see which works best on your system.
 
