@@ -22,7 +22,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Dimensional Threading](https://github.com/WearBlackAllDay/DimensionalThreading/releases) | Unknown | Minecraft mod which optimizes the processing of multiple Dimensions, by assigning them independent threads | WearBlackAllDay | Server | Incompatible (2) | 
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Automatically reduces rendering speed when minecraft is not focused (to 1 FPS) or hidden (no renders at all). | juliand665 | Client | none | 
 | [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view) | APTweaks | This is a small/light serverside utility mod to help balancing lag (TPS) and chunk view/load distance. | someaddon | Server | none |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Sodium[⁴](https://github.com/NordicGamerFE/usefulmods/tree/main#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium), DashLoader | EBE is a mod which aims to increase the performance of block entity rendering, as well as offer customizability via resource packs. | FoundationGames | Client | none |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Sodium[^1], DashLoader | EBE is a mod which aims to increase the performance of block entity rendering, as well as offer customizability via resource packs. | FoundationGames | Client | none |
 | [EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | None | EntityCulling using async path-tracing to skip rendering Tiles/Entities that are not visible | tr9zw | Client | none | 
 | [FastBench for Fabric](https://www.curseforge.com/minecraft/mc-mods/fastbench-for-fabric) | Recipe Cache | This is a mod aimed at improving performance of all crafting-related functions. | tfarecnim | Server | none |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | Unknown | This mod helps by removing dynamic models from chests and making them render as static chunk geometry. | fake_domi | Client | none | 
@@ -40,7 +40,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [ServerCore](https://modrinth.com/mod/servercore) | Unknown | A fabric mod that aims to optimize & add multiplayer features to the minecraft server. | Wesley1808 | Server | none | 
 | [Smoke Suppresion](https://www.curseforge.com/minecraft/mc-mods/smoke-suppression) | Unknown | This is to prevent client-side lag and general annoyance when using large numbers of campfires in farms. | supersaiyansubtlety | Client | none | 
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Unknown | Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems | UltimateBoomer | Both | none | 
-| [Sodium](https://modrinth.com/mod/sodium) | Mods that utilize of the FRAPI[⁴](https://github.com/NordicGamerFE/usefulmods/tree/main#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium) | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft | CaffeineMC | Client | Alpha (1) | 
+| [Sodium](https://modrinth.com/mod/sodium) | Mods that utilize of the FRAPI[^1] | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft | CaffeineMC | Client | Alpha (1) | 
 | [Starlight](https://modrinth.com/mod/starlight) | Unknown | Fabric mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both | none | 
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | Unknown | Very Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount without sacrificing vanilla functionality or behavior. | ishland | Server | none | 
 
@@ -50,7 +50,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)[⁵](/README.md#-ai-improvements-newer-versions-114-dont-have-as-much-impact-as-the-older-versions-have-since-in-newer-versions-of-minecraft-a-lot-of-fixes-to-the-ai-are-implemented-sources-curseforge-page-faq-dev) | None | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game | QueenOfMissiles | Server | none | 
+| [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)[^2] | None | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game | QueenOfMissiles | Server | none | 
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server | none |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) | Unknown | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client | none | 
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | Unknown | Better Biome Blend is a mod  which accelerates the biome color blending algorithm. | FionaTheMortal | Client | none |
@@ -72,3 +72,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Starlight x Create](https://www.curseforge.com/minecraft/mc-mods/starlight-x-create) | Unknown | Mod for completely rewriting the vanilla light engine. | Spottedleaf(PaperMC), Create Patch by: AeiouEnigma, Curseforge Upload and 1.18 Maintained by SirOMGitsYOU | Both | none |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+
+[^1]: Might work if you also use [Indium](https://modrinth.com/mod/indium).
+[^2]: AI Improvements newer versions (1.14+) don't have as much impact as the older versions have, since in newer versions of Minecraft, a lot of fixes to the AI are implemented ([Sources: Curseforge page FAQ, [Dev](https://media.discordapp.net/attachments/254806806516203520/831525756143534150/unknown.png)]).

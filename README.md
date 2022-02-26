@@ -64,15 +64,3 @@ Severity Level is used alongside labels for a clearer understanding of how sever
 | 6 | Very high chance to affect user |
 | 7 | Will affect user |
 | ? | Level of severity is unknown |
-
-## Extra Information
-You might find some superscripted numbers around the repository. These are used to tell extra information about the mods that labels and danger levels do not apply to.
-&nbsp;
-
-###### ¹ The mod should work if [Mixin-0-7-0-8-Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility) is applied. 
-###### ² Cull Particles isn't needed anymore in newer Forge versions, as it was implemented in Forge.
-###### ³ Do not blame me if you didn't read this notice. *If you try to load a older world in a newer instance of the game, and you have one of these mods installed, bad things will happen*, make sure to uninstall the mod first.
-###### ⁴ Some of the mods that have Sodium as an incompatibility, might work if you use [Indium](https://modrinth.com/mod/indium).
-###### ⁵ AI Improvements newer versions (1.14+) don't have as much impact as the older versions have, since in newer versions of Minecraft, a lot of fixes to the AI are implemented ([Sources: Curseforge page FAQ, [Dev](https://media.discordapp.net/attachments/254806806516203520/831525756143534150/unknown.png)]).
-###### ⁶ Halogen has issues with Forge's ExplosionEvent, see [sodium-forge#33](https://github.com/spoorn/sodium-forge/issues/33).
-###### ⁷ These mods also work on 1.17.x , despite having only 1.16 and 1.18 releases in curseforge, no workarounds needed. Install them like any other mods and your fabric loader won't complain about missing dependencies.

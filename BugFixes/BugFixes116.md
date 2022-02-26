@@ -10,16 +10,16 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) [⁷](/README.md#-these-mods-also-work-on-117x--despite-having-only-116-and-118-releases-in-curseforge-no-workarounds-needed-install-them-like-any-other-mods-and-your-fabric-loader-wont-complain-about-missing-dependencies) | Unknown | Rewrites one function of the advancements logic to make advancements checking faster, and use less recursion. | thetechnici4n | Client | none |
+| [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug) | Unknown | Rewrites one function of the advancements logic to make advancements checking faster, and use less recursion. | thetechnici4n | Client | none |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none |
 | [Carpet-Fixes](https://github.com/fxmorin/carpet-fixes/releases) | Unknown | Fabric Carpet extension mod which attempts to fix as many vanilla minecraft bugs as possible! | FX_PR0CESS | Both | Alpha (1) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should. | juliand665 | Client | none | 
 | [Erroring Entity Remover](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)| Unknown | Removes entities that throw errors and crash the game while ticking. | The_Fireplace | Both | Unstable (2) |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Stops the game from freezing when opening external links or folders | altrisi | Client | none |
-| [Night Vision flash be gone](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) [⁷](/README.md#-these-mods-also-work-on-117x--despite-having-only-116-and-118-releases-in-curseforge-no-workarounds-needed-install-them-like-any-other-mods-and-your-fabric-loader-wont-complain-about-missing-dependencies) | Unknown | Fixes night vision flashing | AshIndigo | Client | none |
+| [Night Vision flash be gone](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) | Unknown | Fixes night vision flashing | AshIndigo | Client | none |
 | [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | none |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | Unknown | Stops tooltips that are too large to fit on the screen from running off the screen | Kryptonaught | Client | none |
-| [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)[⁷](/README.md#-these-mods-also-work-on-117x--despite-having-only-116-and-118-releases-in-curseforge-no-workarounds-needed-install-them-like-any-other-mods-and-your-fabric-loader-wont-complain-about-missing-dependencies) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none |
+| [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none |
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
 
 ## Forge 1.16.X
