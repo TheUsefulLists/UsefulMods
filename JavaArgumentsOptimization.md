@@ -16,7 +16,7 @@ Replace int with a value. For example: -Xmx<2G>, -Xms<512M>
 Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g or G to indicate gigabytes
 
 - ### Xms
-    Sets the minimum and the initial size of the heap. It is best to set Xms equal to Xmx (the maximum heap size) to minimize garbage collections.
+    Sets the minimum and the initial size of the heap. It is best to set Xms equal to Xmx (the maximum heap size) to minimize potentially costly heap reallocations.
 
 - ### Xmx
     Sets the maximum size of the heap. Setting it to higher amounts reduces the frequency of garbage collections but causes larger lag spikes when the garbage collector runs. It is best to set this value to about half of the memory available on your system. Allocating any more memory than half will probably slow down your system significantly and may even result in your system crashing.
