@@ -8,7 +8,13 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 <hr>
 
-## Java Virtual Machines (JVMs)
+## Changing Java Arguments
+Here's how to change your java arguments in the official Minecraft Launcher. 
+1. Open the Minecraft Launcher, click on 'Installations', click on your profile and click on 'More Options'.
+2. Under 'More Options', you will find 'JVM arguments'.
+3. You can change or add your JVM arguments here.
+
+## Changing your Java Virtual Machines (JVM)
 There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSpot is the open-source JVM implementation by Oracle. OpenJ9 is a high performance, scalable, JVM implementation by Eclipse Foundation. OpenJ9 tends to perform better under most conditions. Here are some of the reasons why OpenJ9 is better than HotSpot -
 - 51% faster startup time
     By using shared classes cache and AOT technology, OpenJ9 starts in roughly half the time it takes HotSpot.
@@ -16,7 +22,15 @@ There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSp
 - 33% smaller footprint during load
     Consistent with the footprint results after startup, the OpenJ9 footprint remains much smaller than HotSpot when load is applied.
  
-You will find the important arguments for both of them below.  
+However, the official Minecraft launcher and some other launchers use HotSpot. If you want to use OpenJ9 JVM, then follow these instructions:
+1. Click [here](https://developer.ibm.com/languages/java/semeru-runtimes/downloads).
+2. Choose your operating system and architechture.
+3. Download the tar/zip file and extract it.
+4. Open the Minecraft Launcher, click on 'Installations', click on your profile and click on 'More Options'.
+5. Under 'Java Executable', click on 'Browse'. Then, find the location of the runtime you extracted. Open the 'bin' folder and select the 'javaw.exe' executable.
+6. Click on 'Save'.
+
+You will find the important arguments for both HotSpot and OpenJ9 below.  
 
 <hr>
 
