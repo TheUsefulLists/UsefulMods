@@ -9,7 +9,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 <hr>
 
 ## Java Virtual Machines (JVMs)
-There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSpot is the open-source JVM implementation by Oracle. OpenJ9 is a high performance, scalable, JVM implementation. OpenJ9 tends to perform better under most conditions. Here are some of the reasons why OpenJ9 is better than HotSpot -
+There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSpot is the open-source JVM implementation by Oracle. OpenJ9 is a high performance, scalable, JVM implementation by Eclipse Foundation. OpenJ9 tends to perform better under most conditions. Here are some of the reasons why OpenJ9 is better than HotSpot -
 - 51% faster startup time
     By using shared classes cache and AOT technology, OpenJ9 starts in roughly half the time it takes HotSpot.
 - 50% smaller footprint after startup
