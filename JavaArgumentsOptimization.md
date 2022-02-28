@@ -69,10 +69,6 @@ You will find the important arguments for both of them below.
 
 <br> For me the Shenandoah GC works best but I would recommend that you try all of them and see which works best on your system. Ideally, the ZGC should work best as it offers the highest throughput and the smallest pauses.
 
-<br> There is also one important JVM argument that is common to all garbage collectors;
-- ### MaxGCPauseMillis
-    The goal for the maximum pause time for clearing memory. It is set to 50 by default in the official Minecraft Launcher.
-
 <hr>
 
 ## OpenJ9 JVM arguments:
