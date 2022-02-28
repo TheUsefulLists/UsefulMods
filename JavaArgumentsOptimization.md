@@ -8,14 +8,14 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 <hr>
 
-## HotSpot vs OpenJ9
-HotSpot JVM is owned by Oracle and is open-sourced through the OpenJDK project while OpenJ9 JVM, devoloped by IBM, is open-sourced by Eclipse Foundation and available free-of-charge. In most cases, OpenJ9 JVM performs better than OpenJDK. These are some of the benifits of using OpenJ9 instead of HotSpot -
+## Java Virtual Machines (JVMs)
+There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSpot is the open-source JVM implementation by Oracle. OpenJ9 is a high performance, scalable, JVM implementation. OpenJ9 tends to perform better under most conditions. Here are some of the reasons why OpenJ9 is better than HotSpot -
 - 51% faster startup time
     By using shared classes cache and AOT technology, OpenJ9 starts in roughly half the time it takes HotSpot.
 - 50% smaller footprint after startup
 - 33% smaller footprint during load
     Consistent with the footprint results after startup, the OpenJ9 footprint remains much smaller than HotSpot when load is applied.
-    ##### and more. 
+ 
 You will find the important arguments for both of them below.  
 
 <hr>
