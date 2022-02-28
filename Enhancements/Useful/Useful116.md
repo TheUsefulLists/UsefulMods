@@ -11,6 +11,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [AFKPeace](https://modrinth.com/mod/afkpeace) | Unknown | Adds peace-of-mind features for AFKing. | AMereBagatelle | Client | none | 
+| [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client | none |
 | [DeathLog](https://modrinth.com/mod/deathlog) | Unknown | Keeps track of the many embarrassing times you died | glisco | Client | none |
 | [Durability Viewer](https://modrinth.com/mod/durabilityviewer) | Unknown | Armor and Tool durability HUD | Giselbaer | Client | none |
 | [EasierChests](https://modrinth.com/mod/easierchests) | Unknown | Move items between inventory and chests easily, includes a sorter | Giselbaer | Client | none |
@@ -33,6 +34,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client | none |
 | [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Both | none |
 | [Full Brightness Toggle](https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle) | Unknown | Full Brightness Toggle is a client-side mod which allows players to instantly turn the brightness (gamma) to full with the press of a button | Serilum | Client | none |
 | [WTHIT](https://modrinth.com/mod/wthit) | Unknown | Shows the name of the targetted block | deirn | Client | none |

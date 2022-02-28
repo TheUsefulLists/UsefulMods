@@ -33,7 +33,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Hydrogen](https://modrinth.com/mod/hydrogen) | DashLoader | Reduces the memory usage of the game in more modded scenarios | CaffeineMC | Client | Alpha (1) |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Unknown | Krypton is a Minecraft mod designed for the Fabric mod loader that implements a suite of optimizations focused on the Minecraft networking stack | astei | Both | Alpha (1) |
 | [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) | Unknown | Speeds up your world loading by not loading nearby chunks every time. | VidTu | Both | Reverse Features (1) |
-| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Mods that remove the DFU | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | astei | Both | none |
+| [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | None | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | astei | Both | none |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | None | Lithium is a general-purpose optimization mod for Minecraft which works to improve a number of systems without changing any behavior | CaffeineMC | Server | none |
 | [MCMT-Fabric](https://hatebin.com/zzlqgepiwk) | Carpet, Dimensional Threading | This is a mod, that attempts to multithread minecraft's tick execution. | himekifee | Server | Corruption (1) |
 | [Observable](https://modrinth.com/mod/observable) | Unknown | Shows what's lagging your world/server by profiling (tile) entities. | tasgon | Server | none |
