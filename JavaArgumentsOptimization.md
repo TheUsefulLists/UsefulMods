@@ -10,7 +10,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 ## Memory
 
-``` -Xms<int> -Xmx<int> ```
+``` -Xms<int> -Xmx<int> -Xmn<int>```
 
 Replace int with a value. For example: -Xmx<2G>, -Xms<512M>
 Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g or G to indicate gigabytes
@@ -20,6 +20,9 @@ Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g 
 
 - ### Xmx
     Sets the maximum size of the heap. Setting it to higher amounts reduces the frequency of garbage collections but causes larger lag spikes when the garbage collector runs. It is best to set this value to about half of the memory available on your system. Allocating any more memory than half will probably slow down your system significantly and may even result in your system crashing.
+
+- ### Xmn
+    Sets the initial and maximum size of the heap for the young generation (nursery). Oracle recommends that you keep the size for the young generation between a half and a quarter of the overall heap size. I would recommend 40%.
 
 <hr>
 
