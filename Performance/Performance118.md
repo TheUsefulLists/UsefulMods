@@ -70,6 +70,5 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Radium Reforged](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) | Unknown | Radium is an Unofficial Fork of CaffeineMC's "Lithium," made to work with Forge Mod Loader | Asek3 | Both | none |
 | [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) | Magnesium | Rubidium is an Unofficial Fork of CaffeineMC's "Sodium", made to work with Forge Mod Loader | Asek3 | Client | none |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Forge mod for rewriting the light engine to fix lighting performance and lighting errors | SpottedLeaf (PaperMC) | Server | none | 
-| [Starlight x Create](https://www.curseforge.com/minecraft/mc-mods/starlight-x-create) | Unknown | Mod for completely rewriting the vanilla light engine. | Spottedleaf(PaperMC), Create Patch by: AeiouEnigma, Curseforge Upload and 1.18 Maintained by SirOMGitsYOU | Both | none |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
