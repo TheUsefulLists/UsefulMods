@@ -53,26 +53,26 @@ You will find the important arguments for both HotSpot and OpenJ9 below.
 
 ## HotSpot JVM arguments:
 
-## Garbage Collectors
-There are many garbage collectors, out of which the Parallel collector, G1 garbage collector, Z garbage collector and Shenandoah garbage collector are best-suited for Minecraft.
+- ## Garbage Collectors
+    There are many garbage collectors, out of which the Parallel collector, G1 garbage collector, Z garbage collector and Shenandoah garbage collector are best-suited for Minecraft.
 
-- ### Parallel Garbage Collector
-    The parallel collector (also known as the throughput collector) performs minor collections in parallel, which can significantly reduce garbage collection overhead.
-    <br> The parallel collector can be enabled with the option ```-XX:+UseParallelGC```. It is best suited for systems with few threads.
+    - ### Parallel Garbage Collector
+        The parallel collector (also known as the throughput collector) performs minor collections in parallel, which can significantly reduce garbage collection overhead.
+        <br> The parallel collector can be enabled with the option ```-XX:+UseParallelGC```. It is best suited for systems with few threads.
 
-- ### Garbage-First Garbage Collector
-    The Garbage-First (G1) garbage collector attempts to meet garbage collection (GC) pause time goals with high probability while achieving high throughput.
-    <br> The Garbage-First (G1) garbage collector is enabled using the command-line option ```-XX:+UseG1GC```. It is used by default in most launchers including the official one.
+    - ### Garbage-First Garbage Collector
+        The Garbage-First (G1) garbage collector attempts to meet garbage collection (GC) pause time goals with high probability while achieving high throughput.
+        <br> The Garbage-First (G1) garbage collector is enabled using the command-line option ```-XX:+UseG1GC```. It is used by default in most launchers including the official one.
 
-- ### Z Garbage Collector
-    The Z Garbage Collector, also known as ZGC, is a scalable low latency garbage collector designed to meet sub-millisecond max pause times, pause times that do not increase with the heap size and to handle heaps ranging from 8MB to 16TB in size.
-    <br> The Z Garbage Collector is enabled using the command-line option ```-XX:+UseZGC```. It isn’t supported in Java 8, so only use it for Minecraft versions 1.17 and above.
+    - ### Z Garbage Collector
+        The Z Garbage Collector, also known as ZGC, is a scalable low latency garbage collector designed to meet sub-millisecond max pause times, pause times that do not increase with the heap size and to handle heaps ranging from 8MB to 16TB in size.
+        <br> The Z Garbage Collector is enabled using the command-line option ```-XX:+UseZGC```. It isn’t supported in Java 8, so only use it for Minecraft versions 1.17 and above.
 
-- ### Shenandoah Garbage Collector
-    Shenandoah is the low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behaviour. 
-    <br> The Shenandoah GC is enabled using the command-line option ```-XX:+UseShenandoahGC```. It does not ship in Oracle JDK builds, so you will have to use other vendors for your JDK builds like AdoptOpenJDK and Azul.
+    - ### Shenandoah Garbage Collector
+        Shenandoah is the low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behaviour. 
+        <br> The Shenandoah GC is enabled using the command-line option ```-XX:+UseShenandoahGC```. It does not ship in Oracle JDK builds, so you will have to use other vendors for your JDK builds like AdoptOpenJDK and Azul.
 
-<br> For me the Shenandoah GC works best but I would recommend that you try all of them and see which works best on your system.
+    <br> For me the Shenandoah GC works best but I would recommend that you try all of them and see which works best on your system.
 
 <hr>
 
