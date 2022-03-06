@@ -14,76 +14,98 @@ Here's how to change your java arguments in the official Minecraft Launcher.
 2. Under 'More Options', you will find 'JVM arguments'.
 3. You can change or add your JVM arguments here.
 
+<hr>
+
+## Memory
+
+``` -Xms<int> -Xmx<int> ```
+
+Replace int with a value. For example: -Xmx<2G>, -Xms<512M>
+Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g or G to indicate gigabytes
+
+- ### Xms
+    Sets the minimum and the initial size of the heap. It is best to set Xms equal to Xmx (the maximum heap size) to minimize garbage collections.
+
+- ### Xmx
+    Sets the maximum size of the heap. Setting it to higher amounts reduces the frequency of garbage collections but causes larger lag spikes when the garbage collector runs. It is best to set this value to about half of the memory available on your system. Allocating any more than that will slow down your system and is not recommended.
+
+<hr>
+
 ## Changing your Java Virtual Machine (JVM)
-There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSpot is the open-source JVM implementation by Oracle. OpenJ9 is a high performance, scalable, JVM implementation by Eclipse Foundation. OpenJ9 tends to perform better under most conditions. Here are some of the reasons why OpenJ9 is better than HotSpot -
+There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSpot is the open-source JVM implementation by Oracle while OpenJ9 is a high performance, scalable, JVM implementation by Eclipse Foundation. OpenJ9 tends to perform better under most conditions. Here are some of the reasons why OpenJ9 is better than HotSpot -
 - 51% faster startup time
-    <br> By using shared classes cache and AOT technology, OpenJ9 starts in roughly half the time it takes HotSpot.
 - 50% smaller footprint after startup
 - 33% smaller footprint during load
-    <br> Consistent with the footprint results after startup, the OpenJ9 footprint remains much smaller than HotSpot when load is applied.
  
 However, the official Minecraft launcher and most other launchers use HotSpot. If you want to use OpenJ9 JVM, then follow these instructions:
 1. Click [here](https://developer.ibm.com/languages/java/semeru-runtimes/downloads).
 2. Choose your operating system and architechture.
-3. Download the tar/zip file and extract it.
-4. Open the Minecraft Launcher, click on 'Installations', click on your profile and click on 'More Options'.
-5. Under 'Java Executable', click on 'Browse'. Then, find the location of the runtime you extracted. Open the 'bin' folder and select the 'javaw.exe' executable.
-6. Click on 'Save'.
+3. Chose Java 17 for Minecraft versions 1.17+ and Java 8 for 1.16 and below.
+4. Download the tar/zip file and extract it.
+5. Open the Minecraft Launcher, click on 'Installations', click on your profile and click on 'More Options'.
+6. Under 'Java Executable', click on 'Browse'. Then, find the location of the runtime you extracted. Open the 'bin' folder and select the 'javaw.exe' executable.
+7. Click on 'Save'.
 
 You will find the important arguments for both HotSpot and OpenJ9 below.  
+
 
 <hr>
 
 ## HotSpot JVM arguments:
-- ## Memory
 
-    ``` -Xms<int> -Xmx<int> ```
+## Garbage Collectors
+There are many garbage collectors, out of which the Parallel collector, G1 garbage collector, Z garbage collector and Shenandoah garbage collector are best-suited for Minecraft.
 
-    Replace int with a value. For example: -Xmx<2G>, -Xms<512M>
-    Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g or G to indicate gigabytes
+- ### Parallel Garbage Collector
+    The parallel collector (also known as the throughput collector) performs minor collections in parallel, which can significantly reduce garbage collection overhead.
+    <br> The parallel collector can be enabled with the option ```-XX:+UseParallelGC```. It is best suited for systems with few threads.
 
-    - ### Xms
-        Sets the minimum and the initial size of the heap. It is best to set Xms equal to Xmx (the maximum heap size) to minimize potentially costly heap reallocations.
+- ### Garbage-First Garbage Collector
+    The Garbage-First (G1) garbage collector attempts to meet garbage collection (GC) pause time goals with high probability while achieving high throughput.
+    <br> The Garbage-First (G1) garbage collector is enabled using the command-line option ```-XX:+UseG1GC```. It is used by default in most launchers including the official one.
 
-    - ### Xmx
-        Sets the maximum size of the heap. Setting it to higher amounts reduces the frequency of garbage collections but causes larger lag spikes when the garbage collector runs. It is best to set this value to about half of the memory available on your system. Allocating any more memory than half will probably slow down your system significantly and may even result in your system crashing.
+- ### Z Garbage Collector
+    The Z Garbage Collector, also known as ZGC, is a scalable low latency garbage collector designed to meet sub-millisecond max pause times, pause times that do not increase with the heap size and to handle heaps ranging from 8MB to 16TB in size.
+    <br> The Z Garbage Collector is enabled using the command-line option ```-XX:+UseZGC```. It isn’t supported in Java 8, so only use it for Minecraft versions 1.17 and above.
 
+- ### Shenandoah Garbage Collector
+    Shenandoah is the low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behaviour. 
+    <br> The Shenandoah GC is enabled using the command-line option ```-XX:+UseShenandoahGC```. It does not ship in Oracle JDK builds, so you will have to use other vendors for your JDK builds like AdoptOpenJDK and Azul.
 
-- ## Garbage Collectors
-
-    - ### Serial Garbage Collector
-        The serial collector uses a single thread to perform all garbage collection work, which makes it relatively efficient because there is no communication overhead between threads. It is best-suited to single processor machines, because it cannot take advantage of multiprocessor hardware, although it can be useful on multiprocessors for applications with small data sets (up to approximately 100 MB). 
-        <br> The serial collector can be enabled with the option ```-XX:+UseSerialGC```.
-
-    - ### Parallel Garbage Collector
-        The parallel collector (also known as the throughput collector) performs minor collections in parallel, which can significantly reduce garbage collection overhead. It is intended for applications with medium-sized to large-sized data sets that are run on multiprocessor or multithreaded hardware. 
-        <br> The parallel collector can be enabled with the option ```-XX:+UseParallelGC```.
-
-    ### Mostly Concurrent Garbage Collectors
-    The mostly concurrent collectors perform most of their work concurrently (for example, while the application is still running) to keep garbage collection pauses short.
-
-    - #### Concurrent Mark Sweep Collector
-        The Concurrent Mark Sweep (CMS) collector is designed for applications that prefer shorter garbage collection pauses and that can afford to share processor resources with the garbage collector while the application is running. Typically applications that have a relatively large set of long-lived data and run on machines with two or more processors tend to benefit from the use of this collector. However, this collector should be considered for any application with a low pause time requirement. 
-        <br> The CMS collector is enabled with the command-line option ```-XX:+UseConcMarkSweepGC```.
-
-    - #### Garbage-First Garbage Collector
-        The Garbage-First (G1) garbage collector is a server-style garbage collector, targeted for multiprocessor machines with large memories. It attempts to meet garbage collection (GC) pause time goals with high probability while achieving high throughput.
-        <br> The Garbage-First (G1) garbage collector is enabled using the command-line option ```-XX:+UseG1GC```. It is used by default in most launchers including the official one.
-
-    - #### Z Garbage Collector
-        The Z Garbage Collector, also known as ZGC, is a scalable low latency garbage collector designed to meet sub-millisecond max pause times, pause times that do not increase with the heap size and to handle heaps ranging from 8MB to 16TB in size.
-        <br> The Z Garbage Collector is enabled using the command-line option ```-XX:+UseZGC```. It isn’t supported in Java 8, so only use it for Minecraft versions 1.17 and above.
-
-    - #### Shenandoah Garbage Collector
-        Shenandoah is the low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Shenandoah does the bulk of GC work concurrently, including the concurrent compaction, which means its pause times are no longer directly proportional to the size of the heap. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behaviour. 
-        <br> The Shenandoah GC is enabled using the command-line option ```-XX:+UseShenandoahGC```. It does not ship in Oracle JDK builds, so you will have to use other vendors for your JDK builds like AdoptOpenJDK and Azul.
-
-<br> For me the Shenandoah GC works best but I would recommend that you try all of them and see which works best on your system. Ideally, the ZGC should work best as it offers the highest throughput and the smallest pauses.
+<br> For me the Shenandoah GC works best but I would recommend that you try all of them and see which works best on your system.
 
 <hr>
 
 ## OpenJ9 JVM arguments:
-- WIP
+
+- ## GC Policies
+    There are 6 GC policies - gencon, balanced, optavgpause, optthruput, metronome and nogc. Out of these, the gencon and balanced policies are best-suited for Minecraft.
+
+    - ### gencon (default)
+        This policy aims to minimize GC pause times without compromising throughput. This policy breaks the Java heap into a nursery and a tenured space. All objects are allocated initially into the nursery. If an object survives a certain number of collections while in the nursery, it will be moved into the tenured space, which is only collected when it is full.
+        <br> The gencon policy is enabled with the command-line option ```-Xgcpolicy:gencon```. However, you don't need to specify it since it is the default policy.
+
+    - ### balanced
+        This policy divides the heap into a number of regions (1,000 - 2,000), each of which is individually managed and garbage-collected.
+        <br> The balanced policy is enabled with the command-line option ```-Xgcpolicy:balanced```.
+
+    <br> The default policy (gencon) is ideal for Minecraft versions 1.12 and below. However, for versions 1.13 and above, you should use the balanced policy as the gencon policy causes increased strain on the garbage collector subsystem.
+
+
+- ## Nursery size
+
+    This only applies if you are using the default GC policy (gencon).
+
+    ``` -Xmns<int> -Xmnx<int>```
+    
+    Replace int with a value. For example: -Xmnx<2G>, -Xmns<512M>.
+    Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g or G to indicate gigabytes
+
+    - ### Xmns
+        Sets the minimum size of the nursery. The default value is 25% of -Xms and that is a good value that doesn't need any changing.
+
+    - ### Xmnx
+        Sets the maximum size of the nursery. The default value is 25% of -Xmx and since -Xmx is equal to -Xms the nursery will never grow. Minecraft creates a lot of short-lived objects, so it is better to set this to a larger value like 50% of -Xmx.
 
 <hr>
 
@@ -92,6 +114,6 @@ These are probably the only JVM arguments you will ever need to change. Be caref
 Sources:
 <br> [Oracle docs](https://docs.oracle.com/en/)
 <br> [OpenJDK Wiki](https://wiki.openjdk.java.net/)
-<br> [Eclipse OpenJ9](https://www.eclipse.org/openj9/docs/)
+<br> [Eclipse OpenJ9 docs](https://www.eclipse.org/openj9/docs/)
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
