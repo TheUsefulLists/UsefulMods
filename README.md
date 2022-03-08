@@ -38,6 +38,8 @@ Keep in mind that nothing in the github issues is screened for harmful code (or 
 | [World Management](Software/SoftwareWorldManagement.md) |
 | [Server Management](Software/SoftwareServerManagement.md) |
 
+## [Java Arguments optimization](JavaArgumentsOptimization.md)
+
 ## Labels
 Labels are used to give you a better understanding of how a mod may act.
 
