@@ -52,7 +52,7 @@ There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSp
 - 50% smaller footprint after startup
 - 33% smaller footprint during load
  
-However, the official Minecraft launcher and most other launchers use HotSpot. If you want to use OpenJ9 JVM, then follow these instructions:
+However, some mods won't allow for the use of OpenJ9. For this reason, I will be including arguments for both HotSpot and OpenJ9. If you want to use OpenJ9 JVM, then follow these instructions:
 1. Click [here](https://developer.ibm.com/languages/java/semeru-runtimes/downloads).
 2. Choose your operating system and architechture.
 3. Chose Java 17 for Minecraft versions 1.17+ and Java 8 for 1.16 and below.
@@ -60,9 +60,6 @@ However, the official Minecraft launcher and most other launchers use HotSpot. I
 5. Open the Minecraft Launcher, click on 'Installations', click on your profile and click on 'More Options'.
 6. Under 'Java Executable', click on 'Browse'. Then, find the location of the runtime you extracted. Open the 'bin' folder and select the 'javaw.exe' executable.
 7. Click on 'Save'.
-
-You will find the important arguments for both HotSpot and OpenJ9 below.  
-
 
 <hr>
 
