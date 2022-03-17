@@ -23,11 +23,14 @@ Keep in mind that nothing in the github issues is screened for harmful code (or 
 | 1.8.9 and below | [✔️ Available](Performance/PerformanceOld.md) | [⚠️ WIP](BugFixes/BugFixesOld.md)
 
 ### Enhancement mods
-| Version | Essentials | Useful | Improvements |
-| :-: | :-: | :-: | :-: |
-| 1.18.x | [✔️ Available](Enhancements/Essentials/Essentials118.md) | [✔️ Available](Enhancements/Useful/Useful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) |
-| 1.17.x | [✔️ Available](Enhancements/Essentials/Essentials117.md) | [✔️ Available](Enhancements/Useful/Useful117.md) | [✔️ Available](Enhancements/Improvements/Improvements117.md) |
-| 1.16.x | [✔️ Available](Enhancements/Essentials/Essentials116.md) | [✔️ Available](Enhancements/Useful/Useful116.md) | [✔️ Available](Enhancements/Improvements/Improvements116.md) |
+| Version | Helpful | Improvements |
+| :-: | :-: | :-: |
+| 1.18.x | [✔️ Available](Enhancements/Helpful/Helpful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) |
+| 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvementsl117.md) |
+| 1.16.x | [✔️ Available](Enhancements/Helpful/Helpful116.md) | [✔️ Available](Enhancements/Improvements/Improvements116.md) |
+| 1.15.x | [⚠️ WIP](Enhancements/Helpful/Helpful115.md) | [⚠️ WIP](Enhancements/Improvements/Improvements115.md) |
+| 1.12.x | [⚠️ WIP](Enhancements/Helpful/Helpful112.md) | [⚠️ WIP](Enhancements/Improvements/Improvements112.md) |
+| 1.8.9 and below | [⚠️ WIP](Enhancements/Helpful/HelpfulOld.md) | [⚠️ WIP](Enhancements/Improvements/ImprovementsOld.md) |
 
 ## External Software
 | Theme |
