@@ -1,4 +1,5 @@
 # Java arguments optimization
+
 Java arguments that you can change to potentially get better performance.
 
 Any suggestions/complaints?<br>
@@ -9,6 +10,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 <hr>
 
 ## Changing Java Arguments
+
 Here's how to change your java arguments in the official Minecraft Launcher. 
 1. Open the Minecraft Launcher, click on 'Installations', click on your profile and click on 'More Options'.
 2. Under 'More Options', you will find 'JVM arguments'.
@@ -24,7 +26,7 @@ These flags are made by Aikar and you can find the explanation for the flags
 Use these flags exactly, only changing Xmx and Xms. These flags work and scale accordingly to any size of memory.
 
 ``` 
-java -Xms10G -Xmx10G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -jar paperclip.jar nogui 
+java -Xms10G -Xmx10G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1
 ```
 
 If you want to make your own custom flags that suit your PC and your needs, keep reading.
@@ -47,12 +49,9 @@ Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g 
 <hr>
 
 ## Changing your Java Virtual Machine (JVM)
-There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSpot is the open-source JVM implementation by Oracle while OpenJ9 is a high performance, scalable, JVM implementation by Eclipse Foundation. OpenJ9 tends to perform better under most conditions. Here are some of the reasons why OpenJ9 is better than HotSpot -
-- 51% faster startup time
-- 50% smaller footprint after startup
-- 33% smaller footprint during load
- 
-However, some mods won't allow for the use of OpenJ9. For this reason, I will be including arguments for both HotSpot and OpenJ9. If you want to use OpenJ9 JVM, then follow these instructions:
+
+There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSpot is the open-source JVM implementation by Oracle while OpenJ9 is a JVM implementation by Eclipse Foundation. While HotSpot tends to perform much better than OpenJ9, OpenJ9 only uses about half the memory HotSpot uses. So if you have a small amount of RAM on your system, I would recommend OpenJ9 while if you have plenty of RAM to allocate to Minecraft I would recommend HotSpot. I will be including arguments for both HotSpot and OpenJ9. If you want to use the OpenJ9 JVM, then follow these instructions:
+
 1. Click [here](https://developer.ibm.com/languages/java/semeru-runtimes/downloads).
 2. Choose your operating system and architechture.
 3. Chose Java 17 for Minecraft versions 1.17+ and Java 8 for 1.16 and below.
@@ -66,26 +65,13 @@ However, some mods won't allow for the use of OpenJ9. For this reason, I will be
 ## HotSpot JVM arguments:
 
 - ## Garbage Collectors
-    There are many garbage collectors, out of which the Parallel collector, G1 garbage collector, Z garbage collector and Shenandoah garbage collector are best-suited for Minecraft.
+    There are many garbage collectors, out of which the Shenandoah garbage collector is best-suited for Minecraft.
 
-    - ### Parallel Garbage Collector
-        The parallel collector (also known as the throughput collector) performs minor collections in parallel, which can significantly reduce garbage collection overhead.
-        <br> The parallel collector can be enabled with the option ```-XX:+UseParallelGC```. It is best suited for systems with few threads.
-
-    - ### Garbage-First Garbage Collector
-        The Garbage-First (G1) garbage collector attempts to meet garbage collection (GC) pause time goals with high probability while achieving high throughput.
-        <br> The Garbage-First (G1) garbage collector is enabled using the command-line option ```-XX:+UseG1GC```. It is used by default in most launchers including the official one.
-
-    - ### Z Garbage Collector
-        The Z Garbage Collector, also known as ZGC, is a scalable low latency garbage collector designed to meet sub-millisecond max pause times, pause times that do not increase with the heap size and to handle heaps ranging from 8MB to 16TB in size.
-        <br> The Z Garbage Collector is enabled using the command-line option ```-XX:+UseZGC```. It isn’t supported in Java 8, so only use it for Minecraft versions 1.17 and above.
-
-    - ### Shenandoah Garbage Collector
-        Shenandoah is the low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behaviour. 
-        <br> The Shenandoah GC is enabled using the command-line option ```-XX:+UseShenandoahGC```. It does not ship in Oracle JDK builds, so you will have to use other vendors for your JDK builds like AdoptOpenJDK and Azul.
-
-    <br> For me the Shenandoah GC works best but I would recommend that you try all of them and see which works best on your system.
-
+    It is a low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behaviour when using Shenandoah.
+    It is enabled using the command-line option ```-XX:+UseShenandoahGC```. It does not ship in Oracle JDK builds, so you will have to use other vendors for your JDK builds like AdoptOpenJDK and Azul.
+    
+    The default GC used is G1, but the G1GC can cause pretty big lag spikes when collecting large heaps. For this reason, I would recommend that you use the Shenandoah GC instead of the G1GC. When I tested Shenandoah with 4GB of RAM allocated, there were zero noticeable stutters caused by the GC.
+    
 <hr>
 
 ## OpenJ9 JVM arguments:
