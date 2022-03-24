@@ -20,8 +20,7 @@ Here's how to change your java arguments in the official Minecraft Launcher.
 
 ## Aikar's flags
 
-These flags are made by Aikar and you can find the explanation for the flags
-[here](https://aikar.co/mcflags.html).
+These flags are made by Aikar and you can find the explanation for the flags [here](https://aikar.co/mcflags.html).
 
 Use these flags exactly, only changing Xmx and Xms. These flags work and scale accordingly to any size of memory.
 
@@ -37,7 +36,7 @@ If you want to make your own custom flags that suit your PC and your needs, keep
 
 ``` -Xms<int> -Xmx<int> ```
 
-Replace int with a value. For example: -Xmx<2G>, -Xms<512M>
+Replace int with a value. For example: -Xmx2G, -Xms512M
 Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g or G to indicate gigabytes
 
 - ### Xms
@@ -64,46 +63,41 @@ There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSp
 
 ## HotSpot JVM arguments:
 
-- ## Garbage Collectors
+- ## Garbage Collection
     There are many garbage collectors, out of which the Shenandoah garbage collector is best-suited for Minecraft.
 
     It is a low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behaviour when using Shenandoah.
-    It is enabled using the command-line option ```-XX:+UseShenandoahGC```. It does not ship in Oracle JDK builds, so you will have to use other vendors for your JDK builds like AdoptOpenJDK and Azul.
+    It is enabled using the command-line option ```-XX:+UseShenandoahGC```. It isn't supported by all vendors, so check if your vendor supports it [here](https://wiki.openjdk.java.net/display/shenandoah/Main).    
     
     The default GC used is G1, but the G1GC can cause pretty big lag spikes when collecting large heaps. For this reason, I would recommend that you use the Shenandoah GC instead of the G1GC. When I tested Shenandoah with 4GB of RAM allocated, there were zero noticeable stutters caused by the GC.
+
+    There is also this option called AlwaysPreTouch (```-XX:+AlwaysPreTouch```) which you should use to improve performance.
     
 <hr>
 
 ## OpenJ9 JVM arguments:
 
 - ## GC Policies
-    There are 6 GC policies - gencon, balanced, optavgpause, optthruput, metronome and nogc. Out of these, the gencon and balanced policies are best-suited for Minecraft.
+    There are 6 GC policies - gencon, balanced, optavgpause, optthruput, metronome and nogc. Out of these, the gencon policy is best-suited for Minecraft. It is similiar in performance to the G1GC in HotSpot.
 
-    - ### gencon (default)
-        This policy aims to minimize GC pause times without compromising throughput. This policy breaks the Java heap into a nursery and a tenured space. All objects are allocated initially into the nursery. If an object survives a certain number of collections while in the nursery, it will be moved into the tenured space, which is only collected when it is full.
-        <br> The gencon policy is enabled with the command-line option ```-Xgcpolicy:gencon```. However, you don't need to specify it since it is the default policy.
-
-    - ### balanced
-        This policy divides the heap into a number of regions (1,000 - 2,000), each of which is individually managed and garbage-collected.
-        <br> The balanced policy is enabled with the command-line option ```-Xgcpolicy:balanced```.
-
-    <br> The default policy (gencon) is ideal for Minecraft versions 1.12 and below. However, for versions 1.13 and above, you should use the balanced policy as the gencon policy causes increased strain on the garbage collector subsystem.
+    This policy breaks the Java heap into a nursery and a tenured space. All objects are initially allocated into the nursery. If an object survives a certain number of collections while in the nursery, it will be moved into the tenured space, which is only collected when it is full.
+    The gencon policy is enabled with the command-line option ```-Xgcpolicy:gencon```. However, you don't need to specify it since it is the default policy.
 
 
 - ## Nursery size
 
     This only applies if you are using the default GC policy (gencon).
 
-    ``` -Xmns<int> -Xmnx<int>```
+    ``` -Xmns<int> -Xmnx<int> ```
     
-    Replace int with a value. For example: -Xmnx<2G>, -Xmns<512M>.
+    Replace int with a value. For example: -Xmnx2G, -Xmns512M
     Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g or G to indicate gigabytes
 
     - ### Xmns
         Sets the minimum size of the nursery. The default value is 25% of -Xms and that is a good value that doesn't need any changing.
 
     - ### Xmnx
-        Sets the maximum size of the nursery. The default value is 25% of -Xmx and since -Xmx is equal to -Xms the nursery will never grow. Minecraft creates a lot of short-lived objects, so it is better to set this to a larger value like 50% of -Xmx.
+        Sets the maximum size of the nursery. The default value is 25% of -Xmx and when -Xmx is set to -Xms the nursery will never grow. Minecraft creates a lot of short-lived objects, so it is better to set this to a larger value like 40% of -Xmx.
 
 <hr>
 
