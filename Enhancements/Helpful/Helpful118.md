@@ -13,7 +13,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [AFKPeace](https://modrinth.com/mod/afkpeace) | Unknown | Adds peace-of-mind features for AFKing. | AMereBagatelle | Client | none | 
 | [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client | none |
 | [ClearDespawn](https://modrinth.com/mod/cleardespawn) | Unknown | Make items blink when they're about to despawn | Giselbaer | Client | none |
-| [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Both | none |
+| [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Client | none |
 | [DeathLog](https://modrinth.com/mod/deathlog) | Unknown | Keeps track of the many embarrassing times you died | glisco | Client | none |
 | [Durability Viewer](https://modrinth.com/mod/durabilityviewer) | Unknown | Armor and Tool durability HUD | Giselbaer | Client | none |
 | [EasierChests](https://modrinth.com/mod/easierchests) | Unknown | Move items between inventory and chests easily, includes a sorter | Giselbaer | Client | none |
