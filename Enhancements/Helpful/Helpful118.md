@@ -32,7 +32,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Unknown | Adds a highly-configurable zoom key for Fabric | Ennui | Client | Alpha (1) |
 | [StepUp](https://modrinth.com/mod/stepup) | Unknown | Increase your step height - like autojump but without the disadvantages | Giselbaer | Client | none |
 | [TabTPS](https://modrinth.com/mod/tabtps) | Unknown | Monitor your server's performance in the tab menu, boss bar, and action bar | jpenilla | Server | none |
-| [Tweakaroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) | Unknown | Tweakeroo is a client-side mod, which adds a whole bunch of various different "tweaks" to the game | masady | Client | none |
+| [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) | Unknown | Tweakeroo is a client-side mod, which adds a whole bunch of various different "tweaks" to the game | masady | Client | none |
 | [WTHIT](https://modrinth.com/mod/wthit) | Unknown | Shows the name of the targetted block | deirn | Client | none |
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Unknown | Adds a minimap to Minecraft | xaero96 | Both | none |
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Unknown | Adds a self-writing fullscreen map to Minecraft | xaero96 | Both | none |
