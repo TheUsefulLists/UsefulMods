@@ -29,7 +29,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | Unknown | A mod to add clean and useful HUD widgets | DarkKronicle | Client | Alpha (1) |
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) | Unknown | A client-side mod that allows displaying various "info lines" on the screen ("mini-F3") | masady | Client | none |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Unknown | Adds a mod menu to view the list of mods you have installed | Prospector | Client | none |
-| [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Unknown | Adds a highly-configurable zoom key for Fabric | Ennui | Client | Alpha (1) |
 | [StepUp](https://modrinth.com/mod/stepup) | Unknown | Increase your step height - like autojump but without the disadvantages | Giselbaer | Client | none |
 | [TabTPS](https://modrinth.com/mod/tabtps) | Unknown | Monitor your server's performance in the tab menu, boss bar, and action bar | jpenilla | Server | none |
 | [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) | Unknown | Tweakeroo is a client-side mod, which adds a whole bunch of various different "tweaks" to the game | masady | Client | none |
