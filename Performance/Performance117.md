@@ -34,17 +34,19 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | None | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | astei | Both | none |
 | [Lazy Language Loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader) | Unknown | Lazy Language Loader improves loading times when changing your language by only reloading the language instead of all the game resources! | chachylmao | Client | none |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | none | Lithium is a general-purpose optimization mod for Minecraft which works to improve a number of systems without changing any behavior | CaffeineMC | Server | none |
+| [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) | Unknown | A mod that fixes multiple memory leaks in minecraft. Both server-side & client-side. | FX_PR0CESS | Both | none | 
 | [Observable](https://github.com/tasgon/observable/releases/tag/0.1.2-1.17) | Unknown | Shows what's lagging your world/server by profiling (tile) entities. | tasgon | Server | none |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | Starlight | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas, the lighting engine | CaffeineMC | Both | none |
 | [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) | FastFurnace, FastBench (?) | Caches recipe lookup for crafting and furnaces to lessen server lag caused by crafting stacks of items and large amounts of furnaces ticking | biom4st3r1 | Server |  none |
 | [Resolution Control+](https://github.com/UltimateBoomer/Resolution-Control/releases) | Unknown | ResolutionControl+ allows you to change Minecraft's render resolution separately from the HUD elements. | Ultimate Boomer | Client | none |
 | [ServerCore](https://modrinth.com/mod/servercore) | Unknown | A fabric mod that aims to optimize & add multiplayer features to the minecraft server. | Wesley1808 | Server | Buggy (2) |
+| [Simply No Shading](https://www.curseforge.com/minecraft/mc-mods/simply-no-shading) | This mod mimics OptiFine's Internal Shader with Old Lighting OFF by default. Benefits are less lag as this mod is not a shader, stability, and compatibility with other mods. | StartsMercury | Client | none | 
 | [Smoke Suppresion](https://www.curseforge.com/minecraft/mc-mods/smoke-suppression) | Unknown | This is to prevent client-side lag and general annoyance when using large numbers of campfires in farms. | supersaiyansubtlety | Client | none |
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Unknown | Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems | UltimateBoomer | Both | none |
 | [Sodium](https://modrinth.com/mod/sodium) | Mods that utilize the FRAPI[⁴](https://github.com/NordicGamerFE/usefulmods/tree/main#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium) | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft | CaffeineMC | Client |  none |
 | [Starlight](https://modrinth.com/mod/starlight) | Unknown | Fabric mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both |  none |
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | Unknown | Very Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount without sacrificing vanilla functionality or behavior. | ishland | Server |  Alpha (4) |
-
+| [VulkanMod](https://github.com/xCollateral/VulkanMod/releases) | Unknown | a fabric mod that rewrites Minecraft OpenGL renderer to use Vulkan API. | xCollateral | Client | none | 
 
 
 ## Forge 1.17.X

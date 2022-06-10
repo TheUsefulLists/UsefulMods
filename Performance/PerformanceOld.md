@@ -20,12 +20,14 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| [AnimFix](https://modrinth.com/mod/animfix) | None | Decreases the stuttering caused by animated textures in 1.7.10 | FalsePattern  | Client | none |
 | [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) | None | BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods. | Guichaguri | Both | none |
 | [CoFHTweaks](https://www.curseforge.com/minecraft/mc-mods/cofhtweaks) | Unknown | Configuration options | skyboy026 (TeamCoFH) | Both | none |
 | [FastCraft](https://www.curseforge.com/minecraft/mc-mods/fastcraft) | Forge Essentials | FastCraft is a sophisticated mod which improves the client and server performance significantly without any game play changes. | sfPlayer1 | Both | none |
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. | asiekierka | Both | none |
 | [Squidless](https://www.curseforge.com/minecraft/mc-mods/squidless) | Unknown | Prevents squids spawning in regions where they would instantly despawn | hilburn | Server | none |
 | [Tick Dynamic](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic) | Unknown | Attempts to keep the server at 20tps by dynamically limiting the amount of entities and tile-entities that update per tick | The_Fireplace / wildex999 | Server | none |
+| [Triangulator](https://modrinth.com/mod/triangulator) | Unknown | Improved 1.7.10 renderer and fixed smooth lighting | FalsePattern | Client | none |
 
 ## Legacy Fabric 1.8.X
 
