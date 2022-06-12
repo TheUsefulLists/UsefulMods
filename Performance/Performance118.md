@@ -51,7 +51,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Sodium](https://modrinth.com/mod/sodium) | Mods that utilize of the FRAPI[⁴](https://github.com/NordicGamerFE/usefulmods/tree/main#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium) | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft | CaffeineMC | Client | Alpha (1) | 
 | [Starlight](https://modrinth.com/mod/starlight) | Unknown | Fabric mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both | none | 
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | Unknown | Very Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount without sacrificing vanilla functionality or behavior. | ishland | Server | none | 
-| [VulkanMod](https://github.com/xCollateral/VulkanMod/releases) | Unknown | a fabric mod that rewrites Minecraft OpenGL renderer to use Vulkan API. | xCollateral | Client | none | 
+| [VulkanMod](https://github.com/xCollateral/VulkanMod/releases) | Unknown | a fabric mod that rewrites Minecraft OpenGL renderer to use Vulkan API. | xCollateral | Client | Incompatible(6) | 
 
 
 ## Forge 1.18.X
