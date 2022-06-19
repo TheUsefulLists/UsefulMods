@@ -1,11 +1,11 @@
 # Performance Mods
+
 A list of performance-enhancing mods for 1.16.x forge/fabric versions.
 
-Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
+Any suggestions/complaints?
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
-
 
 ## Fabric 1.16.X
 
@@ -16,11 +16,11 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Motschen | Client | none |
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | Sodium | Better Biome Blend is a mod  which accelerates the biome color blending algorithm. | FionaTheMortal | Client | none |
 | [C2ME](https://github.com/YatopiaMC/C2ME-fabric/releases)| Tic-Tacs, + | A Fabric mod designed to improve the chunk performance of Minecraft. | YatopiaMC | Server | Alpha (1) |
-| [Canvas](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) | Sodium | Advanced Rendering Engine for Fabric | grondag | Client | Alpha (1) |               
+| [Canvas](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) | Sodium | Advanced Rendering Engine for Fabric | grondag | Client | Alpha (1) |
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | Unknown | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client | none |
 | [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader) | Hydrogen, Enhanced Block Entities | This mod launches minecraft faster by caching all of the content on first launch and then loading that cache on the next one | alphaqu | Client | Incompatible (4) |
 | [Dimensional Threading](https://github.com/WearBlackAllDay/DimensionalThreading/releases)| Unknown | Minecraft mod which optimizes the processing of multiple Dimensions, by assigning them independent threads | WearBlackAllDay | Server | none |
-| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Automatically reduces rendering speed when minecraft is not focused (to 1 FPS) or hidden (no renders at all). | juliand665 | Client | none | 
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Automatically reduces rendering speed when minecraft is not focused (to 1 FPS) or hidden (no renders at all). | juliand665 | Client | none |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Sodium[⁴](/README.md#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium), DashLoader | EBE is a mod which aims to increase the performance of block entity rendering, as well as offer customizability via resource packs. | FoundationGames | Client | none|
 | [Entity Distance](https://modrinth.com/mod/entity-distance) | Unknown | Allows the user to adjust the (client) distance at which different entities render | capnkork | Client | none |
 | [EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | None | EntityCulling using async path-tracing to skip rendering Tiles/Entities that are not visible | tr9zw | Client | none |
@@ -47,7 +47,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Starlight](https://github.com/PaperMC/Starlight/releases) | Phosphor | Fabric mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both | none |
 | [Tic-Tacs](https://github.com/Gegy/tic-tacs/releases) | C2ME | Tic-TACS is an experimental reimplementation of Minecraft's chunk loading engine | gegy | Server | Alpha (3) |
 | [VanillaFix](https://github.com/DimensionalDevelopment/VanillaFix/releases) | Unknown | Bug fixes and optimizations for Minecraft | BoogieMonster1O1 (Dimensional Development) | Both | none |
-
 
 ## Forge 1.16.X
 
@@ -90,6 +89,5 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Starlight x Create](https://www.curseforge.com/minecraft/mc-mods/starlight-x-create) | Sulfuric | Mod for completely rewriting the vanilla light engine. | Spottedleaf(PaperMC), Create Patch by: AeiouEnigma, Curseforge Upload and 1.16 Maintained by SirOMGitsYOU | Both | none |
 | [Sulfuric](https://www.curseforge.com/minecraft/mc-mods/phosphor-reforged) | Starlight | Unofficial port of Phosphor to Forge. | someoneelsewastaken | Both | none |
 | [~~⠀⠀Cull Particles⠀⠀~~](https://www.curseforge.com/minecraft/mc-mods/cull-particles)[²](/README.md#-cull-particles-isnt-needed-anymore-in-newer-forge-versions-as-it-was-implemented-in-forge)| None | This mod increases fps by not rendering particles that the player can't see | tfarecnim | Client | none |
-
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)

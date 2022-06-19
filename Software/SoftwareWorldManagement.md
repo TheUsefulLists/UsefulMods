@@ -1,12 +1,14 @@
 # World Management
+
 A list of software that allows you to better manage or edit your world
 
-Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
+Any suggestions/complaints?
+
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
-## World Management
+## World Management Software
 
 | Name | Does what | Supported Versions | Description |
 | --- | :---: | :---: | :---: |

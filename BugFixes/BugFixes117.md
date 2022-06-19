@@ -1,8 +1,10 @@
 # Bugfixing Mods
+
 A list of bugfix mods for 1.17.x forge/fabric versions.
 
-Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
+Any suggestions/complaints?
+
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
@@ -14,7 +16,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none |
 | [Carpet Fixes](https://www.curseforge.com/minecraft/mc-mods/carpet-fixes) | Unknown | Fabric Carpet extension mod which attempts to fix as many vanilla Minecraft bugs as possible | FX_PR0CESS | Server | none |
 | [Chat Lag Fix](https://www.modrinth.com/mod/chat-lag-fix) | Unknown | Fixes Minecraft client lag from receiving chat messages | adryd | Client | none |
-| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should. | juliand665 | Client | none | 
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should. | juliand665 | Client | none |
 | [Erroring Entity Remover](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)| Unknown | Removes entities that throw errors and crash the game while ticking. | The_Fireplace | Both | Unstable (2) |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Unknown | Stops the game from freezing when opening external links or folders | altrisi | Client | none |
 | [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric) | Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | none |
@@ -22,7 +24,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Fixes crashing when trying to pre-generate large areas of a world. | telepathicgrunt | Server | none |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | Unknown | Stops tooltips that are too large to fit on the screen from running off the screen | Kryptonaught | Client | none |
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)[⁷](/README.md#-these-mods-also-work-on-117x--despite-having-only-116-and-118-releases-in-curseforge-no-workarounds-needed-install-them-like-any-other-mods-and-your-fabric-loader-wont-complain-about-missing-dependencies) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none |
-| [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes https://bugs.mojang.com/browse/MC-185901 by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
+| [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes [Mojang bug](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
 
 ## Forge 1.17.X
 

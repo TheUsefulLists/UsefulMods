@@ -1,8 +1,10 @@
 # Bugfixing Mods
+
 A list of bugfix mods for 1.15.x forge/fabric versions.
 
-Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
+Any suggestions/complaints?
+
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
@@ -15,7 +17,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Unknown | Stops the game from freezing when opening external links or folders | altrisi | Client | none |
 | [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | none |
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
-
 
 ## Forge 1.15.X
 

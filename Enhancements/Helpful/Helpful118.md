@@ -1,8 +1,10 @@
 # Helpful Mods
+
 A list of helpful mods for 1.18.x forge/fabric versions.
 
-Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
+Any suggestions/complaints?
+
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
@@ -10,7 +12,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [AFKPeace](https://modrinth.com/mod/afkpeace) | Unknown | Adds peace-of-mind features for AFKing. | AMereBagatelle | Client | none | 
+| [AFKPeace](https://modrinth.com/mod/afkpeace) | Unknown | Adds peace-of-mind features for AFKing. | AMereBagatelle | Client | none |
 | [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client | none |
 | [ClearDespawn](https://modrinth.com/mod/cleardespawn) | Unknown | Make items blink when they're about to despawn | Giselbaer | Client | none |
 | [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Client | none |
@@ -36,7 +38,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [WTHIT](https://modrinth.com/mod/wthit) | Unknown | Shows the name of the targetted block | deirn | Client | none |
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Unknown | Adds a minimap to Minecraft | xaero96 | Both | none |
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Unknown | Adds a self-writing fullscreen map to Minecraft | xaero96 | Both | none |
-
 
 ## Forge 1.18.X
 
