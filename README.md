@@ -40,13 +40,13 @@ Keep in mind that nothing in the github issues is screened for harmful code (or 
 
 ## External Software
 
-| Theme |
-| :---: |
-| [Launchers](Software/SoftwareLaunchers.md) |
-| [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) |
-| [Graphical](Software/SoftwareGraphical.md) |
-| [World Management](Software/SoftwareWorldManagement.md) |
-| [Server Management](Software/SoftwareServerManagement.md) |
+| Theme | Decription |
+| :---: | :---: |
+| [Launchers](Software/SoftwareLaunchers.md) | Used to launch the game
+| [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) | Used to run a server
+| [Graphical](Software/SoftwareGraphical.md) | Graphical related software
+| [World Management](Software/SoftwareWorldManagement.md) | Used to manage or modifiy worlds
+| [Server Management](Software/SoftwareServerManagement.md) | Used to manage servers
 
 ## [Java Arguments optimization](JavaArgumentsOptimization.md)
 
