@@ -1,15 +1,17 @@
 # Launchers
+
 A list of launchers that can be used to play Minecraft (Mostly focused on modded)
 
-Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
+Any suggestions/complaints?
+
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
-## Launchers
+## Game Launchers
 
 | Name | Supported Loaders | Supported Versions | Description | Rating |
-| --- | :---: | :---: | :---: | :---: | 
+| --- | :---: | :---: | :---: | :---: |
 | [ATLauncher](https://atlauncher.com) | Fabric, Quilt & Forge | All | ATLauncher has loads of unique modpack and also list modpacks from Curseforge, FTB and Technic. ATLauncher also lets you make your own modpacks. | 7/10 |
 | [Badlion Client](https://client.badlion.net) | None | Releases | Badlion is a client meant to be used with vanilla that improves frames and add many cool features. | 9/10 |
 | [Curseforge](https://www.curseforge.com) | Fabric & Forge | Releases | Curseforge is the most used launcher when it comes to playing modded with a big list of modpacks and mods and a easy way to make modpacks yourself. | 7/10 |

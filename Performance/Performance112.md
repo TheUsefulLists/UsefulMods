@@ -1,11 +1,12 @@
 # Performance Mods
+
 A list of performance-enhancing mods for 1.12.x versions.
 
-Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
+Any suggestions/complaints?
+
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
-
 
 ## Forge 1.12.X
 

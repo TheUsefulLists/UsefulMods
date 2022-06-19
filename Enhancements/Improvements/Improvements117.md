@@ -1,8 +1,10 @@
 # Improvement Mods
+
 A list of improvement mods for 1.17.x forge/fabric versions.
 
-Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
+Any suggestions/complaints?
+
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
@@ -38,14 +40,13 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Stendhal](https://modrinth.com/mod/stendhal) | Unknown | Stendhal enhances the book and sign writing client-side interfaces | NebSpacefarer | Client | none |
 | [WorldTime](https://modrinth.com/mod/worldtime) | Unknown | Show the ingame time on your HUD | Giselbaer | Client | none |
 
-
 ## Forge 1.17.X
 
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | Unknown | Food/hunger-related HUD improvements | squeek502 | Both | none |
 | [Beenfo](https://modrinth.com/mod/beenfo) | Unknown | Show number of bees and honey level in hives and nests | Giselbaer | Client | none |
-| [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) | Unknown | Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment | way2muchnoise | Client | Alpha (1) | 
+| [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) | Unknown | Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment | way2muchnoise | Client | Alpha (1) |
 | [Better Recipe Book](https://modrinth.com/mod/brb) | Unknown | Adds a 'few' quality of life changes to the recipe book. | marshmallow | Client | none |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Unknown | Adds the ability to search for keybinds using their name in the KeyBinding menu | Jaredlll08 | Client | none |
 | [EditSign](https://modrinth.com/mod/editsign) | Unknown | Allow you to edit signs | RakSrinaNa | Server | none |

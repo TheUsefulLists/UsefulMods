@@ -1,12 +1,15 @@
 # Server Management
+
 A list of software to make the life of a server operator easier
 
-Any suggestions/complaints?<br>
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
+Any suggestions/complaints?
+
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
-## Server Management
+## Server Management Software
+
 | Name | Description |
 | --- | :---: |
 | [AMP](https://cubecoders.com/AMP)(Paid) | AMP is short for Application Management Panel. It's our next-generation server administration software built for both users, and service providers. It supports both Windows and Linux based servers and allows you to manage all your game servers from a single web interface. |
