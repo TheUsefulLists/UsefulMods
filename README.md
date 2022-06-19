@@ -42,11 +42,11 @@ Keep in mind that nothing in the github issues is screened for harmful code (or 
 
 | Theme | Decription |
 | :---: | :---: |
-| [Launchers](Software/SoftwareLaunchers.md) | used to launch the game
-| [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) | used to run a server
-| [Graphical](Software/SoftwareGraphical.md) | graphical related software
-| [World Management](Software/SoftwareWorldManagement.md) | used to manage or modifiy worlds
-| [Server Management](Software/SoftwareServerManagement.md) | used to manage servers
+| [Launchers](Software/SoftwareLaunchers.md) | Used to launch the game
+| [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) | Used to run a server
+| [Graphical](Software/SoftwareGraphical.md) | Graphical related software
+| [World Management](Software/SoftwareWorldManagement.md) | Used to manage or modifiy worlds
+| [Server Management](Software/SoftwareServerManagement.md) | Used to manage servers
 
 ## [Java Arguments optimization](JavaArgumentsOptimization.md)
 
