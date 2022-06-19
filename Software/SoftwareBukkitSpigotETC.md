@@ -19,6 +19,10 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Magma](https://magmafoundation.org) | Forge | 1.12.2, 1.16.5 & 1.18.2 | Minecraft Forge Server Software Implementing Paper/Spigot/Bukkit API. |
 | [MinecraftMist](https://github.com/MinecraftMist/Mist) | Forge | 1.16.5 | Hybrid server software for Minecraft, allowing Forge mods and Bukkit plugins to run together. Rogue fork of Mohist. |
 | [MohistMC](https://mohistmc.com) | Forge | 1.7.10, 1.12.2 & 1.16.5 | Minecraft Forge Server Software Implementing Paper/Spigot/Bukkit API. |
+| [Paper](https://papermc.io) | Vanilla | 1.8 - 1.19 | Minecraft server software that was based on the spigot api with their own changes. - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
+| [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) | Vanilla | 1.17 - 1.19 | Software based on paper with their own changes. - A highly optimized Paper fork designed for large servers requiring both maximum performance, stability, and "enterprise" features. |
+| [Purpur](https://purpurmc.org/) | Vanilla | 1.16 - 1.19 | Software based on paper with their own chnages and pufferfish's changes. - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features. |
+| [Spigot](https://www.spigotmc.org) | Vanilla | 1.8 - 1.19 | Minecraft server software that was based on the bukkit api with their own changes. |
 | [ThermosX](https://github.com/DireClanMC/ThermosX) | Forge | 1.7.10 | ThermosX is a fork of KCauldron and Thermos, a CraftBukkit-Forge server for Minecraft 1.7.10. After periods of inactivity on KCauldron's (and Thermos) GitLab concerning major issues, ThermosX was created to allow active members of the Minecraft coding community to optimize it and provide fixes in a timely manner. |
 | [Thermos](https://cyberdynecc.github.io/Thermos/install) | Forge | 1.7.10 | Thermos is a fork of KCauldron, a craftbukkit forge server for Minecraft 1.7.10. |
 
