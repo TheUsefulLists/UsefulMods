@@ -1,7 +1,7 @@
 name: Mod Addition
 description: Suggest the addition of a mod to the list!
 title: "[Addition]"
-labels: Addition
+labels: ["Addition"]
 body:
   - type: checkboxes
     attributes:
