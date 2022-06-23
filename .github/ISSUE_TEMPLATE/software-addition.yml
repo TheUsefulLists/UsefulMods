@@ -37,6 +37,8 @@ body:
   - type: textarea
     attributes:
       label: What is your reasoning for including this software?
+    validations:
+      required: true
   - type: input
     attributes:
       label: (OPTIONAL) Give some extra information about the software.

@@ -43,6 +43,8 @@ body:
   - type: textarea
     attributes:
       label: What is your reasoning for including this mod?
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: (OPTIONAL) Give some extra information about the mod.
