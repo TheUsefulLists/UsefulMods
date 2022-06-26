@@ -19,3 +19,5 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) | Unknown | Inporves crashes and provides useful information. | NatanFudge | Both | None |
+
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
