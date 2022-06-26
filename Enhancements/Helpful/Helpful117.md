@@ -31,7 +31,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | Unknown | A mod to add clean and useful HUD widgets | DarkKronicle | Client | Alpha (1) |
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) | Unknown | A client-side mod that allows displaying various "info lines" on the screen ("mini-F3") | masady | Client | none |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Unknown | Adds a mod menu to view the list of mods you have installed | Prospector | Client | none |
-| [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | Unknown | Inporves crashes and provides useful information. | NatanFudge | Both | None |
+| [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | Unknown | Improves crashes and provides useful information. | NatanFudge | Both | None |
 | [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Unknown | Adds a highly-configurable zoom key for Fabric | Ennui | Client | Alpha (1) |
 | [StepUp](https://modrinth.com/mod/stepup) | Unknown | Increase your step height - like autojump but without the disadvantages | Giselbaer | Client | none |
 | [TabTPS](https://modrinth.com/mod/tabtps) | Unknown | Monitor your server's performance in the tab menu, boss bar, and action bar | jpenilla | Server | none |
@@ -48,7 +48,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Both | none |
 | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) | Unknown | Farsight is a client-side util which lets you see much further in already visited chunks than the servers chunk distance. | someaddon | Client | none |
 | [Full Brightness Toggle](https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle) | Unknown | Full Brightness Toggle is a client-side mod which allows players to instantly turn the brightness (gamma) to full with the press of a button | Serilum | Client | none |
-| [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) | Unknown | Inporves crashes and provides useful information. | NatanFudge | Both | None |
+| [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) | Unknown | Improves crashes and provides useful information. | NatanFudge | Both | None |
 | [WTHIT](https://modrinth.com/mod/wthit) | Unknown | Shows the name of the targetted block | deirn | Client | none |
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Unknown | Adds a minimap to Minecraft | xaero96 | Both | none |
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Unknown | Adds a self-writing fullscreen map to Minecraft | xaero96 | Both | none |
