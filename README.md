@@ -31,6 +31,7 @@ Keep in mind that nothing in the github issues is screened for harmful code (or 
 
 | Version | Helpful | Improvements |
 | :-: | :-: | :-: |
+| 1.19.x | [⚠️ WIP](Enhancements/Helpful/Helpful119.md) | [⚠️ WIP](Enhancements/Improvements/Improvements119.md)
 | 1.18.x | [✔️ Available](Enhancements/Helpful/Helpful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) |
 | 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvementsl117.md) |
 | 1.16.x | [✔️ Available](Enhancements/Helpful/Helpful116.md) | [✔️ Available](Enhancements/Improvements/Improvements116.md) |
