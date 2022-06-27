@@ -21,6 +21,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric) | Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | none |
 | [Night Vision flash be gone](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) | Unknown | Fixes night vision flashing | AshIndigo | Client | none |
 | [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Fixes crashing when trying to pre-generate large areas of a world. | telepathicgrunt | Server | none |
+| [No Weak Attack](https://www.curseforge.com/minecraft/mc-mods/no-weak-attack) | Unknown | Cancels swinging at enemies if your cooldown isn't full | florensie | Client | none |
 | [TieFix](https://modrinth.com/mod/tiefix) | Unknown | Fixes some annoying bugs in the Minecraft client. | j-tai | Client | none |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | Unknown | Stops tooltips that are too large to fit on the screen from running off the screen | Kryptonaught | Client | none |
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none |
