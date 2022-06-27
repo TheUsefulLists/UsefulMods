@@ -15,6 +15,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none |
 | [Erroring Entity Remover](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)| Unknown | Removes entities that throw errors and crash the game while ticking. | The_Fireplace | Both | Unstable (2) |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Unknown | Stops the game from freezing when opening external links or folders | altrisi | Client | none |
+| [No Weak Attack](https://www.curseforge.com/minecraft/mc-mods/no-weak-attack) | Unknown | Cancels swinging at enemies if your cooldown isn't full | florensie | Client | none |
 | [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | none |
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
 
