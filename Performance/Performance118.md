@@ -40,6 +40,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | Unknown | Lithium is a general-purpose optimization mod for Minecraft which works to improve a number of systems without changing any behavior | CaffeineMC | Server | none |
 | [MCMT-Fabric](https://hatebin.com/zzlqgepiwk) | Carpet, Dimensional Threading | This is a mod, that attempts to multithread minecraft's tick execution. | himekifee | Server | Corruption (1) |
 | [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) | Unknown | A mod that fixes multiple memory leaks in minecraft. Both server-side & client-side. | FX_PR0CESS | Both | none |
+| [Mipmaplevel and Language Fix](https://modrinth.com/mod/mipmaplevelandlanguagefix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | none |
 | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) | Unknown | A mod that changes how blockstate culling is handled in order to improve performance | FX_PR0CESS | Client | none |
 | [No Mob Generation](https://modrinth.com/mod/nomobgeneration) | Unknown | Prevents animals from spawning in new chunks when the mobcap is full | Cdr Johannsen | Server | none |
 | [Observable](https://modrinth.com/mod/observable) | Unknown | Shows what's lagging your world/server by profiling (tile) entities. | tasgon | Server | none |
