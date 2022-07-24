@@ -55,7 +55,7 @@ body:
       label: What needs correcting?
     validations:
       required: true
-  - type: input
+  - type: textarea
     attributes:
       label: Input a link(s) which can be used to verify the correction.
     validations:
