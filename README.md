@@ -23,7 +23,7 @@ Keep in mind that nothing in the github issues is screened for harmful code (or 
 
 | Version | Performance | Bugfixes |
 | :-: | :-: | :-: |
-| 1.19.x | [✔️ Available](Performance/Performance119.md) | [❌ Unavailable](BugFixes/BugFixes119.md)
+| 1.19.x | [✔️ Available](Performance/Performance119.md) | [✔️ Available](BugFixes/BugFixes119.md)
 | 1.18.x | [✔️ Available](Performance/Performance118.md) | [✔️ Available](BugFixes/BugFixes118.md)
 | 1.17.x | [✔️ Available](Performance/Performance117.md) | [✔️ Available](BugFixes/BugFixes117.md)
 | 1.16.x | [✔️ Available](Performance/Performance116.md) | [✔️ Available](BugFixes/BugFixes116.md)
