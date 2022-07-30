@@ -52,5 +52,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged) | Unknown | Krypton Reforged is a Minecraft mod that implements a suite of optimizations focused on the Minecraft networking stack. | TeamDeusVult | Both | none |
 | [Radon](https://www.curseforge.com/minecraft/mc-mods/radon) | Unknown | Radon is an Unofficial Fork of CaffeineMC's "Phosphor", made to work with Forge Mod Loader. | Asek3 | Both | none |
 | [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) | Magnesium, Optifine | Rubidium is an Unofficial Fork of CaffeineMC's "Sodium", made to work with Forge Mod Loader. | Asek3 | Client | none |
+| [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Forge mod for rewriting the light engine to fix lighting performance and lighting errors | SpottedLeaf (PaperMC) | Server | none |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
