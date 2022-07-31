@@ -15,7 +15,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | Space Walker | Server | None |
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Motschen | Client | None |
 | [C2ME](https://github.com/RelativityMC/C2ME-fabric/releases) | Unknown | A Fabric mod designed to improve the chunk performance of Minecraft. | YatopiaMC | Both | Alpha (1) |
-| [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Both | none |
+| [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Server | none |
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | Unknown | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client | none |
 | [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) | Unknown | Cull Less Leaves is an improved version of Cull Leaves. | XanderIsDev | Client | none |
 | [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader) | Unknown | This mod launches minecraft faster by caching all of the content on first launch and then loading that cache on the next one | alphaqu | Client | Incompatible (2) |
@@ -44,7 +44,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Both | none |
+| [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Server | none |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Unknown | EntityCulling using async path-tracing to skip rendering Tiles/Entities that are not visible. | tr9zw | Client | none |
 | [Entity Collision FPS Fix](https://modrinth.com/mod/entity-collision-fps-fix) | Unknown | Client Side mod that optimizes entity's on the render thread. | CorgiTaco | Client | none |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | Unknown | This mod reduces the memory usage of Minecraft in a few different ways | malte0811 | Both | none |
