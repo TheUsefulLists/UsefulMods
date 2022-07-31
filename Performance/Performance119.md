@@ -22,6 +22,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Automatically reduces rendering speed when minecraft is not focused (to 1 FPS) or hidden (no renders at all). | juliand665 | Client | none |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Unknown | EntityCulling using async path-tracing to skip rendering Tiles/Entities that are not visible. | tr9zw | Client | none |
 | [Entity Collision FPS Fix](https://modrinth.com/mod/entity-collision-fps-fix) | Unknown | Client Side mod that optimizes entity's on the render thread. | CorgiTaco | Client | none |
+| [FastAnim](https://www.curseforge.com/minecraft/mc-mods/fastanim) | Unknown | FastAnim is a mod that improves the animation speed of entities. | Motschen | Client | none |
 | [Fastload](https://www.curseforge.com/minecraft/mc-mods/fastload) | Unknown | Fastload, is a simple mod that reduces world loading time. This serves as an alternative to ksyxis, which uses an unsafe method of cutting down time. | overloadedwithmods | Both | none |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Unknown | This mod reduces the memory usage of Minecraft in a few different ways | malte0811 | Both | none |
 | [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk) | Unknown | Fixes the large lag spikes you sometimes get when crossing a chunk border | BreadLoaf | Client | none |
