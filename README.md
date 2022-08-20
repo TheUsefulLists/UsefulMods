@@ -1,9 +1,5 @@
 # Useful Mods
 
-[![Legend](https://i.imgur.com/Wfkb9lu.png)](https://www.curesarcoma.org/donate/)
-
-Legends never die, RIP Techno.
-
 Note: Alkyaly has stopped maintaining their list, and they have given me the responsibility to maintain their list ([original list here](https://gist.github.com/alkyaly/02830c560d15256855bc529e1e232e88)).
 
 A list of useful mods for most commonly-played versions.
