@@ -22,7 +22,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Unknown | Stops the game from freezing when opening external links or folders | altrisi | Client | none |
 | [Feature NBT Deadlock Begone](https://modrinth.com/mod/feature-nbt-deadlock-be-gone) | Unknown | Fixes deadlocks caused by MC-246262. | TelepathicGrunt | Server | none |
 | [Fix Alt Gr](https://modrinth.com/mod/fix-alt-gr) | Unknown | Fixes the MC-127862 bug, which sometimes makes pressing the Alt Gr key lock your left control key. | MikolajKolek | Client | none |
-| [Head Name Fix](https://modrinth.com/mod/headfix) | Unknown | Mob heads will keep their custom names when placed. | manyrandomthings | Server | none 
+| [Head Name Fix](https://modrinth.com/mod/headfix) | Unknown | Mob heads will keep their custom names when placed. | manyrandomthings | Server | none |
 | [Inventory Close with Mouse key Fix](https://modrinth.com/mod/invclosefix) | Unknown | Allows you to close your inventory with a key bound to a mouse button. | KosmX | Client | none |
 | [IMBlocker](https://modrinth.com/mod/imblocker) | Unknown |  IMBlocker is a mod which hides the IME (Input Method Editor) where entering text is not required. | mrjesen | Client | none |
 | [Item Model Fix](https://modrinth.com/mod/item-model-fix) | Unknown | A Fabric mod that fixes gaps in generated item models. | Pepper | Client | none |
@@ -50,7 +50,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Unknown | Removes attribute caps, which can cause unintended behavior with some mods | DarkhaxDev | Server | none |
 | [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix) | Unknown | This mod fixes MC-229321 : Bees Can Despawn This bug causes multiple issues that cause bees to despawn or fail to be saved under different edge cases. Also fixes MC-168329 : Bees refuse to leave hive in end/nether. | lupicus| Server | none |
 | [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Unknown | Lightweight mod which solves several connection problems like DecoderException, Packet size larget than X bytes, Payload too large and more. | someaddon | Both | none |
-| [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes a variety of bugs. | IsXander | Both | none |
 | [Feature NBT Deadlock Begone](https://modrinth.com/mod/feature-nbt-deadlock-be-gone) | Unknown | Fixes deadlocks caused by MC-246262. | TelepathicGrunt | Server | none |
 | [FlickerFix](https://www.curseforge.com/minecraft/mc-mods/flickerfix) | Unknown | By default, when the night vision effect goes below 10 seconds, the screen starts flickering. This mod replaces that behavior with a fast fade-out at 1 second remaining duration. |  MutantGumdrop | Client | none |
 | [MCMouser](https://modrinth.com/mod/mcmouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none |
