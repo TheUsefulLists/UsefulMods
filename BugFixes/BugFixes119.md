@@ -34,7 +34,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | :--: | :-------------------: | :-------: | :---: | :---: | :---: |
-| [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes a variety of bugs. | IsXander | Both | none |
 | [No Chat Report](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Stips the cryptographic signatures from chat messsages that were added in 1.19 to stop the chat reporting feature from working | Aizistral | Both | None |
 
 ## Quilt 1.19.X
