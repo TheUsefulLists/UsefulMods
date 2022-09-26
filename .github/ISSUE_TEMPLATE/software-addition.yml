@@ -17,18 +17,23 @@ body:
       label: What is your software's name?
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     attributes:
-      label: What systems do you know your software works on?
+      label: What operating systems do you know your software works on?
+      multiple: true
       options:
-        - label: Windows 11
-        - label: Windows 10
-        - label: Windows 8/8.1
-        - label: Windows 7
-        - label: Windows XP or earlier
-        - label: MacOS
-        - label: Linux
-        - label: Other
+        - Windows 11
+        - Windows 10
+        - Windows 8/8.1
+        - Windows 7
+        - Windows XP or earlier
+        - MacOS
+        - Ubuntu
+        - Debain
+        - Arch Linux
+        - Fedora
+        - Other Linux
+        - Other
   - type: input
     attributes:
       label: Input a link to your suggested software.
