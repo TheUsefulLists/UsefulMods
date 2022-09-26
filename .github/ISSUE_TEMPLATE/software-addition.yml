@@ -37,14 +37,17 @@ body:
   - type: input
     attributes:
       label: Input a link to your suggested software.
+      description: Links to the software's website, download page, or GitHub repository are preferred.
     validations:
       required: true
   - type: textarea
     attributes:
       label: What is your reasoning for including this software?
+      description: Please explain why you think this software should be added to the list. What does it do? How does it work? What is it used for? What makes it special?
     validations:
       required: true
   - type: input
     attributes:
       label: (OPTIONAL) Give some extra information about the software.
+      description: This is optional, but if you have any extra information about the software, or anything you feel we make need to know, you can put it here.
 
