@@ -20,7 +20,7 @@ body:
   - type: dropdown
     attributes:
       label: What is your mod's main version?
-      description: The main version that the mod is currently targeting. Usally the latest version of Minecraft.
+      description: The main version that the mod is currently targeting. Usually the latest version of Minecraft.
       options:
         - 1.8.X or earlier
         - 1.12.X
