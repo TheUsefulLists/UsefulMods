@@ -18,14 +18,15 @@ body:
         - label: I've checked for related issues.
           description: "If there is a related issue, please link it down below as appropriate."
           required: true
-  - type: textarea
-    attributes:
-      label: What did you add?
-    validations:
-      required: true
   - type: input
     attributes:
       label: Dose this PR fix or close any open issues?
       description: "If so, please link them here with Fixes #(issue number) or Closes #(issue number) as relevent. If not, leave blank."
     validations:
       required: false
+  - type: textarea
+    attributes:
+      label: What did you add?
+      description: "Please make sure that you have added the mod's name, description, and link to the mod's page and GitHub page if applicable."
+    validations:
+      required: true
