@@ -11,7 +11,7 @@ body:
         - label: I've checked that my correction hasn't already been made to the repo.
           required: true
         - label: I've made sure that my correction is in the same format as the rest of the repo.
-          description: "If it isn't, please make sure that you have corrected it. If your unsure, feel free to state so and one fo the repo maintainers will help you."
+          description: "If it isn't, please make sure that you have corrected it. If your unsure, feel free to state so and one of the repo maintainers will help you."
           required: true
         - label: I've checked for related issues.
           description: "If there is a related issue, please link it down below as appropriate."
