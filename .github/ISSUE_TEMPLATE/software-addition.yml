@@ -19,7 +19,7 @@ body:
       required: true
   - type: dropdown
     attributes:
-      label: What operating systems do you know your software works on?
+      label: What operating systems dose this software works on?
       multiple: true
       options:
         - Windows 11
