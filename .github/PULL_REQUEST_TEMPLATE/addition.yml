@@ -8,11 +8,15 @@ body:
       label: Checklist
       description: Pull request will be closed if incomplete. These are required before submitting and by sumbitting you agree that you have done them.
       options:
-        - label: I've checked that my mod suggestion hasn't already been added to one of the lists.
+        - label: I've checked that my addition hasn't already been added to one of the lists.
+          description: "If it has, make sure all the information is up to date with what your addition is."
           required: true
         - label: I've made sure that my addition is in the same format as the rest of the repo.
           required: true
         - label: I've checked the latest pull requests to make sure that this mod hasn't already been suggested.
+          required: true
+        - label: I've checked for related issues.
+          description: "If there is a related issue, please link it down below as appropriate."
           required: true
   - type: textarea
     attributes:
