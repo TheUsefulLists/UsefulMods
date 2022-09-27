@@ -31,6 +31,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Monsters in the Closet](https://modrinth.com/mod/monsters-in-the-closet) | Unknown | Highlights the mobs that are preventing you from sleeping | Minenash | Both | none |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Unknown | Mouse Tweaks replaces the standard RMB dragging mechanic, adds two new LMB dragging mechanics and an ability to quickly move items with the scroll wheel. | YaLTeR | Client | none |
 | [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie) | Unknown | A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more | Siphalor | Client | none |
+| [No Week Attack](https://www.curseforge.com/minecraft/mc-mods/no-weak-attack) | Unknown | Cancels swinging at enemies if your cooldown isn't full | florensie | Client | none |
 | [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) | Unknown | An easy way to browse recipes. | shedaniel | Both | none |
 | [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer) | Unknown | Overlay a timer on the Vanilla status effect HUD icons | magicus | Client | none |
 | [Stendhal](https://modrinth.com/mod/stendhal) | Unknown | Stendhal enhances the book and sign writing client-side interfaces | NebSpacefarer | Client | none |

@@ -16,7 +16,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | None | Better Biome Blend is a mod  which accelerates the biome color blending algorithm. | FionaTheMortal | Client | none |
 | [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) | None | BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods. | Guichaguri | Both | none |
 | [Born In a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn) | Unknown | Fixes a Minecraft bug where Village doors keep chunks loaded. | Speiger | Server | none |
-| [CensoredASM](https://www.curseforge.com/minecraft/mc-mods/lolasm) | None | Optimize RAM usage. | Rongmario | Both | none |
+| [CensoredASM](https://www.curseforge.com/minecraft/mc-mods/lolasm) | TexFix, VanillaFix | Optimize RAM usage. | Rongmario | Both | none |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | None | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area | jaredlll08 | Both | none |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entity-culling) | Pixelmon, Sync | Entity Culling is a small client-side performance core mod which improves the rendering of entities and tile entities. | meldexun | Client | none |
 | [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) | None | Similar to FastWorkbench, it caches the last recipe used, and checks this recipe first before re-scanning the entire registry. | Shadows_of_Fire | Server (Must be installed in client as well) | none |
@@ -41,5 +41,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server | none |
+| [Mipmaplevel and Language Fix](https://modrinth.com/mod/mipmaplevelandlanguagefix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | none |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)

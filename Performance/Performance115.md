@@ -12,6 +12,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server | none |
+| [Mipmaplevel and Language Fix](https://modrinth.com/mod/mipmaplevelandlanguagefix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | none |
 
 ## Forge 1.15.X
 

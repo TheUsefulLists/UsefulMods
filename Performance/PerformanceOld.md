@@ -35,13 +35,16 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Legacy VanillaFix](https://modrinth.com/mod/legacyvanillafix) | Unknown | Legacy VanillaFix is a mod that fixes bugs and annoyances in vanilla Minecraft. | piper742 | Both | none |
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Both | none |
+| [Legacy VanillaFix](https://modrinth.com/mod/legacyvanillafix) | Unknown | Legacy VanillaFix is a mod that fixes bugs and annoyances in vanilla Minecraft. | piper742 | Both | none |
+| [Mipmaplevel and Language Fix](https://modrinth.com/mod/mipmaplevelandlanguagefix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | none |
+| [SaltLib](https://github.com/DeexCoding/SaltLib) | Unknown | SaltLib aims to be an alternative of the Soduim mod for Minecraft, but for legacy versions (1.3.2-1.13.2) of the game. | DeexCoding | Client | none |
 
 ## Legacy Fabric 1.7.X
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Both | none |
+| [Mipmaplevel and Language Fix](https://modrinth.com/mod/mipmaplevelandlanguagefix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | none |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
