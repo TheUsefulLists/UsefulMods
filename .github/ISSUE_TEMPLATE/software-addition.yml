@@ -50,4 +50,3 @@ body:
     attributes:
       label: (OPTIONAL) Give some extra information about the software.
       description: This is optional, but if you have any extra information about the software, or anything you feel we make need to know, you can put it here.
-
