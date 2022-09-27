@@ -32,6 +32,8 @@ body:
         - 1.17.X (Fabric)
         - 1.18.X (Forge)
         - 1.18.X (Fabric)
+        - 1.19.X (Forge)
+        - 1.19.X (Fabric)
         - Other (Forge)
         - Other (Fabric)
     validations:
