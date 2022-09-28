@@ -62,7 +62,7 @@ body:
   - type: textarea
     attributes:
       label: Input relevant link(s) which can be used to verify the correction.
-      description: Please provide a link to the source of the correction. Pictures are also accepted if they are relevant.
+      description: Please provide a link to the source of the correction. Pictures are also accepted if they are relevant. Such as a screenshot of response from the mod author.
     validations:
       required: true
   - type: textarea
