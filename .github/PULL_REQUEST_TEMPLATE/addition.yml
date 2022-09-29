@@ -1,0 +1,32 @@
+name: Addition Pull Request
+description: Create a pull request to add an item to the list.
+title: "[Addition]"
+labels: ["Addition"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Pull request will be closed if incomplete. These are required before submitting and by submitting you agree that you have actually done them.
+      options:
+        - label: I've checked that my addition hasn't already been added to one of the lists.
+          description: "If it has, make sure all the information is up to date with what your addition is."
+          required: true
+        - label: I've made sure that my addition is in the same format as the rest of the repo.
+          required: true
+        - label: I've checked the latest pull requests to make sure that this mod hasn't already been suggested.
+          required: true
+        - label: I've checked for related issues.
+          description: "If there is a related issue, please link it down below as appropriate."
+          required: true
+  - type: input
+    attributes:
+      label: Dose this PR fix or close any open issues?
+      description: "If so, please link them here with Fixes #(issue number) or Closes #(issue number) as relevent. If not, leave blank."
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: What did you add?
+      description: "Please make sure that you have added the mod's name, description, and link to the mod's page and GitHub page if applicable."
+    validations:
+      required: true

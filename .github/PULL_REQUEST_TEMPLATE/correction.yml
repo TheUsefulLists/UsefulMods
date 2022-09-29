@@ -1,0 +1,30 @@
+name: Correction Pull Request
+description: Create a pull request to correct something on the repo.
+title: "[Correction]"
+labels: ["Correction"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Pull request will be closed if incomplete. These are required before submitting and by submitting you agree that you have actually done them.
+      options:
+        - label: I've checked that my correction hasn't already been made to the repo.
+          required: true
+        - label: I've made sure that my correction is in the same format as the rest of the repo.
+          description: "If it isn't, please make sure that you have corrected it. If your unsure, feel free to state so and one of the repo maintainers will help you."
+          required: true
+        - label: I've checked for related issues.
+          description: "If there is a related issue, please link it down below as appropriate."
+          required: true
+  - type: input
+    attributes:
+      label: Dose this PR fix or close any open issues?
+      description: "If so, please link them here with Fixes #(issue number) or Closes #(issue number) as relevent. If not, leave blank."
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: What did you change?
+      description: "Please include any relevent links, pictures, and/or code snippets to support your changes."
+    validations:
+      required: true

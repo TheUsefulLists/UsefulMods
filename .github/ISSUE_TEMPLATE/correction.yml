@@ -6,7 +6,7 @@ body:
   - type: checkboxes
     attributes:
       label: Checklist
-      description: Issue will be closed if incomplete.
+      description: Issue will be closed if incomplete. These are required before submitting and by sumbitting you agree that you have actually done them.
       options:
         - label: I've checked that this correction is valid and accurate.
           required: true
@@ -20,9 +20,10 @@ body:
   - type: dropdown
     attributes:
       label: What section(s) of the list is this correction for?
+      description: Select all that apply. Where the mod is located in the lists
       multiple: true
       options:
-        - Preformance
+        - Performance
         - Bugfixes
         - Enhancements
         - Software
@@ -44,6 +45,8 @@ body:
         - 1.17.X (Fabric)
         - 1.18.X (Forge)
         - 1.18.X (Fabric)
+        - 1.19.X (Forge)
+        - 1.19.X (Fabric)
         - Other (Forge)
         - Other (Fabric)
         - All versions
@@ -53,11 +56,13 @@ body:
   - type: textarea
     attributes:
       label: What needs correcting?
+      description: Please provide a detailed description of the correction. If you are correcting a link, please provide the correct link.
     validations:
       required: true
   - type: textarea
     attributes:
-      label: Input a link(s) which can be used to verify the correction.
+      label: Input relevant link(s) which can be used to verify the correction.
+      description: Please provide a link to the source of the correction. Pictures are also accepted if they are relevant. Such as a screenshot of response from the mod author.
     validations:
       required: true
   - type: textarea

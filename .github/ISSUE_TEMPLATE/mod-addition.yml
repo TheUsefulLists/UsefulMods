@@ -1,12 +1,12 @@
 name: Mod Addition
 description: Suggest the addition of a mod to the list!
 title: "[Addition]"
-labels: ["Addition"]
+labels: ["Addition Mod"]
 body:
   - type: checkboxes
     attributes:
       label: Checklist
-      description: Issue will be closed if incomplete.
+      description: Issue will be closed if incomplete. These are required before submitting and by submitting you agree that you have actually done them.
       options:
         - label: I've checked that my mod suggestion hasn't already been added to one of the lists.
           required: true
@@ -20,6 +20,7 @@ body:
   - type: dropdown
     attributes:
       label: What is your mod's main version?
+      description: The main version that the mod is currently targeting. Usually the latest version of Minecraft.
       options:
         - 1.8.X or earlier
         - 1.12.X
@@ -31,20 +32,70 @@ body:
         - 1.17.X (Fabric)
         - 1.18.X (Forge)
         - 1.18.X (Fabric)
+        - 1.19.X (Forge)
+        - 1.19.X (Fabric)
         - Other (Forge)
         - Other (Fabric)
     validations:
       required: true
+  - type: dropdown
+    attributes:
+      label: What is your mod's other versions?
+      description: Other versions that the mod works with. Leave blank if none.
+      multiple: true
+      options:
+        - 1.8.X or earlier
+        - 1.12.X
+        - 1.15.X (Forge)
+        - 1.15.X (Fabric)
+        - 1.16.X (Forge)
+        - 1.16.X (Fabric)
+        - 1.17.X (Forge)
+        - 1.17.X (Fabric)
+        - 1.18.X (Forge)
+        - 1.18.X (Fabric)
+        - 1.19.X (Forge)
+        - 1.19.X (Fabric)
+        - Other (Forge)
+        - Other (Fabric)
+    validations:
+      required: false
+  - type: dropdown
+    attributes:
+      label: What is your mod's type?
+      description: The type of mod that it is and where it should go on the list(s). Main/Primary type only.
+      options:
+        - Preformance
+        - Bugfix
+        - Enhancement
+        - Enhancement (Helpful)
+        - Enhancement (Improvement)
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: What side dose your mod need to run on?
+      description: Is it a client-side only mod or a server-side only mod or both?
+      options:
+        - Client
+        - Server
+        - Both
+    validations:
+      required: true
   - type: input
     attributes:
-      label: Input a link to your suggested mod. Make sure it isn't hosted on a site listed on StopModReposts.
+      label: Input a link to your suggested mod.
+      description: If the mod is hosted on a site listed on [StopModReposts](https://stopmodreposts.org/sites) we will not add it to the list. Sites like Modrinth, CurseForge, SpigotMC, and GitHub are fine.
     validations:
       required: true
   - type: textarea
     attributes:
       label: What is your reasoning for including this mod?
+      description: Please provide a detailed explanation of why you think this mod should be added to the list. Such as what is dose, how it works, and why it is useful.
     validations:
       required: true
   - type: textarea
     attributes:
       label: (OPTIONAL) Give some extra information about the mod.
+      description: This is optional, but if you have any extra information about the mod, such as the mod's license, if it is open source, or anything else you feel we may need to know, you can put it here.

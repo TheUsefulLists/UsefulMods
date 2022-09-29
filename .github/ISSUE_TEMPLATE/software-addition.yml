@@ -6,7 +6,7 @@ body:
   - type: checkboxes
     attributes:
       label: Checklist
-      description: Issue will be closed if incomplete.
+      description: Issue will be closed if incomplete. These are required before submitting and by submitting you agree that you have actually done them.
       options:
         - label: I've checked that my software suggestion hasn't already been added to one of the lists.
           required: true
@@ -17,29 +17,36 @@ body:
       label: What is your software's name?
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     attributes:
-      label: What systems do you know your software works on?
+      label: What operating systems dose this software works on?
+      multiple: true
       options:
-        - label: Windows 11
-        - label: Windows 10
-        - label: Windows 8/8.1
-        - label: Windows 7
-        - label: Windows XP or earlier
-        - label: MacOS
-        - label: Linux
-        - label: Other
+        - Windows 11
+        - Windows 10
+        - Windows 8/8.1
+        - Windows 7
+        - Windows XP or earlier
+        - MacOS
+        - Ubuntu
+        - Debain
+        - Arch Linux
+        - Fedora
+        - Other Linux
+        - Other
   - type: input
     attributes:
       label: Input a link to your suggested software.
+      description: Links to the software's website, download page, or GitHub repository are preferred.
     validations:
       required: true
   - type: textarea
     attributes:
       label: What is your reasoning for including this software?
+      description: Please explain why you think this software should be added to the list. What does it do? How does it work? What is it used for? What makes it special? Why should people use it?
     validations:
       required: true
   - type: input
     attributes:
       label: (OPTIONAL) Give some extra information about the software.
-
+      description: This is optional, but if you have any extra information about the software, or anything you feel we make need to know, you can put it here.
