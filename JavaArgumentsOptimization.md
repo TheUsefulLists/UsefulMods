@@ -50,7 +50,7 @@ Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g 
 There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSpot is the open-source JVM implementation by Oracle while OpenJ9 is a JVM implementation by Eclipse Foundation. While HotSpot tends to perform much better than OpenJ9, OpenJ9 only uses about half the memory HotSpot uses. So if you have a small amount of RAM on your system, I would recommend OpenJ9 while if you have plenty of RAM to allocate to Minecraft I would recommend HotSpot. I will be including arguments for both HotSpot and OpenJ9. If you want to use the OpenJ9 JVM, then follow these instructions:
 
 1. Click [here](https://developer.ibm.com/languages/java/semeru-runtimes/downloads).
-2. Choose your operating system and architechture.
+2. Choose your operating system and architecture.
 3. Chose Java 17 for Minecraft versions 1.17+ and Java 8 for 1.16 and below.
 4. Download the tar/zip file and extract it.
 5. Open the Minecraft Launcher, click on 'Installations', click on your profile and click on 'More Options'.
@@ -63,7 +63,7 @@ There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSp
 
     There are many garbage collectors, out of which the Shenandoah garbage collector is best-suited for Minecraft.
 
-    It is a low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behaviour when using Shenandoah.
+    It is a low pause time garbage collector that reduces GC pause times by performing more garbage collection work concurrently with the running Java program. Garbage collecting a 200 GB heap, or a 2 GB heap should have the similar low pause behavior when using Shenandoah.
     It is enabled using the command-line option ```-XX:+UseShenandoahGC```. It isn't supported by all vendors, so check if your vendor supports it [here](https://wiki.openjdk.java.net/display/shenandoah/Main).
 
     The default GC used is G1, but the G1GC can cause pretty big lag spikes when collecting large heaps. For this reason, I would recommend that you use the Shenandoah GC instead of the G1GC. When I tested Shenandoah with 4GB of RAM allocated, there were zero noticeable stutters caused by the GC.
