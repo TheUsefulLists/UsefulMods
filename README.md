@@ -10,7 +10,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull 
 
 ## Mods Under Consideration
 
-Everything that is under consideration to be added is found in the github issues [here](https://github.com/NordicGamerFE/usefulmods/issues/).
+Everything that is under consideration to be added is found in the github issues [here](https://github.com/TheUsefulLists/UsefulMods/issues).
 Keep in mind that nothing in the github issues is screened for harmful code (or malware). Download at your own caution.
 
 ## Version List
@@ -41,7 +41,7 @@ Keep in mind that nothing in the github issues is screened for harmful code (or 
 
 ## External Software
 
-| Theme | Decription |
+| Theme | Description |
 | :---: | :---: |
 | [Launchers](Software/SoftwareLaunchers.md) | Used to launch the game
 | [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) | Used to run a server
