@@ -41,8 +41,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Unknown | Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems. | UltimateBoomer | Both | none |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Unknown | Fabric mod for completely rewriting the vanilla light engine. | Spottedstar | Both | none |
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | Unknown | Very Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount without sacrificing vanilla functionality or behavior. | ishland | Server | none |
-| [Vulkan Renderer](https://www.curseforge.com/minecraft/mc-mods/vulkanmod) | Sodium | a fabric mod that rewrites Minecraft OpenGL renderer to use Vulkan API. | 
-x_collateral | Client | Incompatible(6) |
+| [Vulkan Renderer](https://www.curseforge.com/minecraft/mc-mods/vulkanmod) | Sodium | a fabric mod that rewrites Minecraft OpenGL renderer to use Vulkan API. | x_collateral | Client | Incompatible(6) |
 
 ## Forge 1.19.X
 
