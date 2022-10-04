@@ -21,14 +21,14 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [EasierChests](https://modrinth.com/mod/easierchests) | Unknown | Move items between inventory and chests easily, includes a sorter | Giselbaer | Client | none |
 | [FabricSit](https://modrinth.com/mod/sit) | Unknown | A server side mod to allow players to sit on slabs and stairs | bradbot1 | Server | none |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Unknown | Take insanely large screenshots because why not | ramidzkh | Client | none |
-| [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) | Unknown | Farsight is a client-side util which lets you see much further in already visited chunks than the servers chunk distance. | someaddon | Client | none |
+| [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | Unknown | Farsight is a client-side util which lets you see much further in already visited chunks than the servers chunk distance. | someaddon | Client | none |
 | [Flour's Various Tweaks](https://modrinth.com/mod/fvt) | Unknown | Various client-side tweaks & enhancements fabric mod | Flourick | Client | none |
 | [FPS - Display](https://modrinth.com/mod/fpsdisplay) | Unknown | A Fabric mod that shows your ingame FPS on screen | Grayray75 | Client | none |
 | [Full Brightness Toggle](https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle-fabric) | Unknown | Full Brightness Toggle is a client-side mod which allows players to instantly turn the brightness (gamma) to full with the press of a button | Serilum | Client | none |
 | [HealthCare](https://modrinth.com/mod/healthcare) | Unknown | Neat serverside mob health tags. | samolego | Server | none |
 | [Horse Stats Vanilla](https://modrinth.com/mod/horsestatsvanilla) | Unknown | This client-side mod displays the statistics (health, speed, jump height) of horses in their inventory. | d4rkm0nkey | Client | none |
 | [Iris Shaders](https://modrinth.com/mod/iris) | Unknown | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | IMS212 | Client | none |
-| [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | Unknown | A mod to add clean and useful HUD widgets | DarkKronicle | Client | Alpha (1) |
+| [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | Unknown | A mod to add clean and useful HUD widgets | DarkKronicle | Client | none |
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) | Unknown | A client-side mod that allows displaying various "info lines" on the screen ("mini-F3") | masady | Client | none |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Unknown | Adds a mod menu to view the list of mods you have installed | Prospector | Client | none |
 | [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | Unknown | Improves crashes and provides useful information. | NatanFudge | Both | None |

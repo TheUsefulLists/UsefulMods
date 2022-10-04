@@ -48,7 +48,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | Unknown | Food/hunger-related HUD improvements | squeek502 | Both | none |
 | [Beenfo](https://modrinth.com/mod/beenfo) | Unknown | Show number of bees and honey level in hives and nests | Giselbaer | Client | none |
-| [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) | Unknown | Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment | way2muchnoise | Client | Alpha (1) |
+| [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) | Unknown | Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment | way2muchnoise | Client | none |
 | [Better Recipe Book](https://modrinth.com/mod/brb) | Unknown | Adds a 'few' quality of life changes to the recipe book. | marshmallow | Client | none |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Unknown | Adds the ability to search for keybinds using their name in the KeyBinding menu | Jaredlll08 | Client | none |
 | [EditSign](https://modrinth.com/mod/editsign) | Unknown | Allow you to edit signs | RakSrinaNa | Server | none |
