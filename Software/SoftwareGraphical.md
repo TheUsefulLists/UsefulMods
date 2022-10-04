@@ -12,7 +12,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Does what | Supported Versions | Description |
 | --- | :---: | :---: | :---: |
-| [Aseprite](https://www.aseprite.org) (paid 19.99) | Animation & Pixel Art | Unknown | Anitmated sprite editor & Pixel Art tool |
+| [Aseprite](https://www.aseprite.org) (paid 19.99 USD) | Animation & Pixel Art | Unknown | Anitmated sprite editor & Pixel Art tool |
 | [Blockbench](https://www.blockbench.net) | Models & Skins | All plus Modded Entity & Optifine Entity | A low-poly 3D model editor. Used by Mojang itself to make models. This app can also be used via an online editor. |
 | [Chunky](https://chunky.llbit.se) | Image from World Files | 1.2.1 - 1.18.X | Chunky is a Minecraft rendering tool that uses path tacing to create realistic images of your Minecraft worlds. |
 | [LookAtMySkin](https://www.planetminecraft.com/mod/lookatmyskin-v10---skin-previewer/) (Not Checked)| Skin Preview | Unknown | LookAtMySkin is a skin previewer where you can change limb positions, the background, and take screenshots, |
