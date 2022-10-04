@@ -7,11 +7,10 @@ A list of useful mods for most commonly-played versions.
 Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull request fixing it!)
+## Disclaimer
 
-## Mods Under Consideration
-
-Everything that is under consideration to be added is found in the github issues [here](https://github.com/TheUsefulLists/UsefulMods/issues).
-Keep in mind that nothing in the github issues is screened for harmful code (or malware). Download at your own caution.
+While we try our best to check and make sure there are no malicious mods on our list, We are not responasable if you get infected with malware or a virus from anything on this list, It is not possable for us to check each and every version of every item on this list.
+You are responasable to check anything you download from the interent using hashes (when provided), extraction software that allows you to see when is inside it, or by any means you see fit
 
 ## Version List
 
