@@ -46,15 +46,20 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| [Canary](https://www.curseforge.com/minecraft/mc-mods/canary) | Unknown | Canary is a general-purpose optimization mod and unofficial fork of the Fabric mod Lithium for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior. | AbdElAziz333 | Both | none |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Server | none |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Unknown | EntityCulling using async path-tracing to skip rendering Tiles/Entities that are not visible. | tr9zw | Client | none |
 | [Entity Collision FPS Fix](https://modrinth.com/mod/entity-collision-fps-fix) | Unknown | Client Side mod that optimizes entity's on the render thread. | CorgiTaco | Client | none |
 | [Fastload](https://www.curseforge.com/minecraft/mc-mods/fastload) | Ksysix | Fastload, is a simple mod that reduces world loading time. This serves as an alternative to ksyxis, which uses an unsafe method of cutting down time. | overloadedwithmods | Both | none |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | Unknown | This mod reduces the memory usage of Minecraft in a few different ways | malte0811 | Both | none |
 | [It Shall Not Tick (ISNT)](https://www.curseforge.com/minecraft/mc-mods/it-shall-not-tick) | Unknown | It Shall Not Tick (ISNT) is a performance enhancing mod that limits entity ticking to within a configurable range of players. | Gaz_ | Both | none |
+| [Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone) | Unknown | Log Begone is a fork of [Shut Up Console by Bravarly](https://www.curseforge.com/minecraft/mc-mods/shut-up-console) that simply allows you to remove annoying logs. Can also help with performance if there is a lot of log spam | AzureDoomC | Server | Configuration Needed (7) |
 | [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged) | Unknown | Krypton Reforged is a Minecraft mod that implements a suite of optimizations focused on the Minecraft networking stack. | TeamDeusVult | Both | none |
+| [Pluto](https://www.curseforge.com/minecraft/mc-mods/pluto) | Unknown | Pluto is a networking stack optimization mod and unofficial fork of the Fabric mod Krypton for Minecraft, this mod aims to optimize the network stack of the game in order to provide better network performance. | AbdElAziz333 | Both | none |
 | [Radon](https://www.curseforge.com/minecraft/mc-mods/radon) | Unknown | Radon is an Unofficial Fork of CaffeineMC's "Phosphor", made to work with Forge Mod Loader. | Asek3 | Both | none |
 | [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) | Magnesium, Optifine | Rubidium is an Unofficial Fork of CaffeineMC's "Sodium", made to work with Forge Mod Loader. | Asek3 | Client | none |
+| [Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn) | Unknown | Saturn is a free and open-source performance mod for Minecraft Forge designed to optimize Minecraft's memoy usage | AbdElAziz333 | Both | none |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Forge mod for rewriting the light engine to fix lighting performance and lighting errors | SpottedLeaf (PaperMC) | Server | none |
+| [Smooth Boot (Reloaded)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Smooth Boot - Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems. | AbdElAziz333 | Client | none |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
