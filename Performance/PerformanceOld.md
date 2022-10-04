@@ -13,6 +13,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) | None | BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods. | Guichaguri | Both | none |
+| [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) | Unknown | Chunk Pregenerator is a tool that allows you to generate your World more efficiently, by Preemptively generating the chunks. It is a Server-side tool that has some optional client features if wanted. | Speiger | Both | Configuration Needed (7) |
 | [EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | None | EntityCulling using async path-tracing to skip rendering Tiles/Entities that are not visible | tr9zw | Client | none |
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. | asiekierka | Both | none |
 | [Patcher](https://sk1er.club/mods/patcher) | None | Patcher is a 1.8.9 Forge mod created to improve your all-around Minecraft experience, bringing tons of Quality of Life additions, performance improvements, and tons of Vanilla bug fixes. | Sk1er | Client | none |
@@ -26,6 +27,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [ArchaicFix](https://www.curseforge.com/minecraft/mc-mods/archaicfix) | None | ArchaicFix implements a number of bugfixes and optimizations for Minecraft 1.7.10 | embeddedt | Both | none |
 | [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) | None | BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods. | Guichaguri | Both | none |
 | [CoFHTweaks](https://www.curseforge.com/minecraft/mc-mods/cofhtweaks) | Unknown | Configuration options | skyboy026 (TeamCoFH) | Both | none |
+| [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) | Unknown | Chunk Pregenerator is a tool that allows you to generate your World more efficiently, by Preemptively generating the chunks. It is a Server-side tool that has some optional client features if wanted. | Speiger | Both | Configuration Needed (7) |
 | [FastCraft](https://www.curseforge.com/minecraft/mc-mods/fastcraft) | Forge Essentials | FastCraft is a sophisticated mod which improves the client and server performance significantly without any game play changes. | sfPlayer1 | Both | none |
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. | asiekierka | Both | none |
 | [Squidless](https://www.curseforge.com/minecraft/mc-mods/squidless) | Unknown | Prevents squids spawning in regions where they would instantly despawn | hilburn | Server | none |
