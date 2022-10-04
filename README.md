@@ -97,3 +97,5 @@ You might find some superscripted numbers around the repository. These are used 
 ###### ⁶ Halogen has issues with Forge's ExplosionEvent, see [sodium-forge#33](https://github.com/spoorn/sodium-forge/issues/33)
 
 ###### ⁷ These mods also work on 1.17.x , despite having only 1.16 and 1.18 releases in curseforge, no workarounds needed. Install them like any other mods and your fabric loader won't complain about missing dependencies
+
+###### ⁸ Some of the mods that have Magnesium/Rubidium as an incompatibility, might work if you use [Calcium](https://www.curseforge.com/minecraft/mc-mods/calcium)
