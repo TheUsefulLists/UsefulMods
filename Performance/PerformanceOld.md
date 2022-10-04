@@ -22,7 +22,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [AnimFix](https://modrinth.com/mod/animfix) | None | Decreases the stuttering caused by animated textures in 1.7.10 | FalsePattern  | Client | none |
+| [AnimFix](https://modrinth.com/mod/animfix) | None | Decreases the stuttering caused by animated textures in 1.7.10 | FalsePattern | Client | none |
+| [ArchaicFix](https://www.curseforge.com/minecraft/mc-mods/archaicfix) | None | ArchaicFix implements a number of bugfixes and optimizations for Minecraft 1.7.10 | embeddedt | Both | none |
 | [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) | None | BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods. | Guichaguri | Both | none |
 | [CoFHTweaks](https://www.curseforge.com/minecraft/mc-mods/cofhtweaks) | Unknown | Configuration options | skyboy026 (TeamCoFH) | Both | none |
 | [FastCraft](https://www.curseforge.com/minecraft/mc-mods/fastcraft) | Forge Essentials | FastCraft is a sophisticated mod which improves the client and server performance significantly without any game play changes. | sfPlayer1 | Both | none |
