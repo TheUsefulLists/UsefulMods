@@ -41,7 +41,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Unknown | Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems. | UltimateBoomer | Both | none |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Unknown | Fabric mod for completely rewriting the vanilla light engine. | Spottedstar | Both | none |
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric) | Unknown | Very Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount without sacrificing vanilla functionality or behavior. | ishland | Server | none |
-| [VulkanMod](https://github.com/xCollateral/VulkanMod/releases) | Sodium | a fabric mod that rewrites Minecraft OpenGL renderer to use Vulkan API. | xCollateral | Client | Incompatible(6) |
+| [Vulkan Renderer](https://www.curseforge.com/minecraft/mc-mods/vulkanmod) | Sodium | a fabric mod that rewrites Minecraft OpenGL renderer to use Vulkan API. | 
+x_collateral | Client | Incompatible(6) |
 
 ## Forge 1.19.X
 
@@ -62,5 +63,24 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn) | Unknown | Saturn is a free and open-source performance mod for Minecraft Forge designed to optimize Minecraft's memoy usage | AbdElAziz333 | Both | none |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Forge mod for rewriting the light engine to fix lighting performance and lighting errors | SpottedLeaf (PaperMC) | Server | none |
 | [Smooth Boot (Reloaded)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Smooth Boot - Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems. | AbdElAziz333 | Client | none |
+
+## Quilt 1.19.X
+
+| Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md#labels) |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| [Alternate Current](https://modrinth.com/mod/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | Space Walker | Server | None |
+| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Motschen | Client | None |
+| [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Server | none |
+| [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | Unknown | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Motschen | Client | none |
+| [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) | Unknown | Cull Less Leaves is an improved version of Cull Leaves. | XanderIsDev | Client | none |
+| [DashLoader](https://www.curseforge.com/minecraft/mc-mods/dashloader) | Unknown | This mod launches minecraft faster by caching all of the content on first launch and then loading that cache on the next one | alphaqu | Client | Incompatible (2) |
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Automatically reduces rendering speed when minecraft is not focused (to 1 FPS) or hidden (no renders at all). | juliand665 | Client | none |
+| [Fastload](https://www.curseforge.com/minecraft/mc-mods/fastload) | ForceCloseLoadingScreen | Fastload, is a simple mod that reduces world loading time. This serves as an alternative to ksyxis, which uses an unsafe method of cutting down time. | overloadedwithmods | Both | none |
+| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Unknown | This mod reduces the memory usage of Minecraft in a few different ways | malte0811 | Both | none |
+| [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Unknown | Krypton is a Minecraft mod designed for the Fabric mod loader that implements a suite of optimizations focused on the Minecraft networking stack. | astei | Both | none |
+| [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) | Unknown | A mod that fixes multiple memory leaks in minecraft. Both server-side & client-side. | FX_PR0CESS | Both | none |
+| [More Culling](https://www.curseforge.com/minecraft/mc-mods/moreculling) | See [MoreCulling#6](https://github.com/fxmorin/MoreCulling/issues/6) | changes how blockstate culling is handled in order to improve performance | FX_PR0CESS | Client | None |
+| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | Mods that utilize of the FRAPI[⁴](https://github.com/NordicGamerFE/usefulmods/tree/main#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium) | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. | jellysquid3_ | Client | none |
+| [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Unknown | Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems. | UltimateBoomer | Both | none |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
