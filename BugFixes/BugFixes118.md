@@ -17,6 +17,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) | Unknown | Carpet extension which fixes hundreds of vanilla bugs. | FXMORIN | Both | none |
 | [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes a variety of bugs. | IsXander | Both | none |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should. | juliand665 | Client | none |
+| [Entangled Fix](https://www.curseforge.com/minecraft/mc-mods/entangled-fix) | Unknown | This mod fixes an issue with the Entangled mod that causes server to hang if an area is unloaded. | Gaz_ | Both | none |
 | [Erroring Entity Remover](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)| Unknown | Removes entities that throw errors and crash the game while ticking. | The_Fireplace | Both | Unstable (2) |
 | [FabricCrossDimTPFix](https://modrinth.com/mod/fabriccrossdimtpfix) | Unknown | Fixes a bug where the player doesn't get sent their XP and Potion effects on cross dim teleport. | CodedSakura | Server | none |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Unknown | Stops the game from freezing when opening external links or folders | altrisi | Client | none |
