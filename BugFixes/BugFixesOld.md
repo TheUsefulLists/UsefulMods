@@ -24,7 +24,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [MCMouser](https://modrinth.com/mod/mcmouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none |
 
-## Fabric 1.7.X
+## Forge 1.7.X
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
