@@ -17,7 +17,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) | Unknown | Carpet extension which fixes hundreds of vanilla bugs. | FXMORIN | Both | none |
 | [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes a variety of bugs. | IsXander | Both | none |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should. | juliand665 | Client | none |
-| [Entangled Fix](https://www.curseforge.com/minecraft/mc-mods/entangled-fix) | Unknown | This mod fixes an issue with the Entangled mod that causes server to hang if an area is unloaded. | Gaz_ | Both | none |
 | [Erroring Entity Remover](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)| Unknown | Removes entities that throw errors and crash the game while ticking. | The_Fireplace | Both | Unstable (2) |
 | [FabricCrossDimTPFix](https://modrinth.com/mod/fabriccrossdimtpfix) | Unknown | Fixes a bug where the player doesn't get sent their XP and Potion effects on cross dim teleport. | CodedSakura | Server | none |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Unknown | Stops the game from freezing when opening external links or folders | altrisi | Client | none |
@@ -51,6 +50,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Unknown | Removes attribute caps, which can cause unintended behavior with some mods | DarkhaxDev | Server | none |
 | [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix) | Unknown | This mod fixes MC-229321 : Bees Can Despawn This bug causes multiple issues that cause bees to despawn or fail to be saved under different edge cases. Also fixes MC-168329 : Bees refuse to leave hive in end/nether. | lupicus| Server | none |
 | [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Unknown | Lightweight mod which solves several connection problems like DecoderException, Packet size larget than X bytes, Payload too large and more. | someaddon | Both | none |
+| [Entangled Fix](https://www.curseforge.com/minecraft/mc-mods/entangled-fix) | Unknown | This mod fixes an issue with the Entangled mod that causes server to hang if an area is unloaded. | Gaz_ | Both | none |
 | [Feature NBT Deadlock Begone](https://modrinth.com/mod/feature-nbt-deadlock-be-gone) | Unknown | Fixes deadlocks caused by MC-246262. | TelepathicGrunt | Server | none |
 | [FlickerFix](https://www.curseforge.com/minecraft/mc-mods/flickerfix) | Unknown | By default, when the night vision effect goes below 10 seconds, the screen starts flickering. This mod replaces that behavior with a fast fade-out at 1 second remaining duration. |  MutantGumdrop | Client | none |
 | [MCMouser](https://modrinth.com/mod/mcmouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none |
