@@ -53,6 +53,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) | Unknown | Carpet extension which fixes hundreds of vanilla bugs. | FXMORIN | Both | none |
 | [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes a variety of bugs. | IsXander | Both | none |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug in Vanilla Minecraft that makes it take much more performance in the background than it should. | juliand665 | Client | none |
+| [Entangled Fix](https://www.curseforge.com/minecraft/mc-mods/entangled-fix) | Unknown | This mod fixes an issue with the Entangled mod that causes server to hang if an area is unloaded. | Gaz_ | Both | none |
 | [Erroring Entity Remover](https://www.curseforge.com/minecraft/mc-mods/erroring-entity-remover)| Unknown | Removes entities that throw errors and crash the game while ticking. | The_Fireplace | Both | Unstable (2) |
 | [Fix Alt Gr](https://modrinth.com/mod/fix-alt-gr) | Unknown | Fixes the MC-127862 bug, which sometimes makes pressing the Alt Gr key lock your left control key. | MikolajKolek | Client | none |
 | [No Chat Report](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Strips the cryptographic signatures from chat messages that were added in 1.19 to stop the chat reporting feature from working | Aizistral | Both | None |
