@@ -1,6 +1,6 @@
 # Bugfixing Mods
 
-A list of bugfixing mods for 1.8.x forge versions.
+A list of bugfixing mods for 1.8.x and below
 
 Any suggestions/complaints?
 
@@ -23,6 +23,12 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [MCMouser](https://modrinth.com/mod/mcmouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none |
+
+## Fabric 1.7.X
+
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| [KaizPatchX](https://github.com/Kai-Z-JP/KaizPatchX) | Unknown | fixes some bugs of RTM and make RTM more useful! RTM = [RealTrainMod](https://www.curseforge.com/minecraft/mc-mods/realtrainmod) | Kai-Z-JP | Both | none |
 
 ## Legacy Fabric b1.7.X
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
