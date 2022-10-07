@@ -1,4 +1,4 @@
-# Helpful Mods (WIP)
+# Helpful Mods
 
 A list of helpful mods for 1.19.x forge/fabric versions.
 
@@ -15,9 +15,11 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client | none |
 | [ClearDespawn](https://modrinth.com/mod/cleardespawn) | Unknown | Make items blink when they're about to despawn | Giselbaer | Client | none |
 | [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Client | none |
-| [DeathLog](https://modrinth.com/mod/deathlog) | Unknown | Keeps track of the many embarrassing times you died | glisco | Client | none |
-| [Durability Viewer](https://modrinth.com/mod/durabilityviewer) | Unknown | Armor and Tool durability HUD | Giselbaer | Client | none |
-| [EasierChests](https://modrinth.com/mod/easierchests) | Unknown | Move items between inventory and chests easily, includes a sorter | Giselbaer | Client | none |
+| [Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify) | Unknown | Craftify is a mod for Minecraft that allows you to connect to music services and display and control it in-game. | ThatGravyBoat | Client | none |
+| [DeathLog](https://modrinth.com/mod/deathlog) | Unknown | Keeps track of the many embarrassing times you died. | glisco | Client | none |
+| [Durability Viewer](https://modrinth.com/mod/durabilityviewer) | Unknown | Armor and Tool durability HUD. | Giselbaer | Client | none |
+| [EasierChests](https://modrinth.com/mod/easierchests) | Unknown | Move items between inventory and chests easily, includes a sorter. | Giselbaer | Client | none |
+| [ESSENTIAL Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) | Unknown | Essential is a quality of life mod that boosts Minecraft Java to the next level. | SparkUniverse_ | Client | none |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Unknown | Take insanely large screenshots because why not | ramidzkh | Client | none |
 | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | Unknown | Farsight is a client-side util which lets you see much further in already visited chunks than the servers chunk distance. | someaddon | Client | none |
 | [Flour's Various Tweaks](https://modrinth.com/mod/fvt) | Unknown | Various client-side tweaks & enhancements fabric mod | Flourick | Client | none |
@@ -44,6 +46,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut) | Unknown | Attack enemies through obstructions! | Rongmario | Client | none |
 | [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Both | none |
 | [Durability Viewer](https://modrinth.com/mod/durabilityviewer) | Unknown | Armor and Tool durability HUD | Giselbaer | Client | none |
+| [ESSENTIAL Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) | Unknown | Essential is a quality of life mod that boosts Minecraft Java to the next level. | SparkUniverse_ | Client | none |
 | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) | Unknown | Farsight is a client-side util which lets you see much further in already visited chunks than the servers chunk distance. | someaddon | Client | none |
 | [Full Brightness Toggle](https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle) | Unknown | Full Brightness Toggle is a client-side mod which allows players to instantly turn the brightness (gamma) to full with the press of a button | Serilum | Client | none |
 | [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) | Unknown | Improves crashes and provides useful information. | NatanFudge | Both | None |
