@@ -15,7 +15,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Motschen | Client | none |
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | Sodium | Better Biome Blend is a mod  which accelerates the biome color blending algorithm. | FionaTheMortal | Client | none |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) | Unknown | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | someaddon | Client | none |
-| [C2ME](https://github.com/YatopiaMC/C2ME-fabric/releases) | Tic-Tacs, + | A Fabric mod designed to improve the chunk performance of Minecraft. | YatopiaMC | Server | Alpha (1) |
+| [C2ME](https://modrinth.com/mod/c2me-fabric) | Unknown | A Fabric mod designed to improve the chunk performance of Minecraft. | ishland | Both | Alpha (1) |
 | [Canvas](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) | Sodium | Advanced Rendering Engine for Fabric | grondag | Client | none |
 | [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) | Unknown | Pre-generates chunks, quickly and efficiently. | pop4959 | Both | Configuration Needed (7) |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Server | none |
@@ -92,7 +92,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) | Magnesium, Optifine, Mahou | Rubidium is an Unofficial Fork of CaffeineMC's "Sodium", made to work with Forge Mod Loader | Asek3 | Client | none |
 | [Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn) | Unknown | Saturn is a free and open-source performance mod for Minecraft Forge designed to optimize Minecraft's memoy usage | AbdElAziz333 | Both | none |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Forge mod for rewriting the light engine to fix lighting performance and lighting errors | SpottedLeaf (PaperMC) | Server | none |
-| [Smooth Boot (Reloaded)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Smooth Boot - Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems. | AbdElAziz333 | Client | none |
+| [Smooth Boot (Reloaded)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded) | Unknown | Smooth Boot - Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems. | AbdElAziz333 | Client | none |
 | [Radon](https://www.curseforge.com/minecraft/mc-mods/radon) | Unknown | Radon is an Unofficial Port of CaffeineMC's "Phosphor," made to work with Forge Mod Loader | Asek3 | Both | none |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
