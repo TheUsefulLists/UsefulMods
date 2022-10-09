@@ -12,6 +12,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
+| [Tinkers OreDict Cache](https://www.curseforge.com/minecraft/mc-mods/tinkers-oredict-cache) | Unknown | This mod caches tinkers construct melting recipes to speed up game loading time | youyihj | Both | none |
 | [AE2 Unofficial Extended Life](https://www.curseforge.com/minecraft/mc-mods/ae2-extended-life) | Applied Energistics 2 | This is a Fork of [Applied Energistcs 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) since 1.12.2 in no longer supported, This version of AE2 comes with many bugfixes and performance improvments | PrototypeTrousers | Both | none |
 | [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) | None | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game | QueenOfMissiles | Server | none |
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | None | Better Biome Blend is a mod  which accelerates the biome color blending algorithm. | FionaTheMortal | Client | none |
