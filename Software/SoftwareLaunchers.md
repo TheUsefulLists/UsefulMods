@@ -19,7 +19,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [GDLauncher](https://gdevs.io) | Fabric, Quilt & Forge | All | GDLauncher is a clean and easy to use launcher with selection of modpacks from Curseforge and FTB. GDLauncher also lets you make modpacks with easy access to all curseforge mods via the launcher. |
 | [Lunar Client](https://www.lunarclient.com) | None | Releases | Lunar is a client meant to be used with vanilla that improves frames and add many cool features to the game and... of course, twerking. |
 | [MultiMC](https://multimc.org) | Fabric, Quilt, Forge & Liteloader | All | MultiMC is a free, open source launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface. MultiMC Also has Support for Curseforge, ATLauncher, FTB and Technic modpacks. |
-| PolyMC | PolyMC currently been hacked the depth of the attack is currently unknown please do not use polymc currently |  | |
+| PolyMC | PolyMC might be compromised now you can check our [discord](https://discord.gg/jCHak3t6tZ) for more information, We recommend deleting PolyMC for now as we gather more information | | |
 | [Technic Launcher](https://www.technicpack.net/download) | Fabric, Quilt & Forge | Unknown | Technic has a wide selection of official and community modpacks a great launcher for someone who wants to try something new or old.
 | [VoidsWrath](http://test.voidswrath.com/voidlauncher/) | Inapplicable | Inapplicable | VoidsWrath Launcher has a couple of unique modpacks.
 
