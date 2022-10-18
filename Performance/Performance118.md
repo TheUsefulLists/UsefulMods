@@ -35,7 +35,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [FastFurnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric) | Recipe Cache | Similar to FastWorkbench, it caches the last recipe used, and checks this recipe first before re-scanning the entire registry. | tfarecnim | Server | none |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Unknown | This mod reduces the memory usage of Minecraft in a few different ways | malte0811 | Both | none |
 | [FixMySpawnR](https://www.curseforge.com/minecraft/mc-mods/fixmyspawnr) | Unknown | FixMySpawnR Claims to reduce about half of the tps lag caused by mobspawners. | AbsolemJackdaw | Both | none |
-| [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk) | Unknown | Fixes the large lag spikes you sometimes get when crossing a chunk border | BreadLoaf | Client | none |
+| [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk) | Unknown | Fixes the large lag spikes you sometimes get when crossing a chunk border | BreadLoaf | Client | Unstable (7) |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Unknown | Krypton is a Minecraft mod designed for the Fabric mod loader that implements a suite of optimizations focused on the Minecraft networking stack | astei | Both | none |
 | [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) | Unknown | Speeds up your world loading by skipping vanilla's unnecessary 441 chunk loading-unloading on every login. | VidTu | Both | Incompatible (1) |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Unknown | LazyDFU is an optimization mod that makes the initialization of DataFixerUpper "lazy" | astei | Both | none |
