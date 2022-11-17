@@ -45,6 +45,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Entangled Fix](https://www.curseforge.com/minecraft/mc-mods/entangled-fix) | Unknown | This mod fixes an issue with the Entangled mod that causes server to hang if an area is unloaded. | Gaz_ | Both | none |
 | [MCMouser](https://www.curseforge.com/minecraft/mc-mods/mcmouser) | Unknown | A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none |
 | [No Chat Report](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Stips the cryptographic signatures from chat messsages that were added in 1.19 to stop the chat reporting feature from working | Aizistral | Both | None |
+| [No Time Out No More](https://www.curseforge.com/minecraft/mc-mods/notimeoutnomore) | Unknown | NoTimeOutNoMore is a mod that enables editing of server timeout time | zKryle | Server | Configuration Needed(7) |
 
 ## Quilt 1.19.X
 
