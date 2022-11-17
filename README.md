@@ -49,6 +49,7 @@ You are responsible for checking anything you download from the internet using h
 | [Server Management](Software/SoftwareServerManagement.md) | Used to manage servers
 
 ## [Java Arguments optimization](JavaArgumentsOptimization.md)
+## [Other Lists](lists.md)
 
 ## Labels
 
