@@ -50,7 +50,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Canary](https://www.curseforge.com/minecraft/mc-mods/canary) | Unknown | Canary is a general-purpose optimization mod and unofficial fork of the Fabric mod Lithium for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior. | AbdElAziz333 | Both | none |
+| [Canary](https://www.curseforge.com/minecraft/mc-mods/canary) | Apotheosis | Canary is a general-purpose optimization mod and unofficial fork of the Fabric mod Lithium for Minecraft which works to improve a number of systems (game physics, mob AI, block ticking, etc) without changing any behavior. | AbdElAziz333 | Both | none |
 | [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) | Unknown | Chunk Pregenerator is a tool that allows you to generate your World more efficiently, by Preemptively generating the chunks. It is a Server-side tool that has some optional client features if wanted. | Speiger | Both | Configuration Needed (7) |
 | [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge) | Unknown | Pre-generates chunks, quickly and efficiently. | pop4959 | Both | Configuration Needed (7) |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area. | jaredlll08 | Server | none |
