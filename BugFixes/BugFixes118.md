@@ -55,6 +55,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [FlickerFix](https://www.curseforge.com/minecraft/mc-mods/flickerfix) | Unknown | By default, when the night vision effect goes below 10 seconds, the screen starts flickering. This mod replaces that behavior with a fast fade-out at 1 second remaining duration. |  MutantGumdrop | Client | none |
 | [MCMouser](https://modrinth.com/mod/mcmouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none |
 | [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Fixes crashing when trying to pre-generate large areas of a world.  | telepathicgrunt | Server | none |
+| [No Time Out No More](https://www.curseforge.com/minecraft/mc-mods/notimeoutnomore) | Unknown | NoTimeOutNoMore is a mod that enables editing of server timeout time | zKryle | Server | Configuration Needed(7) |
 | [Potion ID Packet Fixer](https://modrinth.com/mod/potion-fix) | Unknown | If you have more than 255 potion effects registered, the client will receive incorrect information for potion effects above ID 255, due to an issue with vanilla packets. This mod fixes that issue. | stepsword | Both | none |
 | [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast) | Unknown | Removes the server-side limitations on player speed that result in "player XYZ moved too fast" messages in the console and rubber-banding. | Noobanidus | Server | none |
 
