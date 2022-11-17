@@ -10,7 +10,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull 
 ## Disclaimer
 
 We try our best to check and make sure there are no malicious mods/software on our list. However, we can not be held responsible if you get infected with malware or a virus from anything on this list. It is not possible for us to check each and every version of every item on this list;
-You are responsible for checking anything you download from the internet using hashes (when provided), extraction software that allows you to see what is contained inside it, or by any means you see fit.
+You are responsible for checking anything you download from the internet using hashes (when provided), extraction software that allows you to see what is contained inside downloaded files, or by any means you see fit.
 
 ## Version List
 
