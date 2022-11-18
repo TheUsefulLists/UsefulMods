@@ -12,7 +12,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [Alternate Current](https://modrinth.com/mod/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | Space Walker | Server | None |
+| Alternate Current[<img src=images/modrinth.ico height=16>](https://modrinth.com/mod/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | Space Walker | Server | None |
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Motschen | Client | None |
 | [C2ME](https://modrinth.com/mod/c2me-fabric) | Unknown | A Fabric mod designed to improve the chunk performance of Minecraft. | ishland | Both | Alpha (1) |
 | [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) | Unknown | Pre-generates chunks, quickly and efficiently. | pop4959 | Both | Configuration Needed (7) |
