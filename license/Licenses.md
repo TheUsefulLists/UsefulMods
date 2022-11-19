@@ -11,6 +11,11 @@ ___
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice<br>State changes<br>Disclose source<br>Same license |
 ___
+## LGPL-2.1
+| Commercial use | Modification | Distribution | Liability | Conditions |
+| --- | --- | --- | --- | --- |
+| Allowed | Allowed | Allowed | No | License and copyright notice<br>State changes<br>Disclose source<br>Same license |
+___
 ## LGPL-3.0
 | Commercial use | Modification | Distribution | Patent use | Private use | Liability | Warrenty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- | --- |
