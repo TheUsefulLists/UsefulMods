@@ -45,3 +45,8 @@ ___
 | Commercial use | Modification | Distribution | Sublicense | Private Use | Use Patent | Place Warranty | Liability | Warrenty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice.<br>State changes. |
+___
+## MPL-2.0
+| Commercial use | Modification | Distribution | Sublicense | Use Patent Claims | Place Warranty | Liability | Warrenty | Use Trademark | Conditions |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Allowed | Allowed | Allowed | Allowed | Allowed | Allowed | No | No | No | License and copyright notice.<br>Disclose Source. |
