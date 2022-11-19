@@ -16,27 +16,27 @@ You are responsible for checking anything you download from the internet using h
 
 ### Performance and Bug fixing mods
 
-| Version | Performance | Bugfixes |
+| Version | Performance<br><em>Mods that help improve performance</em> | Bugfixes<br><em>Mods that fixes bugs</em> |
 | :-: | :-: | :-: |
-| 1.19.x | [✔️ Available](Performance/Performance119.md) | [✔️ Available](BugFixes/BugFixes119.md)
-| 1.18.x | [✔️ Available](Performance/Performance118.md) | [✔️ Available](BugFixes/BugFixes118.md)
-| 1.17.x | [✔️ Available](Performance/Performance117.md) | [✔️ Available](BugFixes/BugFixes117.md)
-| 1.16.x | [✔️ Available](Performance/Performance116.md) | [✔️ Available](BugFixes/BugFixes116.md)
-| 1.15.x | [✔️ Available](Performance/Performance115.md) | [✔️ Available](BugFixes/BugFixes115.md)
-| 1.12.x | [✔️ Available](Performance/Performance112.md) | [✔️ Available](BugFixes/BugFixes112.md)
-| 1.8.9 and below | [✔️ Available](Performance/PerformanceOld.md) | [⚠️ WIP](BugFixes/BugFixesOld.md)
+| 1.19.x | [✔️ Available](Performance/Performance119.md) | [✔️ Available](BugFixes/BugFixes119.md) |
+| 1.18.x | [✔️ Available](Performance/Performance118.md) | [✔️ Available](BugFixes/BugFixes118.md) |
+| 1.17.x | [✔️ Available](Performance/Performance117.md) | [✔️ Available](BugFixes/BugFixes117.md) |
+| 1.16.x | [✔️ Available](Performance/Performance116.md) | [✔️ Available](BugFixes/BugFixes116.md) |
+| 1.15.x | [✔️ Available](Performance/Performance115.md) | [✔️ Available](BugFixes/BugFixes115.md) |
+| 1.12.x | [✔️ Available](Performance/Performance112.md) | [✔️ Available](BugFixes/BugFixes112.md) |
+| 1.8.9 and below | [✔️ Available](Performance/PerformanceOld.md) | [⚠️ WIP](BugFixes/BugFixesOld.md) |
 
 ### Enhancement mods
 
-| Version | Helpful | Improvements |
-| :-: | :-: | :-: |
-| 1.19.x | [✔️ Available](Enhancements/Helpful/Helpful119.md) | [✔️ Available](Enhancements/Improvements/Improvements119.md)
-| 1.18.x | [✔️ Available](Enhancements/Helpful/Helpful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) |
-| 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvementsl117.md) |
-| 1.16.x | [✔️ Available](Enhancements/Helpful/Helpful116.md) | [✔️ Available](Enhancements/Improvements/Improvements116.md) |
-| 1.15.x | [⚠️ WIP](Enhancements/Helpful/Helpful115.md) | [⚠️ WIP](Enhancements/Improvements/Improvements115.md) |
-| 1.12.x | [⚠️ WIP](Enhancements/Helpful/Helpful112.md) | [⚠️ WIP](Enhancements/Improvements/Improvements112.md) |
-| 1.8.9 and below | [⚠️ WIP](Enhancements/Helpful/HelpfulOld.md) | [⚠️ WIP](Enhancements/Improvements/ImprovementsOld.md) |
+| Version | Helpful<br><em>Mods that help with certain aspects of the game</em> | Improvements<br><em>Mods that improve on aspects of the game</em> | Modpack Tools<br><em>Useful tools for modpack creators</em> |
+| :-: | :-: | :-: | :-: |
+| 1.19.x | [✔️ Available](Enhancements/Helpful/Helpful119.md) | [✔️ Available](Enhancements/Improvements/Improvements119.md) | [✔️ Available](modpacktools/modpacktools119.md) |
+| 1.18.x | [✔️ Available](Enhancements/Helpful/Helpful118.md) | [✔️ Available](Enhancements/Improvements/Improvements118.md) | [✔️ Available](modpacktools/modpacktools118.md) |
+| 1.17.x | [✔️ Available](Enhancements/Helpful/Helpful117.md) | [✔️ Available](Enhancements/Improvements/Improvementsl117.md) | [✔️ Available](modpacktools/modpacktools117.md) |
+| 1.16.x | [✔️ Available](Enhancements/Helpful/Helpful116.md) | [✔️ Available](Enhancements/Improvements/Improvements116.md) | [✔️ Available](modpacktools/modpacktools116.md) |
+| 1.15.x | [⚠️ WIP](Enhancements/Helpful/Helpful115.md) | [⚠️ WIP](Enhancements/Improvements/Improvements115.md) | [✔️ Available](modpacktools/modpacktools115.md) |
+| 1.12.x | [⚠️ WIP](Enhancements/Helpful/Helpful112.md) | [⚠️ WIP](Enhancements/Improvements/Improvements112.md) | [✔️ Available](modpacktools/modpacktools112.md) |
+| 1.8.9 and below | [⚠️ WIP](Enhancements/Helpful/HelpfulOld.md) | [⚠️ WIP](Enhancements/Improvements/ImprovementsOld.md) | [✔️ Available](modpacktools/modpacktoolsold.md) |
 
 ## External Software
 
