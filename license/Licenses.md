@@ -1,4 +1,5 @@
-
+## Disclaimer
+This is not legal advice nor is anyone on our team a lawyer so some of this information could be wrong.
 ## MIT
 | Commercial use | Modification | Distribution | Private use | Liability | Conditions |
 | --- | --- | --- | --- | --- | --- |
