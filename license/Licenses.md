@@ -11,6 +11,11 @@ ___
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice.<br>State changes.<br>Disclose source.<br>Same license. |
 ___
+## GPL-2
+| Commercial use | Modification | Distribution | Place Warranty | Liability | Sublicense| Conditions |
+| --- | --- | --- | --- | --- | --- | --- |
+| Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice.<br>State changes.<br>Disclose source.<br>Same license. |
+___
 ## LGPL-2.1
 | Commercial use | Modification | Distribution | Place Warranty | Liability | Conditions |
 | --- | --- | --- | --- | --- | --- |
