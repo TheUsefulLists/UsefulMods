@@ -7,12 +7,12 @@ A list of useful mods for most commonly-played versions.
 Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull request fixing it!)
+___
 ## Disclaimer
-
 We try our best to check and make sure there are no malicious mods/software on our list. However, we can not be held responsible if you get infected with malware or a virus from anything on this list. It is not possible for us to check each and every version of every item on this list;
 You are responsible for checking anything you download from the internet using hashes (when provided), extraction software that allows you to see what is contained inside downloaded files, or by any means you see fit.
+___
 ## Version List
-
 ### Performance and Bug fixing mods
 | Version | Performance<br><em>Mods that help improve performance</em> | Bugfixes<br><em>Mods that fixes bugs</em> |
 | :-: | :-: | :-: |
@@ -24,7 +24,6 @@ You are responsible for checking anything you download from the internet using h
 | 1.12.x | [✔️ **Available**](Performance/Performance112.md) | [✔️ **Available**](BugFixes/BugFixes112.md) |
 | 1.8.9 and below | [✔️ **Available**](Performance/PerformanceOld.md) | [⚠️ **WIP**](BugFixes/BugFixesOld.md) |
 ### Enhancement mods
-
 | Version | Helpful<br><em>Mods that help with certain aspects of the game</em> | Improvements<br><em>Mods that improve on aspects of the game</em> | Modpack Tools<br><em>Useful tools for modpack creators</em> |
 | :-: | :-: | :-: | :-: |
 | 1.19.x | [✔️ **Available**](Enhancements/Helpful/Helpful119.md) | [✔️ **Available**](Enhancements/Improvements/Improvements119.md) | [✔️ **Available**](modpacktools/modpacktools119.md) |
@@ -34,8 +33,8 @@ You are responsible for checking anything you download from the internet using h
 | 1.15.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful115.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements115.md) | [✔️ **Available**](modpacktools/modpacktools115.md) |
 | 1.12.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful112.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements112.md) | [✔️ **Available**](modpacktools/modpacktools112.md) |
 | 1.8.9 and below | [⚠️ **WIP**](Enhancements/Helpful/HelpfulOld.md) | [⚠️ **WIP**](Enhancements/Improvements/ImprovementsOld.md) | [✔️ **Available**](modpacktools/modpacktoolsold.md) |
+___
 ## External Software
-
 | Theme | Description |
 | :---: | :---: |
 | [Launchers](Software/SoftwareLaunchers.md) | Used to launch the game
@@ -43,14 +42,12 @@ You are responsible for checking anything you download from the internet using h
 | [Graphical](Software/SoftwareGraphical.md) | Graphical related software
 | [World Management](Software/SoftwareWorldManagement.md) | Used to manage or modifiy worlds
 | [Server Management](Software/SoftwareServerManagement.md) | Used to manage servers
-
+___
 ## [Java Arguments optimization](JavaArgumentsOptimization.md)
 ## [Other Lists](lists.md)
-
+___
 ## Labels
-
 Labels are used to give you a better understanding of how a mod may act.
-
 | Name | Meaning |
 | :--: | :-----: |
 | Alpha | Mod is in alpha and therefore might be unstable. |
@@ -61,9 +58,7 @@ Labels are used to give you a better understanding of how a mod may act.
 | Reverse Features | Mod takes away features for sake of performance or bugfixes. |
 | Configuration Needed | Mod needs to be configured to act at its best. |
 ## Severity Level
-
 Severity Level is used alongside labels for a clearer understanding of how severe the issue is.
-
 | Level | Meaning |
 | :---: | :-----: |
 | 1 | Low chance to affect user |
@@ -74,8 +69,8 @@ Severity Level is used alongside labels for a clearer understanding of how sever
 | 6 | Very high chance to affect user |
 | 7 | Will affect user |
 | ? | Level of severity is unknown |
+___
 ## Extra Information
-
 You might find some superscripted numbers around the repository. These are used to tell extra information about the mods that labels and danger levels do not apply to.
 
 ###### ¹ The mod should work if [Mixin-0-7-0-8-Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility) is applied
