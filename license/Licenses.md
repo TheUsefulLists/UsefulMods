@@ -28,4 +28,5 @@ ___
 ___
 ## All Rights Reserved
 | Private Use | Notes |
+| --- | --- |
 | Allowed | All Rights Reserved unless otherwise explicitly stated. |
