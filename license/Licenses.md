@@ -25,3 +25,7 @@ ___
 | Commercial use | Modification | Distribution | Patent use | Use Trademark | Private use | Liability | Warrenty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | No | No | Allowed | No | No | None Yet |
+___
+## All Rights Reserved
+| Private Use | Notes |
+| Allowed | All Rights Reserved unless otherwise explicitly stated. |
