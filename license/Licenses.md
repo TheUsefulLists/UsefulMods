@@ -4,27 +4,27 @@ ___
 ## MIT
 | Commercial use | Modification | Distribution | Private use | Liability | Warrenty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- |
-| Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice |
+| Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice. |
 ___
 ## GPL-3
 | Commercial use | Modification | Distribution | Patent use | Private use | Liability | Warrenty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice<br>State changes<br>Disclose source<br>Same license |
+| Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice.<br>State changes.<br>Disclose source.<br>Same license. |
 ___
 ## LGPL-2.1
 | Commercial use | Modification | Distribution | Place Warranty | Liability | Conditions |
 | --- | --- | --- | --- | --- | --- |
-| Allowed | Allowed | Allowed | Allowed | No | License and copyright notice<br>State changes<br>Disclose source<br>Same license |
+| Allowed | Allowed | Allowed | Allowed | No | License and copyright notice.<br>State changes.<br>Disclose source.<br>Same license. |
 ___
 ## LGPL-3.0
 | Commercial use | Modification | Distribution | Patent use | Private use | Liability | Warrenty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice<br>State changes<br>Disclose source<br>Same license |
+| Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice.<br>State changes.<br>Disclose source.<br>Same license. |
 ___
 ## CC0
 | Commercial use | Modification | Distribution | Patent use | Use Trademark | Private use | Liability | Warrenty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Allowed | Allowed | Allowed | No | No | Allowed | No | No | None Yet |
+| Allowed | Allowed | Allowed | No | No | Allowed | No | No | None Yet. |
 ___
 ## All Rights Reserved
 | Private Use | Notes |
@@ -39,4 +39,4 @@ ___
 ## Apache License 2.0
 | Commercial use | Modification | Distribution | Sublicense | Private Use | Use Patent | Place Warranty | Liability | Warrenty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Allowed | Allowed | Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice<br>State changes |
+| Allowed | Allowed | Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice.<br>State changes. |
