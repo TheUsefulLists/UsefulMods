@@ -12,9 +12,9 @@ ___
 | Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice<br>State changes<br>Disclose source<br>Same license |
 ___
 ## LGPL-2.1
-| Commercial use | Modification | Distribution | Liability | Conditions |
-| --- | --- | --- | --- | --- |
-| Allowed | Allowed | Allowed | No | License and copyright notice<br>State changes<br>Disclose source<br>Same license |
+| Commercial use | Modification | Distribution | Place Warranty | Liability | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Allowed | Allowed | Allowed | Allowed | No | License and copyright notice<br>State changes<br>Disclose source<br>Same license |
 ___
 ## LGPL-3.0
 | Commercial use | Modification | Distribution | Patent use | Private use | Liability | Warrenty | Conditions |
@@ -35,3 +35,8 @@ ___
 | Commercial use | Modification | Distribution | Private Use | Liability | Warrenty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | Allowed | No | No | None |
+
+## Apache License 2.0
+| Commercial use | Modification | Distribution | Sublicense | Private Use | Use Patent | Place Warranty | Liability | Warrenty | Conditions |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Allowed | Allowed | Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice<br>State changes |
