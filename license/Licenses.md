@@ -30,3 +30,8 @@ ___
 | Private Use | Notes |
 | --- | --- |
 | Allowed | All Rights Reserved unless otherwise explicitly stated. |
+___
+## The Unlicense
+| Commercial use | Modification | Distribution | Private Use | Liability | Warrenty | Conditions |
+| --- | --- | --- | --- | --- | --- | --- |
+| Allowed | Allowed | Allowed | Allowed | No | No | None |
