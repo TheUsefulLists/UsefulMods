@@ -13,6 +13,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | Name | Description |
 | --- | :---: |
 | [AMP](https://cubecoders.com/AMP)(Paid 10 USD) | AMP is short for Application Management Panel. It's our next-generation server administration software built for both users, and service providers. It supports both Windows and Linux based servers and allows you to manage all your game servers from a single web interface. |
+| [Crafty Controller](https://craftycontrol.com/) | Crafty Controller is a feature rich panel that allows you to create and run servers, manage players, run commands, change server settings, view and edit server files, and make backups. |
 | [Cutercon](https://github.com/Karsteski/Cutercon) | A remote console written in Python, using Qt6 for the GUI. |
 | [Dragonfly](https://github.com/df-mc/dragonfly) | Dragonfly is a heavily asynchronous server software for Minecraft Bedrock Edition written in Go. |
 | [Linux Server auto-restart](https://www.curseforge.com/minecraft/customization/linux-server-auto-restart) | A script used to setup auto restarts |

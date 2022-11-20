@@ -5,6 +5,8 @@ A list of performance-enhancing mods for 1.16.x forge/fabric versions.
 Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
+Dont want to mess around with mods? try out Fabulously Optimized[<img src=/images/modrinth.ico height=22>](https://modrinth.com/modpack/fabulously-optimized)[<img src=/images/curseforge.png height=22>](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
+
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 ## Fabric 1.16.X
