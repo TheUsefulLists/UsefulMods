@@ -6,6 +6,11 @@ ___
 | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice. |
 ___
+## ISC
+| Commercial use | Modification | Distribution | Private use | Liability | Warranty | Conditions |
+| --- | --- | --- | --- | --- | --- | --- |
+| Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice. |
+___
 ## GPL-3
 | Commercial use | Modification | Distribution | Patent use | Private use | Liability | Warranty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- | --- |
