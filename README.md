@@ -16,6 +16,7 @@ ___
 ### Performance and Bug fixing mods
 | Version | Performance<br><em>Mods that help improve performance</em> | Bugfixes<br><em>Mods that fixes bugs</em> |
 | :-: | :-: | :-: |
+| 1.20.x | [✔️ **Available**](Performance/Performance120.md) | [✔️ **Available**](BugFixes/BugFixes120.md) |
 | 1.19.x | [✔️ **Available**](Performance/Performance119.md) | [✔️ **Available**](BugFixes/BugFixes119.md) |
 | 1.18.x | [✔️ **Available**](Performance/Performance118.md) | [✔️ **Available**](BugFixes/BugFixes118.md) |
 | 1.17.x | [✔️ **Available**](Performance/Performance117.md) | [✔️ **Available**](BugFixes/BugFixes117.md) |
