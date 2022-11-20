@@ -18,3 +18,5 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Lazydfu-agent](https://www.curseforge.com/minecraft/mc-mods/lazydfu-agent)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/lazydfu-agent) | Unknown | Disabling Minecraft's DFU system from loading frees up memory. | 
 Official_CreeperHost, Paul_T_T, Gigabit101, covers1624 | Both | Configuration Needed (7) | [MIT](/license/Licenses.md#mit)
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/vmp-fabric)[<img src=/images/github.ico height=18>](https://github.com/RelativityMC/VMP-fabric) | Unknown | Very Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount without sacrificing vanilla functionality or behavior. | ishland | Server | none | [MIT](/license/Licenses.md#mit)
+
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
