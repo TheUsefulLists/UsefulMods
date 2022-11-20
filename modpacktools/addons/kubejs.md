@@ -1,6 +1,6 @@
 # KubeJS Addons
 
-A list of KubeJS Addons for all versions, All mods in here has crafttweaker as a dependency
+A list of KubeJS Addons for all versions, All mods in here has KubeJS as a dependency
 
 Any suggestions/complaints?
 
