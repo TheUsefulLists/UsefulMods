@@ -7,6 +7,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
+Dont want to mess around with mods? try out Fabulously Optimized[<img src=/images/modrinth.ico height=22>](https://modrinth.com/modpack/fabulously-optimized)[<img src=/images/curseforge.png height=22>](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
+
 ## Fabric 1.16.X
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
