@@ -9,8 +9,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 ## Fabric 1.18.X
 
-| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/advancements-debug)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)[<img src=/images/github.ico height=18>](https://github.com/Technici4n/advancements-debug) | Unknown | Rewrites one function of the advancements logic to make advancements checking faster, and use less recursion. | thetechnici4n | Client | none | [MIT](/license/Licenses.md#mit)
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/antighost)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/antighost)[<img src=/images/github.ico height=18>](https://github.com/gbl/AntiGhost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none | [MIT](/license/Licenses.md#mit)
 | [BeeFix](https://modrinth.com/mod/bee-fix)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/bee-fix)[<img src=/images/github.ico height=18>](https://github.com/heipiao233/beefix) | Unknown | Fix a bug about bee that causes lag Bug: A bee will get the block entity at its hive each 20 ticks to check the status | heipiao233 | Server | none | [MIT](/license/Licenses.md#mit)
@@ -45,8 +45,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 ## Forge 1.18.X
 
-| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/antighost)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/antighost)[<img src=/images/github.ico height=18>](https://github.com/gbl/AntiGhost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none | [MIT](/license/Licenses.md#mit)
 | [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/attributefix)[<img src=/images/github.ico height=18>](https://github.com/Darkhax-Minecraft/AttributeFix) | Unknown | Removes attribute caps, which can cause unintended behavior with some mods | DarkhaxDev | Server | none | [LGPL-3.0](/license/Licenses.md#lgpl-30) 
 | [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/bee-fix)[<img src=/images/github.ico height=18>](https://github.com/Lupicus/BeeFix) | Unknown | This mod fixes MC-229321 : Bees Can Despawn This bug causes multiple issues that cause bees to despawn or fail to be saved under different edge cases. Also fixes MC-168329 : Bees refuse to leave hive in end/nether. | lupicus | Server | none | [MIT](/license/Licenses.md#mit)
