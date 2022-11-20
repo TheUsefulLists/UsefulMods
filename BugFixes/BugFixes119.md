@@ -39,8 +39,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 ## Forge 1.19.X
 
-| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
-| :--: | :-------------------: | :-------: | :---: | :---: | :---: |
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
+| :--: | :-------------------: | :-------: | :---: | :---: | :---: | :---: |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/antighost)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/antighost)[<img src=/images/github.ico height=18>](https://github.com/gbl/AntiGhost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none | [MIT](/license/Licenses.md#mit)
 | [Entangled Fix](https://www.curseforge.com/minecraft/mc-mods/entangled-fix)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/entangled-fix) | Unknown | This mod fixes an issue with the Entangled mod that causes server to hang if an area is unloaded. | Gaz_ | Both | none | [All Rights Reserved](/license/Licenses.md#all-rights-reserved)
 | [MCMouser](https://www.curseforge.com/minecraft/mc-mods/mcmouser)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/mcmouser)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/mcmouser)[<img src=/images/github.ico height=18>](https://github.com/MinecraftMachina/McMouser) | Unknown | A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none | [All Rights Reserved](/license/Licenses.md#all-rights-reserved)
@@ -49,8 +49,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 ## Quilt 1.19.X
 
-| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
-| :--: | :-------------------: | :-------: | :---: | :---: | :---: |
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
+| :--: | :-------------------: | :-------: | :---: | :---: | :---: | :---: |
 | [Blanket](https://modrinth.com/mod/blanket)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/blanket)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/blanket)[<img src=/images/github.ico height=18>](https://github.com/BlanketMC/blanket-client-tweaks) | Unknown | Fixes a variety of bugs, as well as including some QoL features. | KosmX | Client | none | [MIT](/license/Licenses.md#mit)
 | [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/carpet-fixes)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/carpet-fixes)[<img src=/images/github.ico height=18>](https://github.com/fxmorin/carpet-fixes) | Unknown | Carpet extension which fixes hundreds of vanilla bugs. | FXMORIN | Both | none | [MIT](/license/Licenses.md#mit)
 | [Debugify](https://modrinth.com/mod/debugify)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/debugify)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/debugify)[<img src=/images/github.ico height=18>](https://github.com/isXander/Debugify/)  | Unknown | Fixes a variety of bugs. | IsXander | Both | none | [LGPL-3.0](/license/Licenses.md#lgpl-30) 
