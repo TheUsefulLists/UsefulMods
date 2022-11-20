@@ -1,6 +1,6 @@
 # Crafttweaker Addons
 
-A list of Crafttweaker Addons for all versions, All mods in here has crafttweaker as a dependency
+A list of Crafttweaker Addons for all versions, All mods in here has Crafttweaker as a dependency
 
 Any suggestions/complaints?
 
