@@ -1,5 +1,5 @@
 ## Disclaimer
-This is not legal advice nor is anyone on our team a lawyer so some of this information could be wrong. Your choice of license should not be based on this page, do your own research for a license that best fits your mod/modpack. This page is only to inform people of what a mod/modpacks license means for them as a user or creator.
+This is not legal advice nor is anyone on our team a lawyer so some of this information could be wrong. Your choice of license should not be based on this page, do your own research for a license that best fits your mod/modpack. This page is only to inform people of what a mod/modpack license means for them as a user or creator.
 ___
 ## MIT
 | Commercial use | Modification | Distribution | Private use | Liability | Warranty | Conditions |
