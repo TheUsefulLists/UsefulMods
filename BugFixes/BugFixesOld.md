@@ -26,8 +26,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 ## Forge 1.7.X
 
-| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | [KaizPatchX](https://github.com/Kai-Z-JP/KaizPatchX) | Unknown | fixes some bugs of RTM and make RTM more useful! RTM = [RealTrainMod](https://www.curseforge.com/minecraft/mc-mods/realtrainmod) | Kai-Z-JP | Both | none |
 | [Thaumcraft 4 Tweaks](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/tc4tweaks)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)[<img src=/images/github.ico height=18>](https://github.com/Glease/TC4Tweaks) | Unknown | Thaumcraft 4 addon to fix UI deficiency, performance issues and minor bugs. | gleee8 | Both | none | [AGPL-3.0](https://github.com/NordicGamerFE/UsefulModsjajaja/blob/main/license/Licenses.md#agpl-30)
 
