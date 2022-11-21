@@ -55,6 +55,7 @@ Labels are used to give you a better understanding of how a mod may act.
 | Unstable | Mod is unstable and may act unpredictably. |
 | Corruption | Mod has a chance to corrupt save files. |
 | Incompatible | Mod is incompatible with some mods. |
+| Bloat | Contain content that might not be desirable and cant be turned off via configs, commands, or other methods. |
 | Buggy | Mod is buggy. |
 | Reverse Features | Mod takes away features for sake of performance or bugfixes. |
 | Configuration Needed | Mod needs to be configured to act at its best. |
