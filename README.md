@@ -52,13 +52,14 @@ Labels are used to give you a better understanding of how a mod may act.
 | Name | Meaning |
 | :--: | :-----: |
 | Alpha | Mod is in alpha and therefore might be unstable. |
-| Unstable | Mod is unstable and may act unpredictably. |
-| Corruption | Mod has a chance to corrupt save files. |
-| Incompatible | Mod is incompatible with some mods. |
 | Bloat | Contain content that might not be desirable and cant be turned off via configs, commands, or other methods. |
 | Buggy | Mod is buggy. |
-| Reverse Features | Mod takes away features for sake of performance or bugfixes. |
 | Configuration Needed | Mod needs to be configured to act at its best. |
+| Corruption | Mod has a chance to corrupt save files. |
+| Incompatible | Mod is incompatible with some mods. |
+| Reverse Features | Mod takes away features for sake of performance or bugfixes. |
+| Unstable | Mod is unstable and may act unpredictably. |
+
 ## Severity Level
 Severity Level is used alongside labels for a clearer understanding of how severe the issue is.
 | Level | Meaning |
