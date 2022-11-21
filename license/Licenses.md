@@ -31,6 +31,11 @@ ___
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice.<br>State changes.<br>Disclose source.<br>Same license. |
 ___
+## AGPL-3.0
+| Commercial use | Modification | Distribution | Place Warranty | Sublicense | Liability | Warranty | Conditions |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Allowed | Allowed | Allowed | Allowed | No | No | No | License and copyright notice.<br>State changes.<br>Disclose source.<br>Same license.<br>Include Install Instructions |
+___
 ## CC0
 | Commercial use | Modification | Distribution | Patent use | Use Trademark | Private use | Liability | Warranty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
