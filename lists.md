@@ -1,6 +1,8 @@
 ## Disclaimer
 We are not affiliated with any of these lists and they could contain malware or other harmful content, show caution when using them.
 
+Do you also make a list of Minecraft mods? Open a pr or a issue and have it added to the list.
+
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
 | Name | Creator/Team | Notes |
