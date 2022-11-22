@@ -11,12 +11,12 @@ ___
 | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice. |
 ___
-## GPL-3
+## GPL-3.0
 | Commercial use | Modification | Distribution | Patent use | Private use | Liability | Warranty | Conditions |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice.<br>State changes.<br>Disclose source.<br>Same license. |
 ___
-## GPL-2
+## GPL-2.0
 | Commercial use | Modification | Distribution | Place Warranty | Liability | Sublicense| Conditions |
 | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | Allowed | No | No | License and copyright notice.<br>State changes.<br>Disclose source.<br>Same license. |
