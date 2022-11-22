@@ -81,8 +81,3 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Zen Toolforge](https://www.curseforge.com/minecraft/mc-mods/zen-toolforge)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/zen-toolforge) | Unknown | Zen Toolforge adds a few minor utilities for working with Tinker's Construct (and Construct's Armory) in CraftTweaker. | nihiltres | 1.12.2 | [Yes](https://www.curseforge.com/minecraft/mc-mods/zen-toolforge/pages/zen-toolforge) | none | [MIT](/license/Licenses.md#mit) |
 | [Zen Utils](https://www.curseforge.com/minecraft/mc-mods/zenutil)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/zenutil)[<img src=/images/github.ico height=18>](https://github.com/friendlyhj/ZenUtils) | Unknown | This Mod exposes more methods to ZenScript. | youyihj | 1.12.2 | [Yes](https://github.com/friendlyhj/ZenUtils/wiki) | none | [MIT](/license/Licenses.md#mit) |
 | [ZSRarity](https://www.curseforge.com/minecraft/mc-mods/zsrarity)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/zsrarity)[<img src=/images/github.ico height=18>](https://github.com/TrashboxBobylev/ZSRarity) | Unknown | ZSRarity adds an ability to select one of 16 default colors for your items as "rarity", which will make their names in GUI be colored! | trashbox_bobylev | 1.12.2 | [Kinda](https://www.curseforge.com/minecraft/mc-mods/zsrarity) | none | [MIT](/license/Licenses.md#mit) |
-
-## Addons for CraftTweaker, Stages
-
-| Name | Known Incompatibilities | Description | Author | Versions | Wiki | [Label](/README.md#labels) | License |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
