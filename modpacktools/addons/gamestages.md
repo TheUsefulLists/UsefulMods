@@ -1,6 +1,6 @@
-# Gamestages Addons
+# Game Stages Addons
 
-A list of Gamestages Addons for all versions, All mods in here has Gamestages as a dependency, And most of the mods has CraftTweaker as a dependency.
+A list of Game Stages Addons for all versions, All mods in here has Game Stages as a dependency, And most of the mods has CraftTweaker as a dependency.
 
 Any suggestions/complaints?
 
@@ -8,7 +8,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
 
-## Addons for Gamestages
+## Addons for Game Stages
 
 | Name | Known Incompatibilities | Description | Author | Versions | Wiki | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -31,3 +31,5 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Trade Stages](https://www.curseforge.com/minecraft/mc-mods/trade-stages)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/trade-stages) | Unknown | This mods allows you to lock trades behind the progression of the villager's career (Novice, Apprentice, Journeyman, Expert, Master). | Quarris | 1.19.2, 1.18.2, 1.16.5 | [Kinda](https://www.curseforge.com/minecraft/mc-mods/trade-stages) | none | [All Rights Reserved](/license/Licenses.md#all-rights-reserved) |
 | [Waila Stages](https://www.curseforge.com/minecraft/mc-mods/waila-stages)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/waila-stages)[<img src=/images/github.ico height=18>](https://github.com/Darkhax-Minecraft/WailaStages) | Unknown | This mod is an addon for the GameStage API. This allows for access to the Waila HUD to be gated behind a stage. You can gate specific tool tip entries behind a stage as well. | DarkhaxDev | 1.12.x, 1.11.2 | [Kinda](https://github.com/Darkhax-Minecraft/WailaStages) | none | [LGPL-2.1](/license/Licenses.md#LGPL-21) |
 | [ZenStages](https://www.curseforge.com/minecraft/mc-mods/zenstages)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/zenstages)[<img src=/images/github.ico height=18>](https://github.com/DarkPacks/ZenStages) | Unknown | ZenStages is a modpack makers tool when using GameStages are a core part of their pack. What ZenStages is there to give is easier creation and management of Stages. | artdude543, Firstnecron | 1.12.2 | [Yes](https://docs.blamejared.com/1.12/en/Mods/GameStages/ZenStages/ZenStages) | none | [GPL-3.0](/license/Licenses.md#GPL-30) |
+
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
