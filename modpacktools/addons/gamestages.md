@@ -1,6 +1,6 @@
 # Gamestages Addons
 
-A list of Gamestages Addons for all versions, All mods in here has Gamestages as a dependency
+A list of Gamestages Addons for all versions, All mods in here has Gamestages as a dependency, And most of the mods has CraftTweaker as a dependency.
 
 Any suggestions/complaints?
 
