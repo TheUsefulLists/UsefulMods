@@ -12,8 +12,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [BedBreakBegone](https://www.curseforge.com/minecraft/mc-mods/bedbreakbegone) | Unknown | Fixes and alleviates nonsense "Your bed was obstructed" errors. | 
-fonnymunkey | Both | none |
+| [BedBreakBegone](https://www.curseforge.com/minecraft/mc-mods/bedbreakbegone) | Unknown | Fixes and alleviates nonsense "Your bed was obstructed" errors. | fonnymunkey | Both | none |
 | [DupeFix Project](https://www.curseforge.com/minecraft/mc-mods/dupefix-project) | Unknown | Fix as many dupes as possible so that modpacks and servers can take advantage of several mods without having to ban items from them. | focamacho | Both | none |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none |
 | [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Unknown | Removes attribute caps, which can cause unintended behavior with some mods | DarkhaxDev | Server | none |
