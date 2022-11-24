@@ -1,4 +1,4 @@
-# Bugfixing Mods (WIP)
+# Bugfixing Mods
 
 A list of bugfixing mods for 1.12.x forge versions.
 
