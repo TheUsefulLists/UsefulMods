@@ -14,6 +14,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server | none |
 | [Fabric Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/fastanim) | Unknown | Fabric Chunk Pregenerator is a fabric mod that allows you to pregenerate chunks for your server or for singleplayer while running fabric. | SuperCoder79 | Both | Configuration Needed (7) |
 | [Mipmaplevel and Language Fix](https://modrinth.com/mod/mipmaplevelandlanguagefix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | none |
+| [Starlight Legacy](https://github.com/Radplay/Starlight-Legacy)<br>[<img src=/images/github.ico height=18>](https://github.com/Radplay/Starlight-Legacy) | Unknown | Forge mod for rewriting the light engine to fix lighting performance and lighting errors | Radplay | Server | none | [LGPL-3.0](/license/Licenses.md#lgpl-30)
 
 ## Forge 1.15.X
 
