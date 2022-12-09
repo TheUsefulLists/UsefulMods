@@ -17,7 +17,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) | None | Better Biome Blend is a mod  which accelerates the biome color blending algorithm. | FionaTheMortal | Client | none |
 | [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) | None | BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods. | Guichaguri | Both | none |
 | [Born In a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn) | Unknown | Fixes a Minecraft bug where Village doors keep chunks loaded. | Speiger | Server | none |
-| [CensoredASM](https://www.curseforge.com/minecraft/mc-mods/lolasm) | TexFix, VanillaFix | Optimize RAM usage. | Rongmario | Both | none |
+| [CensoredASM](https://github.com/LoliKingdom/LoliASM) | TexFix, VanillaFix | Optimize RAM usage. | Rongmario | Both | none |
 | [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) | Unknown | Chunk Pregenerator is a tool that allows you to generate your World more efficiently, by Preemptively generating the chunks. It is a Server-side tool that has some optional client features if wanted. | Speiger | Both | Configuration Needed (7) |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | None | Clumps groups XP orbs together into a single entity to reduce lag when there are many in a small area | jaredlll08 | Both | none |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entity-culling) | Pixelmon, Sync | Entity Culling is a small client-side performance core mod which improves the rendering of entities and tile entities. | meldexun | Client | none |
