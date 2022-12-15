@@ -25,7 +25,7 @@ ___
 | 1.12.x | [✔️ **Available**](Performance/Performance112.md) | [✔️ **Available**](BugFixes/BugFixes112.md) |
 | 1.8.9 and below | [✔️ **Available**](Performance/PerformanceOld.md) | [✔️ **Available**](BugFixes/BugFixesOld.md) |
 
-## [Note on Optifine](Performance/Note%20on%20Optifine.md)
+## [Note on OptiFine](Performance/Note%20on%20OptiFine.md)
 ### Enhancement mods
 | Version | Helpful<br><em>Mods that help with certain aspects of the game</em> | Improvements<br><em>Mods that improve on aspects of the game</em> | Modpack Tools<br><em>Useful mods for modpack creators</em> |
 | :-: | :-: | :-: | :-: |
