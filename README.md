@@ -7,6 +7,8 @@ A list of useful mods for most commonly-played versions.
 Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull request fixing it!)
+
+[<img src=https://i.imgur.com/z6MwAQs.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself
 ___
 ## Disclaimer
 We try our best to check and make sure there are no malicious mods/software on our list. However, we can not be held responsible if you get infected with malware or a virus from anything on this list. It is not possible for us to check each and every version of every item on this list;
