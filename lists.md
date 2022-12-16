@@ -1,3 +1,5 @@
+[<img src=https://i.imgur.com/z6MwAQs.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+
 # Disclaimer
 
 We are not affiliated with any of these lists and they could contain malware or other harmful content, show caution when using them.
