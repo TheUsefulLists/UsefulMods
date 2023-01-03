@@ -6,11 +6,11 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[<img src=https://i.imgur.com/z6MwAQs.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+[<img src=/images/promo.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
 Don't want to mess around with mods? try out Fabulously Optimized [<img src=/images/modrinth.ico height=22>](https://modrinth.com/modpack/fabulously-optimized)[<img src=/images/curseforge.png height=22>](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/Performance/Performance119.md#fabric-119x)[<img src=/images/forge.png width=140 height=50>](/Performance/Performance119.md#forge-119x)[<img src=/images/quilt.png width=140 height=50>](/Performance/Performance119.md#quilt-119x)
 
 ## Fabric 1.19.X
 
@@ -68,6 +68,8 @@ Don't want to mess around with mods? try out Fabulously Optimized [<img src=/ima
 | [Very Many Players](https://modrinth.com/mod/vmp-fabric)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/vmp-fabric)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/vmp-fabric)[<img src=/images/github.ico height=18>](https://github.com/RelativityMC/VMP-fabric) | Unknown | Very Many Players, or VMP for short, is a Fabric mod designed to improve general server performance at high playercount without sacrificing vanilla functionality or behavior. | ishland | Server | none | [MIT](/licenses/Licenses.md#mit)
 | [Vulkan Renderer](https://www.curseforge.com/minecraft/mc-mods/vulkanmod)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/vulkanmod)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/vulkanmod)[<img src=/images/github.ico height=18>](https://github.com/xCollateral/VulkanMod) | Sodium | a fabric mod that rewrites Minecraft OpenGL renderer to use Vulkan API. | x_collateral | Client | Incompatible(6) | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/Performance/Performance119.md#fabric-119x)[<img src=/images/forge.png width=140 height=50>](/Performance/Performance119.md#forge-119x)[<img src=/images/quilt.png width=140 height=50>](/Performance/Performance119.md#quilt-119x)
+
 ## Forge 1.19.X
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md#labels) | License |
@@ -103,6 +105,8 @@ Don't want to mess around with mods? try out Fabulously Optimized [<img src=/ima
 | [Smooth Boot (Reloaded)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/smooth-boot-reloaded)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/smooth-boot-reloaded)[<img src=/images/github.ico height=18>](https://github.com/AbdElAziz333/SmoothBoot-Reloaded) | Unknown | Smooth Boot - Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems. | AbdElAziz333 | Client | none | [MIT](/licenses/Licenses.md#mit)
 | [Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save) | Unknown | Saves chunks continuously over time, reducing server lag and preventing lagspikes from saving too many chunks at once. | someaddon | Server | none | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/Performance/Performance119.md#fabric-119x)[<img src=/images/forge.png width=140 height=50>](/Performance/Performance119.md#forge-119x)[<img src=/images/quilt.png width=140 height=50>](/Performance/Performance119.md#quilt-119x)
+
 ## Quilt 1.19.X
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md#labels) | License |
@@ -123,4 +127,4 @@ Don't want to mess around with mods? try out Fabulously Optimized [<img src=/ima
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/sodium)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/sodium)[<img src=/images/github.ico height=18>](https://github.com/CaffeineMC/sodium-fabric) | Mods that utilize of the FRAPI[⁴](https://github.com/NordicGamerFE/usefulmods/tree/main#-some-of-the-mods-that-have-sodium-as-an-incompatibility-might-work-if-you-use-indium) | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. | jellysquid3_ | Client | none | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/smoothboot-fabric)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)[<img src=/images/github.ico height=18>](https://github.com/UltimateBoomer/mc-smoothboot) | Unknown | Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems. | UltimateBoomer | Both | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/Performance/Performance119.md#fabric-119x)[<img src=/images/forge.png width=140 height=50>](/Performance/Performance119.md#forge-119x)[<img src=/images/quilt.png width=140 height=50>](/Performance/Performance119.md#quilt-119x)
