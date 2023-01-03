@@ -6,9 +6,9 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[<img src=https://i.imgur.com/z6MwAQs.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+[<img src=/images/promo.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/Performance/Performance119.md#fabric-119x)[<img src=/images/forge.png width=140 height=50>](/Performance/Performance119.md#forge-119x)[<img src=/images/quilt.png width=140 height=50>](/Performance/Performance119.md#quilt-119x)
 
 ## Fabric 1.19.X
 
@@ -42,6 +42,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/why-am-i-on-fire)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)[<img src=/images/github.ico height=18>](https://github.com/Ellivers/Why-Am-I-on-Fire) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none | [MIT](/licenses/Licenses.md#mit)
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/wither-cage-fix)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix)[<img src=/images/github.ico height=18>](https://gitlab.com/supersaiyansubtlety/wither_cage_fix/) | Unknown | Fixes vanilla bug where withers forget their targets. | supersaiyansubtlety | Server | none | [MIT](/licenses/Licenses.md#mit)
 
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/Performance/Performance119.md#fabric-119x)[<img src=/images/forge.png width=140 height=50>](/Performance/Performance119.md#forge-119x)[<img src=/images/quilt.png width=140 height=50>](/Performance/Performance119.md#quilt-119x)
+
 ## Forge 1.19.X
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
@@ -53,6 +55,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [MCMouser](https://www.curseforge.com/minecraft/mc-mods/mcmouser)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/mcmouser)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/mcmouser)[<img src=/images/github.ico height=18>](https://github.com/MinecraftMachina/McMouser) | Unknown | A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 | [No Chat Report](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/no-chat-reports)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)[<img src=/images/github.ico height=18>](https://github.com/Aizistral-Studios/No-Chat-Reports) | Unknown | Strips the cryptographic signatures from chat messages that were added in 1.19 to stop the chat reporting feature from working | Aizistral | Both | None | [Custom](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.19-Forge/LICENSE) 
 | [No Time Out No More](https://www.curseforge.com/minecraft/mc-mods/notimeoutnomore)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/notimeoutnomore) | Unknown | NoTimeOutNoMore is a mod that enables editing of server timeout time | zKryle | Server | Configuration Needed(7) | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
+
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/Performance/Performance119.md#fabric-119x)[<img src=/images/forge.png width=140 height=50>](/Performance/Performance119.md#forge-119x)[<img src=/images/quilt.png width=140 height=50>](/Performance/Performance119.md#quilt-119x)
 
 ## Quilt 1.19.X
 
@@ -68,4 +72,4 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Thorium](https://modrinth.com/mod/thorium)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/thorium)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/thorium)[<img src=/images/github.ico height=18>](https://github.com/PotassiumMC/thorium) | Unknown | fabric mod that fixes 50+ small bugs and annoyances in Minecraft. | NoahvdAa | Both | None | [LGPL-3.0](/licenses/Licenses.md#lgpl-30) 
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/wither-cage-fix)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix)[<img src=/images/github.ico height=18>](https://gitlab.com/supersaiyansubtlety/wither_cage_fix/) | Unknown | Fixes vanilla bug where withers forget their targets. | supersaiyansubtlety | Server | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/Performance/Performance119.md#fabric-119x)[<img src=/images/forge.png width=140 height=50>](/Performance/Performance119.md#forge-119x)[<img src=/images/quilt.png width=140 height=50>](/Performance/Performance119.md#quilt-119x)
