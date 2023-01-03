@@ -5,9 +5,9 @@ A list of bugfixing mods for 1.18.x forge/fabric versions.
 Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[<img src=https://i.imgur.com/z6MwAQs.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+[<img src=/images/promo.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/BugFixes/BugFixes118.md#fabric-118x)[<img src=/images/forge.png width=140 height=50>](/BugFixes/BugFixes118.md#forge-118x)
 
 ## Fabric 1.18.X
 
@@ -45,6 +45,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/wither-cage-fix)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix)[<img src=/images/github.ico height=18>](https://gitlab.com/supersaiyansubtlety/wither_cage_fix/) | Unknown | Fixes vanilla bug where withers forget their targets. | supersaiyansubtlety | Server | none | [MIT](/licenses/Licenses.md#mit)
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric)[<img src=/images/github.ico height=18>](https://github.com/Tfarcenim/XLPacketsFabric) | Unknown | Fixes [MC-185901](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none | [CC0](/licenses/Licenses.md#cc0)
 
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/BugFixes/BugFixes118.md#fabric-118x)[<img src=/images/forge.png width=140 height=50>](/BugFixes/BugFixes118.md#forge-118x)
+
 ## Forge 1.18.X
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
@@ -63,4 +65,4 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Potion ID Packet Fixer](https://modrinth.com/mod/potion-fix)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/potion-fix)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/potion-id-packet-fixer)[<img src=/images/github.ico height=18>](https://github.com/stepsword/potionidpacketfixer) | Unknown | If you have more than 255 potion effects registered, the client will receive incorrect information for potion effects above ID 255, due to an issue with vanilla packets. This mod fixes that issue. | stepsword | Both | none | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 | [Too Fast](https://www.curseforge.com/minecraft/mc-mods/too-fast)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/too-fast)[<img src=/images/github.ico height=18>](https://github.com/noobanidus/toofast) | Unknown | Removes the server-side limitations on player speed that result in "player XYZ moved too fast" messages in the console and rubber-banding. | Noobanidus | Server | none | [MIT](/licenses/Licenses.md#mit)
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[<img src=/images/home.png width=140 height=50>](/README.md)[<img src=/images/fabric.png width=140 height=50>](/BugFixes/BugFixes118.md#fabric-118x)[<img src=/images/forge.png width=140 height=50>](/BugFixes/BugFixes118.md#forge-118x)
