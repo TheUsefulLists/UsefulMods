@@ -25,5 +25,6 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Multicraft](https://www.multicraft.org/)(Free/Paid 9.90-49.90 USD) | The Complete Minecraft Server Hosting Solution and Control Panel |
 | [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) | A highly customisable, open source server software for Minecraft: Bedrock Edition written in PHP |
 | [Pterodactyl](https://pterodactyl.io/) | Web-based game server management panel with built in support for most Minecraft server software. |
+| [PufferPanel](https://www.pufferpanel.com/) | "The simplest, free, open source game management panel." Built-in support for Minecraft servers and way simpler than Pterodactyl. Written in PHP. |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
