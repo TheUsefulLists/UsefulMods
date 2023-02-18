@@ -15,3 +15,4 @@ Do you also make a list of Minecraft mods? Open a pull request or a issue and ha
 | [Opticraft](https://red-studio-ragnarok.github.io/Opticraft/) | Desoroxxx | Opticraft a complete guide for an optimized 1.12.2 modded experience |
 | [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) | lambdaurora | A list of OptiFine alternatives that add features from OptiFine |
 | [TC4 addon list](https://github.com/KryptonCaptain/Misc-Files/blob/master/TC4%20addon%20list.md) | KryptonCaptain | A list of Thaumcraft 4 addons listed in a tier order |
+| [UsefulMinecraft](https://github.com/TheUsefulLists/UsefulMinecraft/blob/main/README.md) | TheUsefulLists | Useful things for Minecraft |
