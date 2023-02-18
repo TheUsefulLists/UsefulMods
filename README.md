@@ -39,15 +39,6 @@ ___
 | 1.12.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful112.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements112.md) | [✔️ **Available**](modpacktools/modpacktools112.md) |
 | 1.8.9 and below | [⚠️ **WIP**](Enhancements/Helpful/HelpfulOld.md) | [⚠️ **WIP**](Enhancements/Improvements/ImprovementsOld.md) | [✔️ **Available**](modpacktools/modpacktoolsold.md) |
 ___
-## External Software
-| Theme | Description |
-| :---: | :---: |
-| [Launchers](Software/SoftwareLaunchers.md) | Used to launch the game
-| [Bukkit, Spigot, etc.](Software/SoftwareBukkitSpigotETC.md) | Used to run a server
-| [Graphical](Software/SoftwareGraphical.md) | Graphical related software
-| [World Management](Software/SoftwareWorldManagement.md) | Used to manage or modifiy worlds
-| [Server Management](Software/SoftwareServerManagement.md) | Used to manage servers
-___
 ## [Java Arguments optimization](JavaArgumentsOptimization.md)
 ## [Other Lists](lists.md)
 ___
@@ -97,4 +88,4 @@ ___
 ###### ⁸ Some of the mods that have Magnesium/Rubidium as an incompatibility, might work if you use [Calcium](https://www.curseforge.com/minecraft/mc-mods/calcium)
 
 
-[<img src=https://i.imgur.com/z6MwAQs.png>](https://bisecthosting.com/UsefulLists)
+[<img src=/images/promo.png>](https://bisecthosting.com/UsefulLists)
