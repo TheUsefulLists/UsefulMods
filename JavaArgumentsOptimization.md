@@ -20,7 +20,7 @@ Here's how to change your java arguments in the official Minecraft Launcher.
 
 ## Aikar's flags
 
-These flags are made by Aikar and you can find the explanation for the flags [here](https://aikar.co/mcflags.html).
+These flags are made by Aikar and you can find the explanation for the flags [here](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/).
 
 Use these flags exactly, only changing Xmx and Xms. These flags work and scale accordingly to any size of memory.
 
