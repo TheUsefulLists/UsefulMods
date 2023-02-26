@@ -5,11 +5,12 @@ A list of performance-enhancing mods for 1.17.x forge/fabric versions.
 Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[<img src=https://i.imgur.com/z6MwAQs.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
-
 Don't want to mess around with mods? try out Fabulously Optimized[<img src=/images/modrinth.ico height=22>](https://modrinth.com/modpack/fabulously-optimized)[<img src=/images/curseforge.png height=22>](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+
+[![Home](/images/button_small/home.png)](/README.md)
 
 ## Fabric 1.17.X
 

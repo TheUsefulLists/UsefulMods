@@ -6,9 +6,10 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[<img src=/images/promo.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[<img src=/images/home.png width=140 height=50>](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)
 
 ## Fabric 1.20.X
 

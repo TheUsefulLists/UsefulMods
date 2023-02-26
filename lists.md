@@ -1,4 +1,5 @@
-[<img src=/images/promo.png>](https://bisecthosting.com/UsefulLists)<br>We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
 # Disclaimer
 
@@ -6,7 +7,7 @@ We are not affiliated with any of these lists and they could contain malware or 
 
 Do you also make a list of Minecraft mods? Open a pull request or a issue and have it added to the list.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)
 
 | Name | Creator/Team | Notes |
 | --- | --- | --- |
