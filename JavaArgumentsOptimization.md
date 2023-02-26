@@ -9,7 +9,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 [![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](/images/button_small/home.png)](/README.md))
+[![Home](/images/button_small/home.png)](/README.md)
 
 ## Changing Java Arguments
 
@@ -19,36 +19,62 @@ Here's how to change your java arguments in the official Minecraft Launcher.
 2. Under 'More Options', you will find 'JVM arguments'.
 3. You can change or add your JVM arguments here.
 
+### Note about Pterodactyl
+
+When running a server on an instance of [Pterodactyl](https:/pteroactyl.io) do not set Xms to all of the available memory.
+It is recommended when running on pterodactyl you set Xms 1G to 1.5G less then Xmx to avoid the Out Of Memory Killer (OOMKiller) from terminating your server.
+
 ## Aikar's flags
 
 These flags are made by Aikar and you can find the explanation for the flags [here](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/).
 
-Use these flags exactly, only changing Xmx and Xms. These flags work and scale accordingly to any size of memory.
+Use these flags exactly, only changing Xmx and Xms. These flags work and scale accordingly to any size of memory. See section [More then 12G](#more-then-12g) below for additional large memory optimizations
 
 If you're using these args and it doesn't work, remove java from the start. Some require java at the start, others do not.
 
+If using these flags in a script, for example to start a server. These flags should come before
+`-jar someJarFile.jar`
+
 ```sh
-java -Xms10G -Xmx10G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1
+java -Xms10G -Xmx10G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true
 ```
+
+### More then 12G
+
+Aikar Notes if your using an Xmx value greater then 12G add/adjust the following flags. For bigger amount of memory these provide additional optimizations for GC
+
+```sh
+-XX:G1NewSizePercent=40
+-XX:G1MaxNewSizePercent=50
+-XX:G1HeapRegionSize=16M
+-XX:G1ReservePercent=15
+-XX:InitiatingHeapOccupancyPercent=20
+```
+
+## Custom Flags
 
 If you want to make your own custom flags that suit your PC and your needs, keep reading.
 
-## Memory
+We only cover the commonly changed options
+
+### Memory
 
 ``` -Xms<int> -Xmx<int> ```
 
 Replace int with a value. For example: -Xmx2G, -Xms512M
 Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g or G to indicate gigabytes
 
-- ### Xms
+- #### Xms
 
     Sets the minimum and the initial size of the heap. It is best to set Xms equal to Xmx (the maximum heap size) to minimize garbage collections.
 
-- ### Xmx
+    On Pterodactyl set Xms 1 to 1.5G less then Xmx
+
+- #### Xmx
 
     Sets the maximum size of the heap. Setting it to higher amounts reduces the frequency of garbage collections but causes larger lag spikes when the garbage collector runs. It is best to set this value to about half of the memory available on your system. Allocating any more than that will slow down your system and is not recommended.
 
-## Changing your Java Virtual Machine (JVM)
+### Changing your Java Virtual Machine (JVM)
 
 There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSpot is the open-source JVM implementation by Oracle while OpenJ9 is a JVM implementation by Eclipse Foundation. While HotSpot tends to perform much better than OpenJ9, OpenJ9 only uses about half the memory HotSpot uses. So if you have a small amount of RAM on your system, I would recommend OpenJ9 while if you have plenty of RAM to allocate to Minecraft I would recommend HotSpot. I will be including arguments for both HotSpot and OpenJ9. If you want to use the OpenJ9 JVM, then follow these instructions:
 
@@ -60,9 +86,9 @@ There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSp
 6. Under 'Java Executable', click on 'Browse'. Then, find the location of the runtime you extracted. Open the 'bin' folder and select the 'javaw.exe' executable.
 7. Click on 'Save'.
 
-## HotSpot JVM arguments
+### HotSpot JVM arguments
 
-- ## Garbage Collection
+- ### Garbage Collection
 
     There are many garbage collectors, out of which the Shenandoah garbage collector is best-suited for Minecraft.
 
@@ -73,16 +99,16 @@ There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSp
 
     There is also this option called AlwaysPreTouch (```-XX:+AlwaysPreTouch```) which you should use to improve performance.
 
-## OpenJ9 JVM arguments
+### OpenJ9 JVM arguments
 
-- ## GC Policies
+- ### GC Policies
 
     There are 6 GC policies - gencon, balanced, optavgpause, optthruput, metronome and nogc. Out of these, the gencon policy is best-suited for Minecraft. It is similiar in performance to the G1GC in HotSpot.
 
     This policy breaks the Java heap into a nursery and a tenured space. All objects are initially allocated into the nursery. If an object survives a certain number of collections while in the nursery, it will be moved into the tenured space, which is only collected when it is full.
     The gencon policy is enabled with the command-line option ```-Xgcpolicy:gencon```. However, you don't need to specify it since it is the default policy.
 
-- ## Nursery size
+- ### Nursery size
 
     This only applies if you are using the default GC policy (gencon).
 
@@ -91,11 +117,11 @@ There are many JVMs, out of which the most popular are HotSpot and OpenJ9. HotSp
     Replace int with a value. For example: -Xmnx2G, -Xmns512M
     Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g or G to indicate gigabytes
 
-  - ### Xmns
+  - **Xmns**
 
     Sets the minimum size of the nursery. The default value is 25% of -Xms and that is a good value that doesn't need any changing.
 
-  - ### Xmnx
+  - **Xmnx**
 
     Sets the maximum size of the nursery. The default value is 25% of -Xmx and when -Xmx is set to -Xms the nursery will never grow. Minecraft creates a lot of short-lived objects, so it is better to set this to a larger value like 40% of -Xmx.
 
