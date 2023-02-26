@@ -87,7 +87,7 @@ ___
 
 ## Extra Information
 
-You might find some superscripted numbers around the repository. These are used to tell extra information about the mods that labels and danger levels do not apply to.
+You might find some superscripted numbers around the repository. These are used to tell extra information about the mods that labels and severity levels do not apply to.
 
 ¹ The mod should work if [Mixin-0-7-0-8-Compatibility](https://www.curseforge.com/minecraft/mc-mods/mixin-0-7-0-8-compatibility) is applied
 ___
