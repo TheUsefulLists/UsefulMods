@@ -8,7 +8,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 [![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](/images/button_small/home.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-115x)[![Forge](/images/button_small/forge.png)](#forge-115x)
 
 ## Fabric 1.15.X
 
@@ -17,6 +17,8 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | SpaceWalkerRS | Server | none |
 | [Fabric Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/fastanim) | Unknown | Fabric Chunk Pregenerator is a fabric mod that allows you to pregenerate chunks for your server or for singleplayer while running fabric. | SuperCoder79 | Both | Configuration Needed (7) |
 | [Mipmaplevel and Language Fix](https://modrinth.com/mod/mipmaplevelandlanguagefix) | Unknown | Makes changing Mipmaplevels and Language faster, by instead of doing a full reload, only reloading the respective part of the game. | KingContaria | Client | none |
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-115x)[![Forge](/images/button_small/forge.png)](#forge-115x)
 
 ## Forge 1.15.X
 
@@ -37,4 +39,4 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) | Unknown | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server | Incompatible (2) |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | None | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas, the lighting engine | jellysquid_ | Both | none |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-115x)[![Forge](/images/button_small/forge.png)](#forge-115x)

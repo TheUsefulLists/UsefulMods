@@ -34,6 +34,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [KaizPatchX](https://github.com/Kai-Z-JP/KaizPatchX) | Unknown | fixes some bugs of RTM and make RTM more useful! RTM = [RealTrainMod](https://www.curseforge.com/minecraft/mc-mods/realtrainmod) | Kai-Z-JP | Both | none |
 
 ## Legacy Fabric b1.7.X
+
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Font Fixer](https://modrinth.com/mod/font-fixer) | Unknown | Fixes the font renderer in legacy MC. | Unknown | HyperSpeeed | Client | none |

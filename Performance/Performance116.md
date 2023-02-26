@@ -5,12 +5,12 @@ A list of performance-enhancing mods for 1.16.x forge/fabric versions.
 Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-Don't want to mess around with mods? try out Fabulously Optimized[<img src=/images/modrinth.ico height=22>](https://modrinth.com/modpack/fabulously-optimized)[<img src=/images/curseforge.png height=22>](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
+Don't want to mess around with mods? try out Fabulously Optimized [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/modpack/fabulously-optimized) [![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
 
 [![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](/images/button_small/home.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-116x)[![Forge](/images/button_small/forge.png)](#forge-116x)
 
 ## Fabric 1.16.X
 
@@ -55,6 +55,8 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Starlight](https://github.com/PaperMC/Starlight/releases) | Phosphor | Fabric mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both | none |
 | [Tic-Tacs](https://github.com/Gegy/tic-tacs/releases) | C2ME | Tic-TACS is an experimental reimplementation of Minecraft's chunk loading engine | gegy | Server | Alpha (3) |
 | [VanillaFix](https://github.com/DimensionalDevelopment/VanillaFix/releases) | Unknown | Bug fixes and optimizations for Minecraft | BoogieMonster1O1 (Dimensional Development) | Both | none |
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-116x)[![Forge](/images/button_small/forge.png)](#forge-116x)
 
 ## Forge 1.16.X
 
@@ -104,4 +106,4 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [~~⠀⠀Cull Particles⠀⠀~~](https://www.curseforge.com/minecraft/mc-mods/cull-particles)[²](/README.md#-cull-particles-isnt-needed-anymore-in-newer-forge-versions-as-it-was-implemented-in-forge)| None | This mod increases fps by not rendering particles that the player can't see | tfarecnim | Client | none |
 | [Radon](https://www.curseforge.com/minecraft/mc-mods/radon) | Unknown | Radon is an Unofficial Port of CaffeineMC's "Phosphor," made to work with Forge Mod Loader | Asek3 | Both | none |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-116x)[![Forge](/images/button_small/forge.png)](#forge-116x)

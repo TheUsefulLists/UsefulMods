@@ -16,3 +16,5 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [No Weak Attack](https://www.curseforge.com/minecraft/mc-mods/no-weak-attack) | Unknown | Cancels swinging at enemies if your cooldown isn't full | florensie | Client | none |
+
+[![Home](/images/button_small/home.png)](/README.md)

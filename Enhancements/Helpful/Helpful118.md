@@ -9,7 +9,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 [![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](/images/button_small/home.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-118x)[![Forge](/images/button_small/forge.png)](#forge-118x)
 
 ## Fabric 1.18.X
 
@@ -45,6 +45,8 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Unknown | Adds a minimap to Minecraft | xaero96 | Both | none |
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Unknown | Adds a self-writing fullscreen map to Minecraft | xaero96 | Both | none |
 
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-118x)[![Forge](/images/button_small/forge.png)](#forge-118x)
+
 ## Forge 1.18.X
 
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
@@ -59,4 +61,4 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Unknown | Adds a minimap to Minecraft | xaero96 | Both | none |
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Unknown | Adds a self-writing fullscreen map to Minecraft | xaero96 | Both | none |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-118x)[![Forge](/images/button_small/forge.png)](#forge-118x)

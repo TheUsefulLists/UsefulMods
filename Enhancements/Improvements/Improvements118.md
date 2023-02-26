@@ -9,7 +9,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 [![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](/images/button_small/home.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-118x)[![Forge](/images/button_small/forge.png)](#forge-118x)
 
 ## Fabric 1.18.X
 
@@ -45,6 +45,8 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Stendhal](https://modrinth.com/mod/stendhal) | Unknown | Stendhal enhances the book and sign writing client-side interfaces | NebSpacefarer | Client | none |
 | [WorldTime](https://modrinth.com/mod/worldtime) | Unknown | Show the ingame time on your HUD | Giselbaer | Client | none |
 
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-118x)[![Forge](/images/button_small/forge.png)](#forge-118x)
+
 ## Forge 1.18.X
 
 | Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
@@ -60,4 +62,4 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) | Unknown | An easy way to browse recipes. | shedaniel | Both | none |
 | [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) | Unknown | This mod allows you to control what toasts show up in Minecraft | Shadows_of_Fire | Client | none |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-118x)[![Forge](/images/button_small/forge.png)](#forge-118x)
