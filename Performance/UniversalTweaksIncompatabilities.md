@@ -1,253 +1,67 @@
 
 
-Creeper Confetti
-
-by sr2610
-
-HelpFixer
-
-by matthewprenger
-
-Bow Infinity Fix (Forge/Fabric)
-
-by parker8283
-
-Quick Leaf Decay
-
-by lumien231
-
-Fast Leaf Decay
-
-by olafskiii
-
-AI Improvements
-
-by queenofmissiles
-
-Easy Breeding
-
-by icynewyear
-
-No Potion Shift
-
-by mezz
-
-StepupFixer
-
-by aroma1997
-
-LocaleFixer
-
-by jikuja
-
-Surge
-
-by darkhaxdev
-
-Classic Combat
-
-by wildbamaboy
-
-Fence Jumper
-
-by therealp455w0rd
-
-MTQFix
-
-by the009
-
-SwingThroughGrass
-
-by exidex
-
-Mending Fix
-
-by _ForgeUser27808417
-
-Finite Water Control
-
-by flaxbeard
-
-I Know What I'm Doing (IKWID)
-
-by heckinchloe
-
-Leaf Decay Accelerator
-
-by bdew
-
-Villager Mantle Fix
-
-by mjaroslav
-
-Water Control Extreme
-
-by hrznstudio
-
-Diet Hoppers
-
-by rwtema
-
-Better Placement
-
-by tterrag1098
-
-AttributeFix
-
-by darkhaxdev
-
-Gotta Go Fast
-
-by thiakil
-
-No Recipe Book
-
-by seneschal_luwin
-
-MovingQuickly
-
-by xnrand
-
-Unloader
-
-by unnoen
-
-FastWorkbench
-
-by shadows_of_fire
-
-Rally Health
-
-by mrbysco
-
-Infinite Music
-
-by frinn38
-
-No Night Vision Flashing
-
-by teamcofh
-
-Shield Parry
-
-by drullkus
-
-Enable Cheats
-
-by modmuss50
-
-DEUF - Duplicate Entity UUID Fix
-
-by cas_ual_ty
-
-Entity NaN Health Fix
-
-by animefan8888
-
-TidyChunk
-
-by orecruncher
-
-Configurable Cane
-
-by gigaherz
-
-Stable Thaumometer
-
-by shadows_of_fire
-
-Smooth Scrolling Everywhere (Forge)
-
-by shedaniel
-
-Login HP Fix
-
-by laike_endaril
-
-OverpoweredMending (Forge&Fabric)
-
-by rakambda
-
-Super Hot
-
-by krokoonair
-
-ChunkGenLimiter
-
-by barteks2x
-
-Better Burning
-
-by darkhaxdev
-
-Save My Stronghold! (Forge)
-
-by yungnickyoung
-
-Stupid Horse Stand Still
-
-by lothrazar
-
-Bottom Sugar Cane Harvest
-
-by atlasthe1st
-
-End Portal Parallax
-
-by rune_smith98
-
-Get It Together, Drops!
-
-by bl4ckscor3
-
-Damage Tilt
-
-by charles445
-
-Fix Experience Bug (now with FABRIC and FORGE versions)
-
-by mactso
-
-Collision Damage
-
-by fonnymunkey
-
-Give Me Back My HP
-
-by phantamanta44
-
-BedBreakBegone
-
-by fonnymunkey
-
-Tinkers OreDict Cache
-
-by youyihj
-
-Block Overlay Fix
-
-by meldexun
-
-Entity Desync Fix
-
-by meldexun
-
-DrawerFPS Legacy
-
-by acgaming56
-
-Configurable Item Entities (CIE)
-
-by acgaming56
-
-Let Me Despawn
-
-by frikinjay1
-
-Dark Redstone
-
-by the_computerizer
-
-Frame Void Patch (MC-59363)
-
-by fonnymunkey
+| Author          | Name                            | Notes |
+|-----------------|---------------------------------|-------|
+| sr2610          | Creeper Confetti                |       |
+| matthewprenger  | HelpFixer                       |       |
+| parker8283      | Bow Infinity Fix (Forge/Fabric) |       |
+| lumien231       | Quick Leaf Decay                |       |
+| olafskiii       | Fast Leaf Decay                 |       |
+| queenofmissiles | AI Improvements                 |       |
+| icynewyear      | Easy Breeding                   |       |
+| mezz            | No Potion Shift                 |       |
+| aroma1997       | StepupFixer                     |       |
+| jikuja          | LocaleFixer                     |       |
+| darkhaxdev      | Surge                           |       |
+| wildbamaboy     | Classic Combat                  |       |
+| therealp455w0rd | Fence Jumper                    |       |
+| by the009       | MTQFix                          |       |
+| by exidex       | SwingThroughGrass               |       |
+| frinn38            | Infinite Music                |   |
+| ForgeUser27808417 | Mending Fix                   |   |
+| flaxbeard          | Finite Water Control          |   |
+| heckinchloe        | I Know What I'm Doing (IKWID) |   |
+| bdew               | Leaf Decay Accelerator        |   |
+| mjaroslav          | Villager Mantle Fix           |   |
+| hrznstudio         | Water Control Extreme         |   |
+| rwtema             | Diet Hoppers                  |   |
+| tterrag1098        | Better Placement              |   |
+| darkhaxdev         | AttributeFix                  |   |
+| thiakil            | Gotta Go Fast                 |   |
+| seneschal_luwin    | No Recipe Book                |   |
+| xnrand             | MovingQuickly                 |   |
+| unnoen             | Unloader                      |   |
+| shadows_of_fire    | FastWorkbench                 |   |
+| mrbysco            | Rally Health                  |   |
+| teamcofh        | No Night Vision Flashing            |   |
+| drullkus        | Shield Parry                        |   |
+| modmuss50       | Enable Cheats                       |   |
+| cas_ual_ty      | DEUF - Duplicate Entity UUID Fix    |   |
+| animefan8888    | Entity NaN Health Fix               |   |
+| orecruncher     | TidyChunk                           |   |
+| gigaherz        | Configurable Cane                   |   |
+| shadows_of_fire | Stable Thaumometer                  |   |
+| shedaniel       | Smooth Scrolling Everywhere (Forge) |   |
+| laike_endaril   | Login HP Fix                        |   |
+| rakambda        | OverpoweredMending (Forge&Fabric)   |   |
+| krokoonair      | Super Hot                           |   |
+| barteks2x       | ChunkGenLimiter                     |   |
+| darkhaxdev      | Better Burning                      |   |
+| yungnickyoung   | Save My Stronghold! (Forge)         |   |
+| lothrazar       | Stupid Horse Stand Still            |   |
+| atlasthe1st      | Bottom Sugar Cane Harvest                               |   |
+| rune_smith98     | End Portal Parallax                                     |   |
+| bl4ckscor3       | Get It Together, Drops!                                 |   |
+| charles445       | Damage Tilt                                             |   |
+| mactso           | Fix Experience Bug (now with FABRIC and FORGE versions) |   |
+| fonnymunkey      | Collision Damage                                        |   |
+| phantamanta44    | Give Me Back My HP                                      |   |
+| fonnymunkey      | BedBreakBegone                                          |   |
+| youyihj          | Tinkers OreDict Cache                                   |   |
+| meldexun         | Block Overlay Fix                                       |   |
+| meldexun         | Entity Desync Fix                                       |   |
+| acgaming56       | DrawerFPS Legacy                                        |   |
+| acgaming56       | Configurable Item Entities (CIE)                        |   |
+| frikinjay1       | Let Me Despawn                                          |   |
+| the_computerizer | Dark Redstone                                           |   |
+| fonnymunkey      | Frame Void Patch (MC-59363)                             |   |
