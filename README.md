@@ -69,6 +69,7 @@ Labels are used to give you a better understanding of how a mod may act.
 | Incompatible | Mod is incompatible with some mods. |
 | Reverse Features | Mod takes away features for sake of performance or bugfixes. |
 | Unstable | Mod is unstable and may act unpredictably. |
+| Replaced | Mod is completely replaced by another, newer, alternative. |
 
 ## Severity Level
 
