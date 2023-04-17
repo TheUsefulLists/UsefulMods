@@ -17,7 +17,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [DupeFix Project](https://www.curseforge.com/minecraft/mc-mods/dupefix-project) | Unknown | Fix as many dupes as possible so that modpacks and servers can take advantage of several mods without having to ban items from them. | focamacho | Both | none |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none |
-| [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Universal Tewaks | Removes attribute caps, which can cause unintended behavior with some mods | DarkhaxDev | Server | none |
+| [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Universal Tweaks | Removes attribute caps, which can cause unintended behavior with some mods | DarkhaxDev | Server | none |
 | [Bed Bugs](https://www.curseforge.com/minecraft/mc-mods/bed-bugs) | Unknown | Fixes being stuck in a bed and adds persistent chat when getting out of a bed | gr8pefish | Both | None |
 | [Blockfire](https://modrinth.com/mod/blockfire) | Unknown | Fixes the 1.12 bug of fire arrows lighting you on fire through shields. | Nuclearfarts | Server | none |
 | [Born In a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn) | Unknown | Fixes a Minecraft bug where Village doors keep chunks loaded. No longer needed after forge 14.23.2.2623 | Speiger | Server | none |
