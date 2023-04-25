@@ -9,7 +9,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 [![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-119x)[![Forge](/images/button_small/forge.png)](#forge-119x)[![Quilt](/images/button_small/quilt.png)](#quilt-119x)]
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-119x)[![Forge](/images/button_small/forge.png)](#forge-119x)[![Quilt](/images/button_small/quilt.png)](#quilt-119x)
 
 ## Fabric 1.19.X
 
@@ -74,4 +74,4 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Unknown | A Minecraft mod which adds better grass and snow to the game | LambdAurora | Client | none |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Unknown | A dynamic lights mod for Fabric | LambdAurora | Client | none |
 
-[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-119x)[![Forge](/images/button_small/forge.png)](#forge-119x)[![Quilt](/images/button_small/quilt.png)](#quilt-119x)]
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-119x)[![Forge](/images/button_small/forge.png)](#forge-119x)[![Quilt](/images/button_small/quilt.png)](#quilt-119x)
