@@ -6,7 +6,10 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-117x)[![Forge](/images/button_small/forge.png)](#forge-117x)
 
 ## Fabric 1.17.X
 
@@ -35,11 +38,13 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Monsters in the Closet](https://modrinth.com/mod/monsters-in-the-closet) | Unknown | Highlights the mobs that are preventing you from sleeping | Minenash | Both | none |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Unknown | Mouse Tweaks replaces the standard RMB dragging mechanic, adds two new LMB dragging mechanics and an ability to quickly move items with the scroll wheel. | YaLTeR | Client | none |
 | [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie) | Unknown | A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more | Siphalor | Client | none |
-| [No Week Attack](https://www.curseforge.com/minecraft/mc-mods/no-weak-attack) | Unknown | Cancels swinging at enemies if your cooldown isn't full | florensie | Client | none |
+| [No Weak Attack](https://www.curseforge.com/minecraft/mc-mods/no-weak-attack) | Unknown | Cancels swinging at enemies if your cooldown isn't full | florensie | Client | none |
 | [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) | Unknown | An easy way to browse recipes. | shedaniel | Both | none |
 | [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer) | Unknown | Overlay a timer on the Vanilla status effect HUD icons | magicus | Client | none |
 | [Stendhal](https://modrinth.com/mod/stendhal) | Unknown | Stendhal enhances the book and sign writing client-side interfaces | NebSpacefarer | Client | none |
 | [WorldTime](https://modrinth.com/mod/worldtime) | Unknown | Show the ingame time on your HUD | Giselbaer | Client | none |
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-117x)[![Forge](/images/button_small/forge.png)](#forge-117x)
 
 ## Forge 1.17.X
 
@@ -56,4 +61,4 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) | Unknown | An easy way to browse recipes. | shedaniel | Both | none |
 | [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) | Unknown | This mod allows you to control what toasts show up in Minecraft | Shadows_of_Fire | Client | none |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-117x)[![Forge](/images/button_small/forge.png)](#forge-117x)

@@ -6,7 +6,10 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Forge](/images/button_small/forge.png)](#forge-115x)
 
 ## Forge 1.15.X
 
@@ -25,3 +28,5 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/open-loader)[<img src=/images/github.ico height=18>](https://github.com/Darkhax-Minecraft/Open-Loader) | Unknown | Open Loader is a utility mod that allows data packs and resource packs to be applied globally across all save files in a game instance. | DarkhaxDev | Both | [Yes](https://github.com/Darkhax-Minecraft/Open-Loader/wiki) | none | [LGPL-2.1](/license/Licenses.md#lgpl-21)
 | [Splashy](https://www.curseforge.com/minecraft/mc-mods/splashy)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/splashy)[<img src=/images/github.ico height=18>](https://www.curseforge.com/minecraft/mc-mods/splashy) | Unknown | This mod gives you more control over the splash text that is displayed on the main menu. For example you can disable the vanilla splash texts, or add new splash text entries. | DarkhaxDev | Client | none | none | [LGPL-2.1](/license/Licenses.md#lgpl-21)
 | [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/world-stripper)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/World-Stripper) | Unknown | World Stripper is a utility mod that allows you to strip away the terrain to view the underground world generation. | EwyBoy | Both | [Kinda](https://www.curseforge.com/minecraft/mc-mods/world-stripper) | none | [MIT](/license/Licenses.md#mit)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Forge](/images/button_small/forge.png)](#forge-115x)

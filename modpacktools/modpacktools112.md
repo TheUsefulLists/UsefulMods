@@ -6,7 +6,10 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Forge](/images/button_small/forge.png)](#forge-112x)
 
 ## Forge 1.12.X
 
@@ -53,3 +56,5 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Triumph](https://www.curseforge.com/minecraft/mc-mods/triumph)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/triumph) | Unknown | Tired of the same old advancements every time you play Minecraft? Triumph is a tool for modpack creators that allows you to create your own unique advancement trees in place of Vanilla's. | bloodnbonesgaming, superckl, Blargerist | Both | [Yes](https://bitbucket.org/bloodnbonesgaming/triumph/wiki/Home) | none | [All Rights Reserved](/license/Licenses.md#all-rights-reserved)
 | [Villager Trade Tables](https://www.curseforge.com/minecraft/mc-mods/villager-trade-tables)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/villager-trade-tables)[<img src=/images/github.ico height=18>](https://github.com/crazysnailboy/VillagerTrades) | Unknown | This mod allows you to create new villager professions and careers, and add or remove trades, using JSON files. The mod comes with several new trades and a few new villagers to help get you started. | crazysnailboy | Both | [Yes](https://github.com/crazysnailboy/VillagerTrades/wiki) | none | [MIT](/license/Licenses.md#mit)
 | [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/world-stripper)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/World-Stripper) | Unknown | World Stripper is a utility mod that allows you to strip away the terrain to view the underground world generation. | EwyBoy | Both | [Kinda](https://www.curseforge.com/minecraft/mc-mods/world-stripper) | none | [MIT](/license/Licenses.md#mit)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Forge](/images/button_small/forge.png)](#forge-112x)

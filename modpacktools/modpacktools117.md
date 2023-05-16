@@ -6,7 +6,10 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-117x)[![Forge](/images/button_small/forge.png)](#forge-117x)
 
 ## Fabric 1.17.X
 
@@ -16,6 +19,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options-fabric)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/default-options-fabric)[<img src=/images/github.ico height=18>](https://github.com/ModdingForBlockheads/DefaultOptions) | Unknown | A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file. | BlayTheNinth | Client | [Yes](https://blay09.net/mods/defaultoptions/) | none | [All Rights Reserved](/license/Licenses.md#all-rights-reserved)
 | [MixinTrace](https://modrinth.com/mod/mixintrace)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/mixintrace)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/mixintrace)[<img src=/images/github.ico height=18>](https://github.com/comp500/mixintrace) | Unknown | This is a Fabric mod that adds a list of mixins (and Mixin configuration names) to classes in the stack trace to crash reports. | comp500 | Both | none | none | [MIT](/license/Licenses.md#mit)
 | [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/open-loader)[<img src=/images/github.ico height=18>](https://github.com/Darkhax-Minecraft/Open-Loader) | Unknown | Open Loader is a utility mod that allows data packs and resource packs to be applied globally across all save files in a game instance. | DarkhaxDev | Both | [Yes](https://github.com/Darkhax-Minecraft/Open-Loader/wiki) | none | [LGPL-2.1](/license/Licenses.md#lgpl-21)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-117x)[![Forge](/images/button_small/forge.png)](#forge-117x)
 
 ## Forge 1.17.X
 
@@ -31,3 +36,5 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Ore Tweaker](https://www.curseforge.com/minecraft/mc-mods/ore-tweaker)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/ore-tweaker)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/OreTweaker) | Unknown | Ore Tweaker is a super lightweight utility mod that allows you to customize and tweak the underground generation in Minecraft. | EwyBoy | Both | [Yes](https://github.com/EwyBoy/OreTweaker/wiki) | none | [MIT](/license/Licenses.md#mit)
 | [Seed Drop](https://www.curseforge.com/minecraft/mc-mods/seed-drop)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/seed-drop)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/SeedDrop) | Unknown | Seed Drop is a super lightweight utility mod that allows you to customize the drops from grass in vanilla Minecraft. | EwyBoy | Both | [Kinda](https://www.curseforge.com/minecraft/mc-mods/seed-drop) | none | [MIT](/license/Licenses.md#mit)
 | [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/world-stripper)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/World-Stripper) | Unknown | World Stripper is a utility mod that allows you to strip away the terrain to view the underground world generation. | EwyBoy | Both | [Kinda](https://www.curseforge.com/minecraft/mc-mods/world-stripper) | none | [MIT](/license/Licenses.md#mit)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-117x)[![Forge](/images/button_small/forge.png)](#forge-117x)

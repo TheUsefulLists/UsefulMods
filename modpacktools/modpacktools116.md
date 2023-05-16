@@ -6,7 +6,10 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-116x)[![Forge](/images/button_small/forge.png)](#forge-116x)
 
 ## Fabric 1.16.X
 
@@ -16,6 +19,8 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs-fabric)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/kubejs-fabric)[<img src=/images/github.ico height=18>](https://github.com/KubeJS-Mods/KubeJS)<br><br>[KubeJS Addons Page](/modpacktools/addons/kubejs.md) | Unknown | This mod lets you create scripts in JavaScript language to manage your server, add new blocks and items, change recipes and tags, add custom handlers for quest mods, change worldgen and more! | LatvianModder | Both | [Yes](https://kubejs.com) | none | [LGPL-3.0](/license/Licenses.md#lgpl-30)
 | [MixinTrace](https://modrinth.com/mod/mixintrace)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/mixintrace)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/mixintrace)[<img src=/images/github.ico height=18>](https://github.com/comp500/mixintrace) | Unknown | This is a Fabric mod that adds a list of mixins (and Mixin configuration names) to classes in the stack trace to crash reports. | comp500 | Both | none | none | [MIT](/license/Licenses.md#mit)
 | [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/open-loader)[<img src=/images/github.ico height=18>](https://github.com/Darkhax-Minecraft/Open-Loader) | Unknown | Open Loader is a utility mod that allows data packs and resource packs to be applied globally across all save files in a game instance. | DarkhaxDev | Both | [Yes](https://github.com/Darkhax-Minecraft/Open-Loader/wiki) | none | [LGPL-2.1](/license/Licenses.md#lgpl-21)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-116x)[![Forge](/images/button_small/forge.png)](#forge-116x)
 
 ## Forge 1.16.X
 
@@ -42,3 +47,5 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Tips](https://www.curseforge.com/minecraft/mc-mods/tips)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/tips)[<img src=/images/github.ico height=18>](https://github.com/Darkhax-Minecraft/Tips) | Unknown | This mod will display useful tips on certain game screens such as the world loading screen. The tip shown will be cycled out every five seconds. The pool of tips can be expanded by resource packs, other mods, and even modpacks. | DarkhaxDev | Client | [Yes](https://github.com/Darkhax-Minecraft/Tips/wiki) | none | [LGPL-2.1](/license/Licenses.md#lgpl-21)
 | [Topography](https://www.curseforge.com/minecraft/mc-mods/topography)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/topography) | Unknown | Topography is a mod designed to allow modpack developers the ability to create custom defined dimensions for their modpacks using a scripting system. Custom terrain generators, skyboxes, spawn structures, world presets and more are available. | bloodnbonesgaming, superckl, Blargerist | Both | Config | none | [All Rights Reserved](/license/Licenses.md#all-rights-reserved)
 | [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/world-stripper)[<img src=/images/github.ico height=18>](https://github.com/EwyBoy/World-Stripper) | Unknown | World Stripper is a utility mod that allows you to strip away the terrain to view the underground world generation. | EwyBoy | Both | [Kinda](https://www.curseforge.com/minecraft/mc-mods/world-stripper) | none | [MIT](/license/Licenses.md#mit)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-116x)[![Forge](/images/button_small/forge.png)](#forge-116x)

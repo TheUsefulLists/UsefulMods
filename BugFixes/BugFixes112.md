@@ -6,14 +6,17 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-112x)[![Forge](/images/button_small/forge.png)](#forge-112x)
 
 ## Forge 1.12.X
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks whithin a 4 block radius cube with press of a configurable key. | Giselbaer | Client | none |
-| [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Unknown | Removes attribute caps, which can cause unintended behavior with some mods | DarkhaxDev | Server | none |
+| [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Universal Tweaks | Removes attribute caps, which can cause unintended behavior with some mods | DarkhaxDev | Server | none |
 | [Bed Bugs](https://www.curseforge.com/minecraft/mc-mods/bed-bugs) | Unknown | Fixes being stuck in a bed and adds persistent chat when getting out of a bed | gr8pefish | Both | None |
 | [BedBreakBegone](https://www.curseforge.com/minecraft/mc-mods/bedbreakbegone) | Unknown | Fixes and alleviates nonsense "Your bed was obstructed" errors. | fonnymunkey | Both | none |
 | [Blockfire](https://modrinth.com/mod/blockfire) | Unknown | Fixes the 1.12 bug of fire arrows lighting you on fire through shields. | Nuclearfarts | Server | none |
@@ -29,10 +32,12 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | none |
 | [Splash Logo Color Fix](https://www.curseforge.com/minecraft/mc-mods/splash-logo-color-fix)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/splash-logo-color-fix) | Unknown | This is a very simple mod that fixes the color of the mojang logo when a background is applied to forge's spash screen. | modmuss50 | Client | none | none | [All Rights Reserved](/license/Licenses.md#all-rights-reserved)
 
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-112x)[![Forge](/images/button_small/forge.png)](#forge-112x)
+
 ## Fabric 1.12.X
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [MCMouser](https://modrinth.com/mod/mcmouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-112x)[![Forge](/images/button_small/forge.png)](#forge-112x)

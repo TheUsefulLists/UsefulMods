@@ -6,7 +6,10 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+
+[![Home](/images/button_small/home.png)](/README.md)
 
 ## Forge 1.8.X
 
@@ -32,6 +35,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Thaumcraft 4 Tweaks](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/tc4tweaks)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)[<img src=/images/github.ico height=18>](https://github.com/Glease/TC4Tweaks) | Unknown | Thaumcraft 4 addon to fix UI deficiency, performance issues and minor bugs. | gleee8 | Both | none | [AGPL-3.0](https://github.com/NordicGamerFE/UsefulModsjajaja/blob/main/license/Licenses.md#agpl-30)
 
 ## Legacy Fabric b1.7.X
+
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
 | [Font Fixer](https://modrinth.com/mod/font-fixer) | Unknown | Fixes the font renderer in legacy MC. | Unknown | HyperSpeeed | Client | none |
