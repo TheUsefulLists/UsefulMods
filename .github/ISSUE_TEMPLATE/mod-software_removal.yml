@@ -1,6 +1,6 @@
 name: Mod/Software link Removal
 description: Do you have a mod or software link on the list you would like to have removed use this.
-title: "[Mod/Software link Removal]"
+title: "[Mod/Software link Removal]: "
 labels: ["Mod/Software link Removal"]
 body:
   - type: input
@@ -15,7 +15,7 @@ body:
       options:
         - label: I have done the required action.
           required: true
-   - type: input
+  - type: input
     attributes:
       label: Where did you put the proof (put a link).
     validations:
