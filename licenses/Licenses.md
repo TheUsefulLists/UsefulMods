@@ -67,6 +67,11 @@ ___
 | --- | --- | --- | --- | --- | --- | --- |
 | Allowed | Allowed | Allowed | Allowed | No | No | None. |
 
+## WTFPL-2.0
+| Commercial use | Modification | Distribution | Sublicense | Private Use | Conditions |
+| --- | --- | --- | --- | --- | --- |
+| Allowed | Allowed | Allowed | Allowed | Allowed | Not a trademark license. |
+
 ## Apache License 2.0
 
 | Commercial use | Modification | Distribution | Sublicense | Private Use | Use Patent Claims | Place Warranty | Liability | Warranty | Conditions |

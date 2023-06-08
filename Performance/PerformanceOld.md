@@ -24,8 +24,8 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 ## Forge 1.7.X
 
-| Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md/#labels) | License |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | [AnimFix](https://modrinth.com/mod/animfix) | FalseTweaks | Decreases the stuttering caused by animated textures in 1.7.10 | FalsePattern | Client | none |
 | [ArchaicFix](https://www.curseforge.com/minecraft/mc-mods/archaicfix) | None | ArchaicFix implements a number of bugfixes and optimizations for Minecraft 1.7.10 | embeddedt | Both | none |
 | [BetterFPS](https://www.curseforge.com/minecraft/mc-mods/betterfps) | None | BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods. | Guichaguri | Both | none |
@@ -34,7 +34,8 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [FalseTweaks](https://modrinth.com/mod/falsetweaks) | Triangulator, AnimFix | FalsePattern's flagship tweaking, patching, and optimization mod. contains both the features from AnimFix and Triangulator | FalsePattern | Both | none |
 | [FastCraft](https://www.curseforge.com/minecraft/mc-mods/fastcraft) | Forge Essentials, CoFHTweaks | FastCraft is a sophisticated mod which improves the client and server performance significantly without any game play changes. | sfPlayer1 | Both | none |
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. | asiekierka | Both | none |
-| [Squidless](https://www.curseforge.com/minecraft/mc-mods/squidless) | Unknown | Prevents squids spawning in regions where they would instantly despawn | hilburn | Server | none |
+| [Squidless](https://www.curseforge.com/minecraft/mc-mods/squidless) | Unknown | Prevents squids spawning in regions where they would instantly despawn. | hilburn | Server | none |
+| [Thaumcraft 4 Tweaks](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/tc4tweaks)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)[<img src=/images/github.ico height=18>](https://github.com/Glease/TC4Tweaks) | Unknown | Thaumcraft 4 addon to fix UI deficiency, performance issues and minor bugs. | gleee8 | Both | none | [AGPL-3.0](https://github.com/NordicGamerFE/UsefulModsjajaja/blob/main/license/Licenses.md#agpl-30)
 | [Tick Dynamic](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic) | Unknown | Attempts to keep the server at 20tps by dynamically limiting the amount of entities and tile-entities that update per tick | The_Fireplace / wildex999 | Server | none |
 | [Triangulator](https://modrinth.com/mod/triangulator) | FalseTweaks | Improved 1.7.10 renderer and fixed smooth lighting | FalsePattern | Client | none |
 
