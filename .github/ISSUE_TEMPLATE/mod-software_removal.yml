@@ -1,0 +1,26 @@
+name: Mod/Software link Removal
+description: Do you have a mod or software link on the list you would like to have removed use this.
+title: "[Mod/Software link Removal]: "
+labels: ["Mod/Software link Removal"]
+body:
+  - type: input
+    attributes:
+      label: What is your mod/software name?
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: For us to confirm that you actually own said mod or software please leave 546Gfl1 on either your curseforge, modirint or github, If its a software with a website you can also leave the code hidden in the html code that can be seen with inspect tool.
+      options:
+        - label: I have done the required action.
+          required: true
+  - type: input
+    attributes:
+      label: Where did you put the proof (put a link).
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: (OPTIONAL) What is your reasoning for wanting your mod/software link removed?
+      description: We are always curious why people want to remove their link from our github we love learning?
