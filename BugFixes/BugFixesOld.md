@@ -32,6 +32,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | [KaizPatchX](https://github.com/Kai-Z-JP/KaizPatchX) | Unknown | fixes some bugs of RTM and make RTM more useful! RTM = [RealTrainMod](https://www.curseforge.com/minecraft/mc-mods/realtrainmod) | Kai-Z-JP | Both | none |
+| [Raw Mouse Input](https://www.curseforge.com/minecraft/mc-mods/raw-input-1-12-2) | Unknown | Use raw input on Minecraft 1.12.2 Can make mouse input feel smoother and fix mouse jittering. | llumoo | Client | none |
 | [Thaumcraft 4 Tweaks](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)<br>[<img src=/images/modrinth.ico height=18>](https://modrinth.com/mod/tc4tweaks)[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/tc4tweaks)[<img src=/images/github.ico height=18>](https://github.com/Glease/TC4Tweaks) | Unknown | Thaumcraft 4 addon to fix UI deficiency, performance issues and minor bugs. | gleee8 | Both | none | [AGPL-3.0](https://github.com/NordicGamerFE/UsefulModsjajaja/blob/main/license/Licenses.md#agpl-30)
 
 ## Legacy Fabric b1.7.X
