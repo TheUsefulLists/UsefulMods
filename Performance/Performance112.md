@@ -40,6 +40,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Tick Dynamic](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic) | Unknown | Attempts to keep the server at 20tps by dynamically limiting the amount of entities and tile-entities that update per tick | The_Fireplace / wildex999 | Server | none |
 | [Tiquality](https://www.curseforge.com/minecraft/mc-mods/tiquality) | Unknown | Limiting a player's tick time in the world to evenly distribute time. | Terminator_NL | Server | none |
 | [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix) | Mods using outdated mixin versions[¹](https://github.com/NordicGamerFE/usefulmods/tree/main#-should-work-if-mixin-0-7-0-8-compatibility-is-applied), (NormalASM/CensoredASM) | VanillaFix is a mod that improves performance and fixes bugs and annoyances in vanilla Minecraft | Runemoro (Dimensional Development) | Both | none |
+| [VintageFix](https://github.com/embeddedt/VintageFix) | Unknown | FerriteCore and ModernFix venturing into the stone age | embeddedt | Both | none |
 
 [![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#legacy-fabric-112x)[![Forge](/images/button_small/forge.png)](#forge-112x)
 
