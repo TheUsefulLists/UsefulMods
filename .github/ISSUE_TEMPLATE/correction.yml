@@ -32,7 +32,7 @@ body:
       required: true
   - type: dropdown
     attributes:
-      label: What version(s) dose this correction apply to?
+      label: What version(s) does this correction apply to?
       multiple: true
       options:
         - 1.8.X or earlier
