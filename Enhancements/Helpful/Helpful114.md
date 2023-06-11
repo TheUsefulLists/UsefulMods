@@ -13,12 +13,12 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 ## Fabric 1.14.X
 
-| Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) | License |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ## Forge 1.14.X
 
-| Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| Name | Known Incompatibilities | Description | Author | Environment | [Label](/README.md#labels) | License |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 
 [![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-114x)[![Forge](/images/button_small/forge.png)](#forge-114x)
