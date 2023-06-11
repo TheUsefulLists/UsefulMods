@@ -1,6 +1,6 @@
 # Helpful Mods
 
-A list of helpful mods for 1.16.x forge/fabric versions.
+A list of helpful mods for 1.14.x forge/fabric versions.
 
 Any suggestions/complaints?
 
