@@ -8,7 +8,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 [![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-117x)[![Forge](/images/button_small/forge.png)](#forge-117x)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-114x)[![Forge](/images/button_small/forge.png)](#forge-114x)
 
 ## Fabric 1.14.X
 | Name | Known Incompatibilities | Description | Author | Performance Improvement | [Label](/README.md#labels) | License |
@@ -35,4 +35,4 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Out of Sight](https://www.curseforge.com/minecraft/mc-mods/out-of-sight) [![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/out-of-sight)[![Github Logo](/images/platform_icons/Github.png)](https://github.com/Corosauce/OutOfSight) | Unknown | Out of Sight simply stops modded tile entities from rendering if they are further than 24 blocks away | Corosus | Client | Reverse Features (1) | [LGPL-2.1](/licenses/Licenses.md#lgpl-21)
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) [![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/performant)[![Github Logo](/images/platform_icons/Github.png)](https://github.com/someaddons/performant_issues) | Phosphophyllite, Resourceful Bees, + | Lightweight mod project which hugely improves performance and blocklag. | someaddon | Server | Incompatible (2) | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 
-[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-115x)[![Forge](/images/button_small/forge.png)](#forge-115x)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-114x)[![Forge](/images/button_small/forge.png)](#forge-114x)
