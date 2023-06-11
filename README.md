@@ -31,6 +31,7 @@ ___
 | 1.17.x | [✔️ **Available**](Performance/Performance117.md) | [✔️ **Available**](BugFixes/BugFixes117.md) |
 | 1.16.x | [✔️ **Available**](Performance/Performance116.md) | [✔️ **Available**](BugFixes/BugFixes116.md) |
 | 1.15.x | [✔️ **Available**](Performance/Performance115.md) | [✔️ **Available**](BugFixes/BugFixes115.md) |
+| 1.14.x | [✔️ **Available**](Performance/Performance114.md) | [✔️ **Available**](BugFixes/BugFixes114.md) |
 | 1.12.x | [✔️ **Available**](Performance/Performance112.md) | [✔️ **Available**](BugFixes/BugFixes112.md) |
 | 1.8.9 and below | [✔️ **Available**](Performance/PerformanceOld.md) | [✔️ **Available**](BugFixes/BugFixesOld.md) |
 
@@ -46,6 +47,7 @@ ___
 | 1.17.x | [✔️ **Available**](Enhancements/Helpful/Helpful117.md) | [✔️ **Available**](Enhancements/Improvements/Improvementsl117.md) | [✔️ **Available**](modpacktools/modpacktools117.md) |
 | 1.16.x | [✔️ **Available**](Enhancements/Helpful/Helpful116.md) | [✔️ **Available**](Enhancements/Improvements/Improvements116.md) | [✔️ **Available**](modpacktools/modpacktools116.md) |
 | 1.15.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful115.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements115.md) | [✔️ **Available**](modpacktools/modpacktools115.md) |
+| 1.14.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful114.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements114.md) | [✔️ **Available**](modpacktools/modpacktools114.md) |
 | 1.12.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful112.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements112.md) | [✔️ **Available**](modpacktools/modpacktools112.md) |
 | 1.8.9 and below | [⚠️ **WIP**](Enhancements/Helpful/HelpfulOld.md) | [⚠️ **WIP**](Enhancements/Improvements/ImprovementsOld.md) | [✔️ **Available**](modpacktools/modpacktoolsold.md) |
 ___
