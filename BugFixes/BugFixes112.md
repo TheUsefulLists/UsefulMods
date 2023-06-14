@@ -1,6 +1,6 @@
 # Bugfixing Mods
 
-A list of bugfixing mods for 1.12.x forge versions.
+A list of bugfixing mods for 1.12.x versions.
 
 Any suggestions/complaints?
 
@@ -27,18 +27,17 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [Entity Desync Fix](https://www.curseforge.com/minecraft/mc-mods/entity-desync-fix) | Unknown | Entity Desync Fix fixes that nasty entity motion desync that sometimes happens. This is most notable with arrows and thrown items (and even more notable underwater). | meldexun | Both | none |
 | [fixRTM](https://www.curseforge.com/minecraft/mc-mods/fixrtm) | Unknown | fixes some bugs of RTM and make RTM more useful! RTM = [RealTrainMod](https://www.curseforge.com/minecraft/mc-mods/realtrainmod) | anatawa12 | Both | none |
 | [Inventory Close with Mouse key Fix](https://modrinth.com/mod/invclosefix) | Unknown | Allows you to close your inventory with a key bound to a mouse button. | KosmX | Client | none |
-| [MCMouser](https://modrinth.com/mod/mcmouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none |
-| [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) | Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | none |
-| [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | none |
-| [Raw Mouse Input](https://www.curseforge.com/minecraft/mc-mods/raw-input-1-12-2) | Unknown | Use raw input on Minecraft 1.12.2 Can make mouse input feel smoother and fix mouse jittering. | llumoo | Client | none |
+| [MCMouser](https://modrinth.com/mod/mcmouser) [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/mod/mcmouser)[![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/mcmouser)[![Github Logo](/images/platform_icons/Github.png)](https://github.com/MinecraftMachina/McMouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
+| [NetherPortalFix](https://modrinth.com/mod/netherportalfix) [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/mod/netherportalfix)[![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)[![Github Logo](/images/platform_icons/Github.png)](https://github.com/TwelveIterationMods/NetherPortalFix)| Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
+| [RandomPatches](https://modrinth.com/mod/randompatches) [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/mod/randompatches)[![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)[![Github Logo](/images/platform_icons/Github.png)](https://github.com/TheRandomLabs/RandomPatches) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | None | [MIT](/licenses/Licenses.md#mit) 
 | [Splash Logo Color Fix](https://www.curseforge.com/minecraft/mc-mods/splash-logo-color-fix)<br>[<img src=/images/curseforge.png height=18>](https://www.curseforge.com/minecraft/mc-mods/splash-logo-color-fix) | Unknown | This is a very simple mod that fixes the color of the mojang logo when a background is applied to forge's spash screen. | modmuss50 | Client | none | none | [All Rights Reserved](/license/Licenses.md#all-rights-reserved)
 
 [![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-112x)[![Forge](/images/button_small/forge.png)](#forge-112x)
 
-## Fabric 1.12.X
+## Legacy Fabric 1.12.X
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| [MCMouser](https://modrinth.com/mod/mcmouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | none |
+| [MCMouser](https://modrinth.com/mod/mcmouser) [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/mod/mcmouser)[![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/mcmouser)[![Github Logo](/images/platform_icons/Github.png)](https://github.com/MinecraftMachina/McMouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 
 [![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-112x)[![Forge](/images/button_small/forge.png)](#forge-112x)
