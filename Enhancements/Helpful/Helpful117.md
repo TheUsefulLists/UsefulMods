@@ -20,6 +20,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [ClearDespawn](https://modrinth.com/mod/cleardespawn) | Unknown | Make items blink when they're about to despawn | Giselbaer | Client | none |
 | [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric) | Unknown | This mod adds a bunch of optional tweaks to improve the quality of life during gameplay. | BlayTheNinth | Client | none |
 | [Craftify](https://www.curseforge.com/minecraft/mc-mods/craftify) | Unknown | Craftify is a mod for Minecraft that allows you to connect to music services and display and control it in-game. | ThatGravyBoat | Client | none |
+| [Cyanide](https://modrinth.com/mod/cyanide) [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/mod/cyanide)[![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/cyanide-fabric)[![Github Logo](/images/platform_icons/Github.png)](https://github.com/alcatrazEscapee/cyanide/) | Unknown | Makes datapack related issues readable | alcatrazEscapee | Both | None | 
 | [DeathLog](https://modrinth.com/mod/deathlog) | Unknown | Keeps track of the many embarrassing times you died | glisco | Client | none |
 | [Durability Viewer](https://modrinth.com/mod/durabilityviewer) | Unknown | Armor and Tool durability HUD | Giselbaer | Client | none |
 | [EasierChests](https://modrinth.com/mod/easierchests) | Unknown | Move items between inventory and chests easily, includes a sorter | Giselbaer | Client | none |
