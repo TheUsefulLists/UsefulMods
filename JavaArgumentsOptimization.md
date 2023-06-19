@@ -19,6 +19,8 @@ Here's how to change your java arguments in the official Minecraft Launcher.
 2. Under 'More Options', you will find 'JVM arguments'.
 3. You can change or add your JVM arguments here.
 
+**Don't know a lot about java Args? use this [tool](https://flags.sh)**
+
 ### Note about Pterodactyl
 
 When running a server on an instance of [Pterodactyl](https:/pteroactyl.io) do not set Xms to all of the available memory.
