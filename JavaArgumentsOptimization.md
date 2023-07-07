@@ -137,4 +137,4 @@ Sources:
 
 [Eclipse OpenJ9 docs](https://www.eclipse.org/openj9/docs/)
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](/images/button_small/home.png)](/README.md)
