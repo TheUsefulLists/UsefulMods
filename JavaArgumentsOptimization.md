@@ -23,7 +23,7 @@ Here's how to change your java arguments in the official Minecraft Launcher.
 
 ### Note about Pterodactyl
 
-When running a server on an instance of [Pterodactyl](https:/pteroactyl.io) do not set Xms to all of the available memory.
+When running a server on an instance of [Pterodactyl](https://pterodactyl.io) do not set Xms to all of the available memory.
 It is recommended when running on pterodactyl you set Xms 1G to 1.5G less then Xmx to avoid the Out Of Memory Killer (OOMKiller) from terminating your server.
 
 ## Aikar's flags
