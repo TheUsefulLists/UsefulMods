@@ -1,6 +1,6 @@
 # Performance Mods
 
-A list of performance-enhancing mods for 1.20.x forge/fabric versions.
+A list of performance-enhancing mods for 1.20.x Forge/Fabric versions.
 
 Any suggestions/complaints?
 
@@ -9,9 +9,9 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 [![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-Don't want to mess around with mods? try out Fabulously Optimized [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/modpack/fabulously-optimized) [![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
+Don't want to mess around with mods? Try out Fabulously Optimized [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/modpack/fabulously-optimized) [![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized), or Simply Optimized [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/modpack/simply-optimized).
 
-[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-119x)[![Forge](/images/button_small/forge.png)](#forge-119x)[![Quilt](/images/button_small/quilt.png)](#quilt-119x)
+[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-120x)[![Forge](/images/button_small/forge.png)](#forge-120x)[![Quilt](/images/button_small/quilt.png)](#quilt-120x)
 
 ## Fabric 1.20.X
 
