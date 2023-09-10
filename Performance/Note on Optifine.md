@@ -1,7 +1,7 @@
 # OptiFine in Modded Minecraft: Considerations and Alternatives
 
 ## Bullet Points
-
+* You may have noticed that Optifine isn't on any of these lists. We are aware of this and have not included Optifine because of its various incompatibility issues.
 * OptiFine is a popular mod for improving graphics and performance in Minecraft
 * May not always be compatible with certain mods
 * May not provide significant performance improvements in all modded Minecraft environments
