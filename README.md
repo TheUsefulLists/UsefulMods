@@ -8,7 +8,7 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull request fixing it!)
 
-[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 ___
 
@@ -108,4 +108,4 @@ ___
 ___
 ⁸ Some of the mods that have Magnesium/Rubidium as an incompatibility, might work if you use [Calcium](https://www.curseforge.com/minecraft/mc-mods/calcium)
 
-[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)

@@ -13,4 +13,4 @@ OptiFine is a popular mod for Minecraft that is designed to improve the graphics
 
 If you are considering using OptiFine in a modded Minecraft setup, it is important to consider these potential compatibility issues. In most cases, alternatives like Sodium, Continuity, LBG, etc. may work better and provide more consistent performance improvements. However, if you still want to use OptiFine for custom resource packs or any other reason, it is important to keep in mind that it may not be fully compatible with all the mods in your setup and may not provide the expected performance improvements. It is always a good idea to carefully research and test any mods before using them in a modded Minecraft environments to ensure the best possible experience.
 
-[![Home](/images/button_small/home.png)](/README.md)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)

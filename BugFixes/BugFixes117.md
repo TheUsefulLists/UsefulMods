@@ -6,10 +6,10 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[![Bisect Hosting Image](/images/promo.png)](https://bisecthosting.com/UsefulLists)
+[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
-[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-117x)[![Forge](/images/button_small/forge.png)](#forge-117x)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-117x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-117x)
 
 ## Fabric 1.17.X
 
@@ -25,7 +25,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [FabricCrossDimTPFix](https://modrinth.com/mod/fabriccrossdimtpfix) | Unknown | Fixes a bug where the player doesn't get sent their XP and Potion effects on cross dim teleport. | CodedSakura | Server | none |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Unknown | Stops the game from freezing when opening external links or folders | altrisi | Client | none |
 | [Fix Alt Gr](https://modrinth.com/mod/fix-alt-gr) | Unknown | Fixes the MC-127862 bug, which sometimes makes pressing the Alt Gr key lock your left control key. | MikolajKolek | Client | none |
-| [Gotta Go Fast](https://www.curseforge.com/minecraft/mc-mods/gotta-go-fast-fabric) [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/mod/gotta-go-fast-fabric)[![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/gotta-go-fast-fabric)[![Github Logo](/images/platform_icons/Github.png)](https://github.com/oskardotglobal/gottagofast-fabric) | Unknown | This simple mod brings the bugfix for "Player moved too quickly!" | PixelAgent007 | Server | none |
+| [Gotta Go Fast](https://www.curseforge.com/minecraft/mc-mods/gotta-go-fast-fabric) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/gotta-go-fast-fabric)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/gotta-go-fast-fabric)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/oskardotglobal/gottagofast-fabric) | Unknown | This simple mod brings the bugfix for "Player moved too quickly!" | PixelAgent007 | Server | none |
 | [Head Name Fix](https://modrinth.com/mod/headfix) | Unknown | Mob heads will keep their custom names when placed. | manyrandomthings | Server | none |
 | [Inventory Close with Mouse key Fix](https://modrinth.com/mod/invclosefix) | Unknown | Allows you to close your inventory with a key bound to a mouse button. | KosmX | Client | none |
 | [IMBlocker](https://modrinth.com/mod/imblocker) | Unknown |  IMBlocker is a mod which hides the IME (Input Method Editor) where entering text is not required. | mrjesen | Client | none |
@@ -39,12 +39,12 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Fixes crashing when trying to pre-generate large areas of a world. | telepathicgrunt | Server | none |
 | [No Weak Attack](https://www.curseforge.com/minecraft/mc-mods/no-weak-attack) | Unknown | Cancels swinging at enemies if your cooldown isn't full | florensie | Client | none |
 | [ToolTipFix](https://modrinth.com/mod/tooltipfix) | Unknown | Stops tooltips that are too large to fit on the screen from running off the screen | Kryptonaught | Client | none |
-| [Translucency Fix](https://modrinth.com/mod/translucencyfix) [![Modrinth Logo](/images/platform_icons/Modrinth.png)](https://modrinth.com/mod/semitranslucency)[![CurseForge Logo](/images/platform_icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/translucencyfix)[![Github Logo](/images/platform_icons/Github.png)](https://github.com/ruvaldak/translucencyfix) | Unknown | Allows resource packs to use semitranslucent textures. | ruvaldak | Client | none | [MIT](/licenses/Licenses.md#mit)
+| [Translucency Fix](https://modrinth.com/mod/translucencyfix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/semitranslucency)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/translucencyfix)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/ruvaldak/translucencyfix) | Unknown | Allows resource packs to use semitranslucent textures. | ruvaldak | Client | none | [MIT](/licenses/Licenses.md#mit)
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire)[⁷](/README.md#-these-mods-also-work-on-117x--despite-having-only-116-and-118-releases-in-curseforge-no-workarounds-needed-install-them-like-any-other-mods-and-your-fabric-loader-wont-complain-about-missing-dependencies) | Unknown | Hides the obstructive fire overlay when it's not needed. | Ellivers | Both | none |
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) | Unknown | Fixes vanilla bug where withers forget their targets. | supersaiyansubtlety | Server | none |
 | [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric) | Unknown | Fixes [Mojang bug](https://bugs.mojang.com/browse/MC-185901) by raising the packet size limit from 2MB to 2GB, so that servers with large datapacks, packets, etc don't kick the client. | tfarecnim | Both | none |
 
-[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-117x)[![Forge](/images/button_small/forge.png)](#forge-117x)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-117x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-117x)
 
 ## Forge 1.17.X
 
@@ -59,4 +59,4 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors) | Unknown | Fixes crashing when trying to pre-generate large areas of a world.  | telepathicgrunt | Server | none |
 | [Potion ID Packet Fixer](https://modrinth.com/mod/potion-fix) | Unknown | If you have more than 255 potion effects registered, the client will receive incorrect information for potion effects above ID 255, due to an issue with vanilla packets. This mod fixes that issue. | stepsword | Both | none |
 
-[![Home](/images/button_small/home.png)](/README.md)[![Fabric](/images/button_small/fabric.png)](#fabric-117x)[![Forge](/images/button_small/forge.png)](#forge-117x)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-117x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-117x)
