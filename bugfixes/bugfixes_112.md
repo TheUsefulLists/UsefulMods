@@ -1,6 +1,6 @@
-# Bugfixing Mods
+# Bug Fixing Mods
 
-A list of bugfixing mods for 1.12.x versions.
+A list of bug fixing mods for 1.12.x versions.
 
 Any suggestions/complaints?
 
@@ -11,7 +11,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-112x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-112x)
 
-## Forge 1.12.X
+## Forge 1.12.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-112x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-112x)
 
-## Legacy Fabric 1.12.X
+## Legacy Fabric 1.12.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |

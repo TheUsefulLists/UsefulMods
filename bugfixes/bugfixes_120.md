@@ -1,6 +1,6 @@
 # Bug Fixing Mods
 
-A list of bug fixing mods for 1.20.x forge/fabric versions.
+A list of bug fixing mods for 1.20.x Fabric/Forge versions.
 
 Any suggestions/complaints?
 
@@ -11,7 +11,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-120x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-120x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-120x)
 
-## Fabric 1.20.X
+## Fabric 1.20.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | :--: | :-------------------: | :-------: | :---: | :---: | :---: | :---: |
@@ -19,14 +19,14 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-119x)
 
-## Forge 1.20.X
+## Forge 1.20.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | :--: | :-------------------: | :-------: | :---: | :---: | :---: | :---: |
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-119x)
 
-## Quilt 1.20.X
+## Quilt 1.20.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | :--: | :-------------------: | :-------: | :---: | :---: | :---: | :---: |

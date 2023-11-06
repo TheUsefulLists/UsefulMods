@@ -1,6 +1,6 @@
-# Bugfixing Mods
+# Bug Fixing Mods
 
-A list of bugfix mods for 1.14.x forge/fabric versions.
+A list of bug fixing mods for 1.14.x Fabric/Forge versions.
 
 Any suggestions/complaints?
 
@@ -11,7 +11,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-114x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-114x)
 
-## Fabric 1.14.X
+## Fabric 1.14.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | :--: | :-------------------: | :-------: | :---: | :---: | :---: | :---: |
@@ -22,7 +22,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 | [IMBlocker](https://modrinth.com/mod/imblocker) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/imblocker)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/imblockerfabric)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/mrjesen/ImBlockerFabric) | Unknown | IMBlocker is a mod which hides the IME (Input Method Editor) where entering text is not required. | mrjesen | Client | none | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 | [MC122477Fix](https://modrinth.com/mod/mc122477fix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/mc122477fix)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/RecursiveG/Mc122477Fix) | Unknown | A simple mod that fixes MC-122477, the random extra chat character on Unix-based systems. | SizableShrimp | Client | None | [MIT](/licenses/Licenses.md#mit)
 
-## Forge 1.14.X
+## Forge 1.14.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | :--: | :-------------------: | :-------: | :---: | :---: | :---: | :---: |

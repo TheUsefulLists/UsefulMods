@@ -25,15 +25,15 @@ ___
 | Version | Performance | Bugfixes |
 | :-: | :-: | :-: |
 | | *Mods that help improve performance* | *Mods that fix bugs* |
-| 1.20.x | [✔️ **Available**](performance/Performance120.md) | [✔️ **Available**](bugfixes/bugfixes_120.md) |
-| 1.19.x | [✔️ **Available**](performance/Performance119.md) | [✔️ **Available**](bugfixes/bugfixes_119.md) |
-| 1.18.x | [✔️ **Available**](performance/Performance118.md) | [✔️ **Available**](bugfixes/bugfixes_118.md) |
-| 1.17.x | [✔️ **Available**](performance/Performance117.md) | [✔️ **Available**](bugfixes/bugfixes_117.md) |
-| 1.16.x | [✔️ **Available**](performance/Performance116.md) | [✔️ **Available**](bugfixes/bugfixes_116.md) |
-| 1.15.x | [✔️ **Available**](performance/Performance115.md) | [✔️ **Available**](bugfixes/bugfixes_115.md) |
-| 1.14.x | [✔️ **Available**](performance/Performance114.md) | [✔️ **Available**](bugfixes/bugfixes_114.md) |
-| 1.12.x | [✔️ **Available**](performance/Performance112.md) | [✔️ **Available**](bugfixes/bugfixes_112.md) |
-| 1.8.9 and below | [✔️ **Available**](performance/PerformanceOld.md) | [✔️ **Available**](bugfixes/bugfixes_old.md) |
+| 1.20.x | [✔️ **Available**](performance/performance_120.md) | [✔️ **Available**](bugfixes/bugfixes_120.md) |
+| 1.19.x | [✔️ **Available**](performance/performance_119.md) | [✔️ **Available**](bugfixes/bugfixes_119.md) |
+| 1.18.x | [✔️ **Available**](performance/performance_118.md) | [✔️ **Available**](bugfixes/bugfixes_118.md) |
+| 1.17.x | [✔️ **Available**](performance/performance_117.md) | [✔️ **Available**](bugfixes/bugfixes_117.md) |
+| 1.16.x | [✔️ **Available**](performance/performance_116.md) | [✔️ **Available**](bugfixes/bugfixes_116.md) |
+| 1.15.x | [✔️ **Available**](performance/performance_115.md) | [✔️ **Available**](bugfixes/bugfixes_115.md) |
+| 1.14.x | [✔️ **Available**](performance/performance_114.md) | [✔️ **Available**](bugfixes/bugfixes_114.md) |
+| 1.12.x | [✔️ **Available**](performance/performance_112.md) | [✔️ **Available**](bugfixes/bugfixes_112.md) |
+| 1.8.9 and below | [✔️ **Available**](performance/performance_old.md) | [✔️ **Available**](bugfixes/bugfixes_old.md) |
 
 ## [Note on OptiFine](performance/Note%20on%20OptiFine.md)
 
@@ -42,14 +42,14 @@ ___
 | Version | Helpful | Improvements | Modpack Tools |
 | :-: | :-: | :-: | :-: |
 | | *Mods that help with certain aspects of the game* | *Mods that improve on aspects of the game* | *Useful mods for modpack creators* |
-| 1.19.x | [✔️ **Available**](Enhancements/Helpful/Helpful119.md) | [✔️ **Available**](Enhancements/Improvements/Improvements119.md) | [✔️ **Available**](modpacktools/modpacktools119.md) |
-| 1.18.x | [✔️ **Available**](Enhancements/Helpful/Helpful118.md) | [✔️ **Available**](Enhancements/Improvements/Improvements118.md) | [✔️ **Available**](modpacktools/modpacktools118.md) |
-| 1.17.x | [✔️ **Available**](Enhancements/Helpful/Helpful117.md) | [✔️ **Available**](Enhancements/Improvements/Improvementsl117.md) | [✔️ **Available**](modpacktools/modpacktools117.md) |
-| 1.16.x | [✔️ **Available**](Enhancements/Helpful/Helpful116.md) | [✔️ **Available**](Enhancements/Improvements/Improvements116.md) | [✔️ **Available**](modpacktools/modpacktools116.md) |
-| 1.15.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful115.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements115.md) | [✔️ **Available**](modpacktools/modpacktools115.md) |
-| 1.14.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful114.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements114.md) | [✔️ **Available**](modpacktools/modpacktools114.md) |
-| 1.12.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful112.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements112.md) | [✔️ **Available**](modpacktools/modpacktools112.md) |
-| 1.8.9 and below | [⚠️ **WIP**](Enhancements/Helpful/HelpfulOld.md) | [⚠️ **WIP**](Enhancements/Improvements/ImprovementsOld.md) | [✔️ **Available**](modpacktools/modpacktoolsold.md) |
+| 1.19.x | [✔️ **Available**](enhancements/helpful/helpful_119.md) | [✔️ **Available**](enhancements/improvements/improvements_119.md) | [✔️ **Available**](modpacktools/modpacktools_119.md) |
+| 1.18.x | [✔️ **Available**](enhancements/helpful/helpful_118.md) | [✔️ **Available**](enhancements/improvements/improvements_118.md) | [✔️ **Available**](modpacktools/modpacktools_118.md) |
+| 1.17.x | [✔️ **Available**](enhancements/helpful/helpful_117.md) | [✔️ **Available**](enhancements/improvements/Improvementsl117.md) | [✔️ **Available**](modpacktools/modpacktools_117.md) |
+| 1.16.x | [✔️ **Available**](enhancements/helpful/helpful_116.md) | [✔️ **Available**](enhancements/improvements/improvements_116.md) | [✔️ **Available**](modpacktools/modpacktools_116.md) |
+| 1.15.x | [⚠️ **WIP**](enhancements/helpful/helpful_115.md) | [⚠️ **WIP**](enhancements/improvements/improvements_115.md) | [✔️ **Available**](modpacktools/modpacktools_115.md) |
+| 1.14.x | [⚠️ **WIP**](enhancements/helpful/helpful_114.md) | [⚠️ **WIP**](enhancements/improvements/improvements_114.md) | [✔️ **Available**](modpacktools/modpacktools_114.md) |
+| 1.12.x | [⚠️ **WIP**](enhancements/helpful/helpful_112.md) | [⚠️ **WIP**](enhancements/improvements/improvements_112.md) | [✔️ **Available**](modpacktools/modpacktools_112.md) |
+| 1.8.9 and below | [⚠️ **WIP**](enhancements/helpful/helpful_old.md) | [⚠️ **WIP**](enhancements/improvements/improvements_old.md) | [✔️ **Available**](modpacktools/modpacktools_old.md) |
 ___
 
 ## [Java Arguments optimization](JavaArgumentsOptimization.md)

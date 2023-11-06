@@ -1,6 +1,6 @@
-# Bugfixing Mods
+# Bug Fixing Mods
 
-A list of bugfixing mods for 1.8.x and below
+A list of bug fixing mods for Legacy Fabric / Forge 1.8.x and below.
 
 Any suggestions/complaints?
 
@@ -11,7 +11,7 @@ We have partnered with BisectHosting; this is an exciting step for us. All money
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 
-## Forge 1.8.X
+## Forge 1.8.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -22,7 +22,7 @@ We have partnered with BisectHosting; this is an exciting step for us. All money
 | [NetherPortalFix](https://modrinth.com/mod/netherportalfix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/netherportalfix)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/TwelveIterationMods/NetherPortalFix)| Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 | [RandomPatches](https://modrinth.com/mod/randompatches) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/randompatches)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/TheRandomLabs/RandomPatches) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | None | [MIT](/licenses/Licenses.md#mit) 
 
-## Forge 1.7.X
+## Forge 1.7.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -34,13 +34,13 @@ We have partnered with BisectHosting; this is an exciting step for us. All money
 | [Healer](https://modrinth.com/mod/healer) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/healer)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/healer)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/Glease/Healer/) | None |  Alternative to FoamFix's log4j vulnerability fix | gleee8 | Both | None | [MIT](/licenses/Licenses.md#mit)
 | [KaizPatchX](https://github.com/Kai-Z-JP/KaizPatchX) [![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/Kai-Z-JP/KaizPatchX) | Unknown | Fixes some bugs in RTM and makes it more useful! RTM = [RealTrainMod](https://www.curseforge.com/minecraft/mc-mods/realtrainmod) | Kai-Z-JP | Both | None | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 
-## Legacy Fabric 1.8.X
+## Legacy Fabric 1.8.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | [MCMouser](https://modrinth.com/mod/mcmouser) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/mcmouser)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/mcmouser)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/MinecraftMachina/McMouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
 
-## Legacy Fabric b1.7.X
+## Legacy Fabric b1.7.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |

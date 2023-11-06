@@ -1,6 +1,6 @@
-# Bugfixing Mods
+# Bug Fixing Mods
 
-A list of bugfixing mods for 1.18.x forge/fabric versions.
+A list of bug fixing mods for 1.18.x Fabric/Forge versions.
 
 Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
@@ -10,7 +10,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-118x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-118x)
 
-## Fabric 1.18.X
+## Fabric 1.18.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -50,7 +50,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-118x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-118x)
 
-## Forge 1.18.X
+## Forge 1.18.x
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
