@@ -1,6 +1,6 @@
-# Bugfixing Mods
+# Bug Fixing Mods
 
-A list of bugfixing mods for 1.20.x forge/fabric versions.
+A list of bug fixing mods for 1.20.x forge/fabric versions.
 
 Any suggestions/complaints?
 
@@ -15,7 +15,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | :--: | :-------------------: | :-------: | :---: | :---: | :---: | :---: |
-| [Debugify](https://modrinth.com/mod/debugify) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/debugify)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/debugify)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/isXander/Debugify/)  | Unknown | Fixes a variety of bugs. | IsXander | Both | none | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
+| [Debugify](https://modrinth.com/mod/debugify) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/debugify)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/debugify)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/isXander/Debugify/)  | Unknown | Fixes a variety of bugs. | IsXander | Both | none | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-119x)
 
@@ -30,6 +30,6 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 | Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
 | :--: | :-------------------: | :-------: | :---: | :---: | :---: | :---: |
-| [Debugify](https://modrinth.com/mod/debugify) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/debugify)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/debugify)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/isXander/Debugify/)  | Unknown | Fixes a variety of bugs. | IsXander | Both | none | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
+| [Debugify](https://modrinth.com/mod/debugify) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/debugify)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/debugify)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/isXander/Debugify/)  | Unknown | Fixes a variety of bugs. | IsXander | Both | none | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-119x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-119x)[![Quilt](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Quilt.png)](#quilt-119x)

@@ -25,17 +25,17 @@ ___
 | Version | Performance | Bugfixes |
 | :-: | :-: | :-: |
 | | *Mods that help improve performance* | *Mods that fix bugs* |
-| 1.20.x | [✔️ **Available**](Performance/Performance120.md) | [✔️ **Available**](BugFixes/BugFixes120.md) |
-| 1.19.x | [✔️ **Available**](Performance/Performance119.md) | [✔️ **Available**](BugFixes/BugFixes119.md) |
-| 1.18.x | [✔️ **Available**](Performance/Performance118.md) | [✔️ **Available**](BugFixes/BugFixes118.md) |
-| 1.17.x | [✔️ **Available**](Performance/Performance117.md) | [✔️ **Available**](BugFixes/BugFixes117.md) |
-| 1.16.x | [✔️ **Available**](Performance/Performance116.md) | [✔️ **Available**](BugFixes/BugFixes116.md) |
-| 1.15.x | [✔️ **Available**](Performance/Performance115.md) | [✔️ **Available**](BugFixes/BugFixes115.md) |
-| 1.14.x | [✔️ **Available**](Performance/Performance114.md) | [✔️ **Available**](BugFixes/BugFixes114.md) |
-| 1.12.x | [✔️ **Available**](Performance/Performance112.md) | [✔️ **Available**](BugFixes/BugFixes112.md) |
-| 1.8.9 and below | [✔️ **Available**](Performance/PerformanceOld.md) | [✔️ **Available**](BugFixes/BugFixesOld.md) |
+| 1.20.x | [✔️ **Available**](performance/Performance120.md) | [✔️ **Available**](bugfixes/bugfixes_120.md) |
+| 1.19.x | [✔️ **Available**](performance/Performance119.md) | [✔️ **Available**](bugfixes/bugfixes_119.md) |
+| 1.18.x | [✔️ **Available**](performance/Performance118.md) | [✔️ **Available**](bugfixes/bugfixes_118.md) |
+| 1.17.x | [✔️ **Available**](performance/Performance117.md) | [✔️ **Available**](bugfixes/bugfixes_117.md) |
+| 1.16.x | [✔️ **Available**](performance/Performance116.md) | [✔️ **Available**](bugfixes/bugfixes_116.md) |
+| 1.15.x | [✔️ **Available**](performance/Performance115.md) | [✔️ **Available**](bugfixes/bugfixes_115.md) |
+| 1.14.x | [✔️ **Available**](performance/Performance114.md) | [✔️ **Available**](bugfixes/bugfixes_114.md) |
+| 1.12.x | [✔️ **Available**](performance/Performance112.md) | [✔️ **Available**](bugfixes/bugfixes_112.md) |
+| 1.8.9 and below | [✔️ **Available**](performance/PerformanceOld.md) | [✔️ **Available**](bugfixes/bugfixes_old.md) |
 
-## [Note on Optifine](Performance/Note%20on%20Optifine.md)
+## [Note on OptiFine](performance/Note%20on%20OptiFine.md)
 
 ### Enhancement mods
 
