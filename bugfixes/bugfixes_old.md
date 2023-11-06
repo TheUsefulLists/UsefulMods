@@ -1,0 +1,50 @@
+# Bug Fixing Mods
+
+A list of bug fixing mods for Legacy Fabric / Forge 1.8.x and below.
+
+Any suggestions/complaints?
+
+Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+
+[![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
+We have partnered with BisectHosting; this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
+
+## Forge 1.8.x
+
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Born in a Barn](https://modrinth.com/mod/born-in-a-barn) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/born-in-a-barn)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn) | Unknown | This mod fixes a Minecraft bug where Village doors keep chunks loaded. | Speiger | Server | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
+| [Healer](https://modrinth.com/mod/healer) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/healer)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/healer)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/Glease/Healer/) | None |  Alternative to FoamFix's log4j vulnerability fix | gleee8 | Both | None | [MIT](/licenses/Licenses.md#mit)
+| [HitDelayFix](https://github.com/ghast/HitDelayFixMod) [![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/ghast/HitDelayFixMod) | Unknown | Fixes the hit delay in minecraft 1.8 combat. | standayweb | Client | None | [MIT](/licenses/Licenses.md#mit)
+| [MCMouser](https://modrinth.com/mod/mcmouser) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/mcmouser)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/mcmouser)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/MinecraftMachina/McMouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
+| [NetherPortalFix](https://modrinth.com/mod/netherportalfix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/netherportalfix)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/TwelveIterationMods/NetherPortalFix)| Unknown | Keeps track of what portals a player went through in order to ensure correct destinations when the player is going back through the same portals. | BlayTheNinth | Server | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
+| [RandomPatches](https://modrinth.com/mod/randompatches) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/randompatches)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/TheRandomLabs/RandomPatches) | Unknown | RandomPatches is a mod that contains a bunch of miscellaneous patches for Minecraft | TheRandomLabs | Both | None | [MIT](/licenses/Licenses.md#mit) 
+
+## Forge 1.7.x
+
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [ASM Fixes](https://www.curseforge.com/minecraft/mc-mods/asm-fixes-j-a-f-m) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/asm-fixes-j-a-f-m) | Unknown | Stops a client/server Potion ID mismatch from causing a client crash. Aims to clean up the console by removing Numina Console Spam | TheMattaBase, covers1624 | Both | None | [MIT](/licenses/Licenses.md#mit)
+| [Biome Decoration Fix](https://www.curseforge.com/minecraft/mc-mods/biome-decoration-fix) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/biome-decoration-fix) | Unknown | Fixes a crash commonly occurring with a lot of heavy worldgen mods installed | tclproject | Both | None | [MIT](/licenses/Licenses.md#mit)
+| [BugTorch](https://modrinth.com/mod/bugtorch) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/bugtorch)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/jss2a98aj/BugTorch) | Unknown | Fixes many bugs and backports some features | jss2a98aj | Both | None | [MIT](/licenses/Licenses.md#mit)
+| [Careful Cast Corrector](https://www.curseforge.com/minecraft/mc-mods/careful-cast-corrector-ccc) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/careful-cast-corrector-ccc) | Unknown | Fixes an extremely rare case of crashing in worldgen | Speiger | Both | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
+| [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/Charles445/DamageTilt/tree/1.7) | Unknown | Re-adds damage tilt | Charles445 | Client | None | [MIT](/licenses/Licenses.md#mit)
+| [Healer](https://modrinth.com/mod/healer) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/healer)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/healer)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/Glease/Healer/) | None |  Alternative to FoamFix's log4j vulnerability fix | gleee8 | Both | None | [MIT](/licenses/Licenses.md#mit)
+| [KaizPatchX](https://github.com/Kai-Z-JP/KaizPatchX) [![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/Kai-Z-JP/KaizPatchX) | Unknown | Fixes some bugs in RTM and makes it more useful! RTM = [RealTrainMod](https://www.curseforge.com/minecraft/mc-mods/realtrainmod) | Kai-Z-JP | Both | None | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
+
+## Legacy Fabric 1.8.x
+
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [MCMouser](https://modrinth.com/mod/mcmouser) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/mcmouser)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/mcmouser)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/MinecraftMachina/McMouser) | Unknown |  A mod that fixes various mouse bugs on macOS. | ViRb3 | Client | None | [All Rights Reserved](/licenses/Licenses.md#all-rights-reserved)
+
+## Legacy Fabric b1.7.x
+
+| Name | Known Incompatibilities | Description | Author | Bugfixing | [Label](/README.md#labels) | License |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Font Fixer](https://modrinth.com/mod/font-fixer) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/font-fixer) | Unknown | Fixes the font renderer in legacy MC. | HyperSpeeed | Client | None | [MIT](/licenses/Licenses.md#mit)
+| [MojangFix](https://modrinth.com/mod/mojangfix) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/mojangfix)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/images/platform_icons/github.png)](https://github.com/js6pak/mojangfix) | Unknown | Minecraft b1.7.3 mod that fixes skins, authentication and more | js6pak | Client | None | [LGPL-3.0](/licenses/Licenses.md#lgpl-30)
+
+[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
