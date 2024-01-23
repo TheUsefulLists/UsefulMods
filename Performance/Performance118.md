@@ -5,10 +5,10 @@ A list of performance-enhancing mods for 1.18.x forge/fabric versions.
 Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-Dont want to mess around with mods? try out Fabulously Optimized [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/modpack/fabulously-optimized) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
+Don't want to mess around with mods? try out Fabulously Optimized [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/modpack/fabulously-optimized) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-118x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-118x)
 
