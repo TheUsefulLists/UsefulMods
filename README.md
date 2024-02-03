@@ -20,7 +20,7 @@ ___
 
 ## Version List
 
-### Performance and Bug fixing mods
+### Performance and Bug Fixing mods
 
 |     Version     |                    Performance                    |                  Bugfixes                   |
 |:---------------:|:-------------------------------------------------:|:-------------------------------------------:|
@@ -35,7 +35,7 @@ ___
 |     1.12.x      | [✔️ **Available**](Performance/Performance112.md) | [✔️ **Available**](BugFixes/BugFixes112.md) |
 |     1.8.9       | [✔️ **Available**](Performance/Performance189.md) | [✔️ **Available**](BugFixes/BugFixes189.md) |
 |     1.7.10      | [✔️ **Available**](Performance/Performance1710.md) | [✔️ **Available**](BugFixes/BugFixes1710.md) |
-|     Older       | [✔️ **Available**](Performance/PerformanceOld.md) | [✔️ **Available**](BugFixes/BugFixesOld.md) |
+|     Older       | [⚠️ **WIP**](Performance/PerformanceOld.md) | [⚠️ **WIP**](BugFixes/BugFixesOld.md) |
 
 ## [Note on OptiFine](Performance/Note%20on%20OptiFine.md)
 
