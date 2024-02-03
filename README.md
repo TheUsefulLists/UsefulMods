@@ -9,7 +9,7 @@ Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull request fixing it!)
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
 ___
 
 ## Disclaimer
@@ -33,7 +33,9 @@ ___
 |     1.15.x      | [✔️ **Available**](Performance/Performance115.md) | [✔️ **Available**](BugFixes/BugFixes115.md) |
 |     1.14.x      | [✔️ **Available**](Performance/Performance114.md) | [✔️ **Available**](BugFixes/BugFixes114.md) |
 |     1.12.x      | [✔️ **Available**](Performance/Performance112.md) | [✔️ **Available**](BugFixes/BugFixes112.md) |
-| 1.8.9 and below | [✔️ **Available**](Performance/PerformanceOld.md) | [✔️ **Available**](BugFixes/BugFixesOld.md) |
+|     1.8.9       | [✔️ **Available**](Performance/Performance189.md) | [✔️ **Available**](BugFixes/BugFixes189.md) |
+|     1.7.10      | [✔️ **Available**](Performance/Performance1710.md) | [✔️ **Available**](BugFixes/BugFixes1710.md) |
+|     Older       | [✔️ **Available**](Performance/PerformanceOld.md) | [✔️ **Available**](BugFixes/BugFixesOld.md) |
 
 ## [Note on Optifine](Performance/Note%20on%20Optifine.md)
 
