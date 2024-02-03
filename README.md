@@ -37,7 +37,7 @@ ___
 |     1.7.10      | [✔️ **Available**](Performance/Performance1710.md) | [✔️ **Available**](BugFixes/BugFixes1710.md) |
 |     Older       | [✔️ **Available**](Performance/PerformanceOld.md) | [✔️ **Available**](BugFixes/BugFixesOld.md) |
 
-## [Note on Optifine](Performance/Note%20on%20Optifine.md)
+## [Note on OptiFine](Performance/Note%20on%20OptiFine.md)
 
 ### Enhancement mods
 
