@@ -21,7 +21,7 @@ body:
   - type: input
     attributes:
       label: Dose this PR fix or close any open issues?
-      description: "If so, please link them here with Fixes #(issue number) or Closes #(issue number) as relevent. If not, leave blank."
+      description: "If so, please link them here with Fixes #(issue number) or Closes #(issue number) as relevant. If not, leave blank."
     validations:
       required: false
   - type: textarea

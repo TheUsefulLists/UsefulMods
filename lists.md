@@ -5,13 +5,13 @@ Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
 ## Disclaimer
 
-We are not affiliated with any of these lists and they could contain malware or other harmful content, show caution when using them.
+We are not affiliated with any of these lists, and they could contain malware or other harmful content, show caution when using them.
 
-Do you also make or know of a list of Minecraft mods? Open a pull request, a issue or a ticket on our discord server and we'll investigate the possibility of adding it to this list.
+Do you also make or know of a list of Minecraft mods? Open a pull request, an issue or a ticket on our discord server, and we'll investigate the possibility of adding it to this list.
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 

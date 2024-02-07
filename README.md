@@ -9,7 +9,7 @@ Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull request fixing it!)
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 ___
 
 ## Disclaimer
@@ -22,34 +22,34 @@ ___
 
 ### Performance and Bug fixing mods
 
-| Version | Performance | Bugfixes |
-| :-: | :-: | :-: |
-| | *Mods that help improve performance* | *Mods that fix bugs* |
-| 1.20.x | [✔️ **Available**](Performance/Performance120.md) | [✔️ **Available**](BugFixes/BugFixes120.md) |
-| 1.19.x | [✔️ **Available**](Performance/Performance119.md) | [✔️ **Available**](BugFixes/BugFixes119.md) |
-| 1.18.x | [✔️ **Available**](Performance/Performance118.md) | [✔️ **Available**](BugFixes/BugFixes118.md) |
-| 1.17.x | [✔️ **Available**](Performance/Performance117.md) | [✔️ **Available**](BugFixes/BugFixes117.md) |
-| 1.16.x | [✔️ **Available**](Performance/Performance116.md) | [✔️ **Available**](BugFixes/BugFixes116.md) |
-| 1.15.x | [✔️ **Available**](Performance/Performance115.md) | [✔️ **Available**](BugFixes/BugFixes115.md) |
-| 1.14.x | [✔️ **Available**](Performance/Performance114.md) | [✔️ **Available**](BugFixes/BugFixes114.md) |
-| 1.12.x | [✔️ **Available**](Performance/Performance112.md) | [✔️ **Available**](BugFixes/BugFixes112.md) |
+|     Version     |                    Performance                    |                  Bugfixes                   |
+|:---------------:|:-------------------------------------------------:|:-------------------------------------------:|
+|                 |       *Mods that help improve performance*        |            *Mods that fix bugs*             |
+|     1.20.x      | [✔️ **Available**](Performance/Performance120.md) | [✔️ **Available**](BugFixes/BugFixes120.md) |
+|     1.19.x      | [✔️ **Available**](Performance/Performance119.md) | [✔️ **Available**](BugFixes/BugFixes119.md) |
+|     1.18.x      | [✔️ **Available**](Performance/Performance118.md) | [✔️ **Available**](BugFixes/BugFixes118.md) |
+|     1.17.x      | [✔️ **Available**](Performance/Performance117.md) | [✔️ **Available**](BugFixes/BugFixes117.md) |
+|     1.16.x      | [✔️ **Available**](Performance/Performance116.md) | [✔️ **Available**](BugFixes/BugFixes116.md) |
+|     1.15.x      | [✔️ **Available**](Performance/Performance115.md) | [✔️ **Available**](BugFixes/BugFixes115.md) |
+|     1.14.x      | [✔️ **Available**](Performance/Performance114.md) | [✔️ **Available**](BugFixes/BugFixes114.md) |
+|     1.12.x      | [✔️ **Available**](Performance/Performance112.md) | [✔️ **Available**](BugFixes/BugFixes112.md) |
 | 1.8.9 and below | [✔️ **Available**](Performance/PerformanceOld.md) | [✔️ **Available**](BugFixes/BugFixesOld.md) |
 
 ## [Note on Optifine](Performance/Note%20on%20Optifine.md)
 
 ### Enhancement mods
 
-| Version | Helpful | Improvements | Modpack Tools |
-| :-: | :-: | :-: | :-: |
-| | *Mods that help with certain aspects of the game* | *Mods that improve on aspects of the game* | *Useful mods for modpack creators* |
-| 1.19.x | [✔️ **Available**](Enhancements/Helpful/Helpful119.md) | [✔️ **Available**](Enhancements/Improvements/Improvements119.md) | [✔️ **Available**](modpacktools/modpacktools119.md) |
-| 1.18.x | [✔️ **Available**](Enhancements/Helpful/Helpful118.md) | [✔️ **Available**](Enhancements/Improvements/Improvements118.md) | [✔️ **Available**](modpacktools/modpacktools118.md) |
-| 1.17.x | [✔️ **Available**](Enhancements/Helpful/Helpful117.md) | [✔️ **Available**](Enhancements/Improvements/Improvementsl117.md) | [✔️ **Available**](modpacktools/modpacktools117.md) |
-| 1.16.x | [✔️ **Available**](Enhancements/Helpful/Helpful116.md) | [✔️ **Available**](Enhancements/Improvements/Improvements116.md) | [✔️ **Available**](modpacktools/modpacktools116.md) |
-| 1.15.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful115.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements115.md) | [✔️ **Available**](modpacktools/modpacktools115.md) |
-| 1.14.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful114.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements114.md) | [✔️ **Available**](modpacktools/modpacktools114.md) |
-| 1.12.x | [⚠️ **WIP**](Enhancements/Helpful/Helpful112.md) | [⚠️ **WIP**](Enhancements/Improvements/Improvements112.md) | [✔️ **Available**](modpacktools/modpacktools112.md) |
-| 1.8.9 and below | [⚠️ **WIP**](Enhancements/Helpful/HelpfulOld.md) | [⚠️ **WIP**](Enhancements/Improvements/ImprovementsOld.md) | [✔️ **Available**](modpacktools/modpacktoolsold.md) |
+|     Version     |                        Helpful                         |                           Improvements                           |                    Modpack Tools                    |
+|:---------------:|:------------------------------------------------------:|:----------------------------------------------------------------:|:---------------------------------------------------:|
+|                 |   *Mods that help with certain aspects of the game*    |            *Mods that improve on aspects of the game*            |         *Useful mods for modpack creators*          |
+|     1.19.x      | [✔️ **Available**](Enhancements/Helpful/Helpful119.md) | [✔️ **Available**](Enhancements/Improvements/Improvements119.md) | [✔️ **Available**](modpacktools/modpacktools119.md) |
+|     1.18.x      | [✔️ **Available**](Enhancements/Helpful/Helpful118.md) | [✔️ **Available**](Enhancements/Improvements/Improvements118.md) | [✔️ **Available**](modpacktools/modpacktools118.md) |
+|     1.17.x      | [✔️ **Available**](Enhancements/Helpful/Helpful117.md) | [✔️ **Available**](Enhancements/Improvements/Improvements117.md) | [✔️ **Available**](modpacktools/modpacktools117.md) |
+|     1.16.x      | [✔️ **Available**](Enhancements/Helpful/Helpful116.md) | [✔️ **Available**](Enhancements/Improvements/Improvements116.md) | [✔️ **Available**](modpacktools/modpacktools116.md) |
+|     1.15.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful115.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements115.md)    | [✔️ **Available**](modpacktools/modpacktools115.md) |
+|     1.14.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful114.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements114.md)    | [✔️ **Available**](modpacktools/modpacktools114.md) |
+|     1.12.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful112.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements112.md)    | [✔️ **Available**](modpacktools/modpacktools112.md) |
+| 1.8.9 and below |    [⚠️ **WIP**](Enhancements/Helpful/HelpfulOld.md)    |    [⚠️ **WIP**](Enhancements/Improvements/ImprovementsOld.md)    | [✔️ **Available**](modpacktools/modpacktoolsold.md) |
 ___
 
 ## [Java Arguments optimization](JavaArgumentsOptimization.md)
@@ -96,7 +96,7 @@ You might find some superscripted numbers around the repository. These are used 
 ___
 ² Cull Particles isn't needed anymore in newer Forge versions, as it was implemented in Forge
 ___
-³ Do not blame me if you didn't read this notice. *If you try to load a older world in a newer instance of the game, and you have one of these mods installed, bad things will happen*, make sure to uninstall the mod first
+³ Do not blame me if you didn't read this notice. *If you try to load an older world in a newer instance of the game, and you have one of these mods installed, bad things will happen*, make sure to uninstall the mod first
 ___
 ⁴ Some of the mods that have Sodium as an incompatibility, might work if you use [Indium](https://modrinth.com/mod/indium)
 ___

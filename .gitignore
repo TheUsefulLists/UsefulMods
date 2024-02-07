@@ -1,0 +1,11 @@
+### Gitignore
+
+# Ignore all user/editor specific files
+
+# Visual Studio Code
+.vscode
+
+# jetbrains
+.idea
+
+

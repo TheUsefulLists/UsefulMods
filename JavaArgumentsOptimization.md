@@ -7,7 +7,7 @@ Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 
@@ -19,20 +19,20 @@ Here's how to change your java arguments in the official Minecraft Launcher.
 2. Under 'More Options', you will find 'JVM arguments'.
 3. You can change or add your JVM arguments here.
 
-**Don't know a lot about java Args? use this [tool](https://flags.sh)**
+**Don't know a lot about java Args? use this [tool](https://simplymc.art/flags/)**
 
 ### Note about Pterodactyl
 
 When running a server on an instance of [Pterodactyl](https://pterodactyl.io) do not set Xms to all of the available memory.
-It is recommended when running on pterodactyl you set Xms 1G to 1.5G less then Xmx to avoid the Out Of Memory Killer (OOMKiller) from terminating your server.
+It is recommended when running on pterodactyl you set Xms 1G to 1.5G less than Xmx to avoid the Out Of Memory Killer (OOMKiller) from terminating your server.
 
 ## Aikar's flags
 
 These flags are made by Aikar and you can find the explanation for the flags [here](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/).
 
-Use these flags exactly, only changing Xmx and Xms. These flags work and scale accordingly to any size of memory. See section [More then 12G](#more-then-12g) below for additional large memory optimizations
+Use these flags exactly, only changing Xmx and Xms. These flags work and scale accordingly to any size of memory. See section [More than 12G](#more-than-12g) below for additional large memory optimizations
 
-If you're using these args and it doesn't work, remove java from the start. Some require java at the start, others do not.
+If you're using these args, and it doesn't work, remove java from the start. Some require java at the start, others do not.
 
 If using these flags in a script, for example to start a server. These flags should come before
 `-jar someJarFile.jar`
@@ -41,9 +41,9 @@ If using these flags in a script, for example to start a server. These flags sho
 java -Xms10G -Xmx10G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true
 ```
 
-### More then 12G
+### More than 12G
 
-Aikar Notes if your using an Xmx value greater then 12G add/adjust the following flags. For bigger amount of memory these provide additional optimizations for GC
+Aikar Notes if your using a Xmx value greater than 12G add/adjust the following flags. For bigger amount of memory these provide additional optimizations for GC
 
 ```sh
 -XX:G1NewSizePercent=40
@@ -70,7 +70,7 @@ Append the letter k or K to indicate kilobytes, m or M to indicate megabytes, g 
 
     Sets the minimum and the initial size of the heap. It is best to set Xms equal to Xmx (the maximum heap size) to minimize garbage collections.
 
-    On Pterodactyl set Xms 1 to 1.5G less then Xmx
+    On Pterodactyl set Xms 1 to 1.5G less than Xmx
 
 - #### Xmx
 
