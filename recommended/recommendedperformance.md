@@ -7,7 +7,7 @@ Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is a exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#legacy-fabric-112x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-112x)
 
@@ -18,7 +18,7 @@ We have partnered with BisectHosting this is a exciting step for us. All money e
 
 Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer.
 This results in increased performance and resourcepack support!
-By default this pack includes models that perfectly mimic vanilla behavior, to change the look of the bed<br>
+By default, this pack includes models that perfectly mimic vanilla behavior, to change the look of the bed<br>
 Supported versions: 1.19.X, 1.18.X, 1.17.X, 1.16.X<br>
 Compatibility: As of now any compatibility issues is unknown
 
