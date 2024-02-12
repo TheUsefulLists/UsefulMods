@@ -7,9 +7,9 @@ Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 
 ## Addons for CraftTweaker
 
@@ -85,4 +85,4 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Zen Utils](https://www.curseforge.com/minecraft/mc-mods/zenutil) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/zenutil)[<img src=/images/github.ico height=18>](https://github.com/friendlyhj/ZenUtils) | Unknown | This Mod exposes more methods to ZenScript. | youyihj | 1.12.2 | [Yes](https://github.com/friendlyhj/ZenUtils/wiki) | none |                 [MIT](/licenses/Licenses.md#mit)                 |
 | [ZSRarity](https://www.curseforge.com/minecraft/mc-mods/zsrarity) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/zsrarity)[<img src=/images/github.ico height=18>](https://github.com/TrashboxBobylev/ZSRarity) | Unknown | ZSRarity adds an ability to select one of 16 default colors for your items as "rarity", which will make their names in GUI be colored! | trashbox_bobylev | 1.12.2 | [Kinda](https://www.curseforge.com/minecraft/mc-mods/zsrarity) | none |                 [MIT](/licenses/Licenses.md#mit)                 |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)

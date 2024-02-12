@@ -51,7 +51,7 @@ ___
 
 | Commercial use | Modification | Distribution | Patent use | Use Trademark | Private use | Liability | Warranty | Conditions |
 |----------------|--------------|--------------|------------|---------------|-------------|-----------|----------|------------|
-| Allowed        | Allowed      | Allowed      | No         | No            | Allowed     | No        | No       | None Yet.  |
+| Allowed        | Allowed      | Allowed      | No         | No            | Allowed     | No        | No       | None.  |
 ___
 
 ## All Rights Reserved

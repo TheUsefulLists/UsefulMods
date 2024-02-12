@@ -6,7 +6,7 @@ Any suggestions/complaints?
 
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 
 ## Addons for Game Stages
 
@@ -33,4 +33,4 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 | [Waila Stages](https://www.curseforge.com/minecraft/mc-mods/waila-stages) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/waila-stages)[<img src=/images/github.ico height=18>](https://github.com/Darkhax-Minecraft/WailaStages) | Unknown | This mod is an addon for the GameStage API. This allows for access to the Waila HUD to be gated behind a stage. You can gate specific tool tip entries behind a stage as well. | DarkhaxDev | 1.12.x, 1.11.2 | [Kinda](https://github.com/Darkhax-Minecraft/WailaStages) | none |            [LGPL-2.1](/licenses/Licenses.md#LGPL-21)            |
 | [ZenStages](https://www.curseforge.com/minecraft/mc-mods/zenstages) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/zenstages)[<img src=/images/github.ico height=18>](https://github.com/DarkPacks/ZenStages) | Unknown | ZenStages is a modpack makers tool when using GameStages are a core part of their pack. What ZenStages is there to give is easier creation and management of Stages. | artdude543, Firstnecron | 1.12.2 | [Yes](https://docs.blamejared.com/1.12/en/Mods/GameStages/ZenStages/ZenStages) | none |             [GPL-3.0](/licenses/Licenses.md#GPL-3)              |
 
-[![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
+[![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)

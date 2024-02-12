@@ -1,13 +1,13 @@
 # OptiFine in Modded Minecraft: Considerations and Alternatives
 
 ## Bullet Points
-* You may have noticed that Optifine isn't on any of these lists. We are aware of this and have not included Optifine because of its various incompatibility issues.
+* You may have noticed that OptiFine isn't on any of these lists. We are aware of this and have not included OptiFine because of its various incompatibility issues.
 * OptiFine is a popular mod for improving graphics and performance in Minecraft
 * May not always be compatible with certain mods
 * May not provide significant performance improvements in all modded Minecraft environments
 * Consider these factors and potential alternatives before using OptiFine in a modded Minecraft environment
 
-## About Optifine
+## About OptiFine
 
 OptiFine is a popular mod for Minecraft that is designed to improve the graphics and performance of the game. However, it may not always be compatible with certain mods or versions of Minecraft, and it may not provide significant performance improvements in all modded Minecraft environments. This is because OptiFine's code is closed-source, which can make it difficult for other mod developers to troubleshoot any issues that may arise when using OptiFine with their mods. Additionally, OptiFine is not natively available on Fabric, a mod loading system used by many popular mods, which can make it difficult to use OptiFine with these mods without a workaround. Some mods may also have features that conflict with OptiFine or override its features, leading to compatibility issues.
 
