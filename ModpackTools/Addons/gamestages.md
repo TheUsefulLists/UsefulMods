@@ -4,7 +4,7 @@ A list of Game Stages Addons for all versions, All mods in here has Game Stages 
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [Discord Server](https://discord.gg/8nzHYhVUQS), or use the [Issues](https://github.com/TheUsefulLists/UsefulMods/issues) page.
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 
