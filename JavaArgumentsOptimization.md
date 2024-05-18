@@ -7,24 +7,24 @@ Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
 
 ## Changing Java Arguments
 
-Here's how to change your java arguments in the official Minecraft Launcher.
+Here's how to change your Java arguments in the official Minecraft Launcher.
 
 1. Open the Minecraft Launcher, click on 'Installations', click on your profile and click on 'More Options'.
 2. Under 'More Options', you will find 'JVM arguments'.
 3. You can change or add your JVM arguments here.
 
-**Don't know a lot about java Args? use this [tool](https://simplymc.art/flags/)**
+**Don't know a lot about Java Args? use this [tool](https://simplymc.art/flags/)**
 
 ### Note about Pterodactyl
 
 When running a server on an instance of [Pterodactyl](https://pterodactyl.io) do not set Xms to all of the available memory.
-It is recommended when running on pterodactyl you set Xms 1G to 1.5G less than Xmx to avoid the Out Of Memory Killer (OOMKiller) from terminating your server.
+It is recommended when running on Pterodactyl you set Xms 1G to 1.5G less than Xmx to avoid the Out Of Memory Killer (OOMKiller) from terminating your server.
 
 ## Aikar's flags
 
@@ -32,7 +32,7 @@ These flags are made by Aikar and you can find the explanation for the flags [he
 
 Use these flags exactly, only changing Xmx and Xms. These flags work and scale accordingly to any size of memory. See section [More than 12G](#more-than-12g) below for additional large memory optimizations
 
-If you're using these args, and it doesn't work, remove java from the start. Some require java at the start, others do not.
+If you're using these args, and it doesn't work, remove Java from the start. Some require Java at the start, others do not.
 
 If using these flags in a script, for example to start a server. These flags should come before
 `-jar someJarFile.jar`

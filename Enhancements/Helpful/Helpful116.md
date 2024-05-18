@@ -7,7 +7,7 @@ Any suggestions/complaints?
 Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
-We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, Not including myself (Kevsky)
+We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)[![Fabric](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Fabric.png)](#fabric-116x)[![Forge](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Forge.png)](#forge-116x)
 
@@ -56,7 +56,7 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) | Unknown | Farsight is a client-side util which lets you see much further in already visited chunks than the servers chunk distance. | someaddon | Client | none |
 | [Full Brightness Toggle](https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle) | Unknown | Full Brightness Toggle is a client-side mod which allows players to instantly turn the brightness (gamma) to full with the press of a button | Serilum | Client | none |
 | [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) | Unknown | Improves crashes and provides useful information. | NatanFudge | Both | None |
-| [Oculus](https://modrinth.com/mod/oculus) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/oculus)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/oculus)[![Github Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Asek3/Oculus) | Unknown | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | Asek3 | Client | None |
+| [Oculus](https://modrinth.com/mod/oculus) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/mod/oculus)[![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/oculus)[![GitHub Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Github.png)](https://github.com/Asek3/Oculus) | Unknown | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs | Asek3 | Client | None |
 | [WTHIT](https://modrinth.com/mod/wthit) | Unknown | Shows the name of the targetted block | deirn | Client | none |
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Unknown | Adds a minimap to Minecraft | xaero96 | Both | none |
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Unknown | Adds a self-writing fullscreen map to Minecraft | xaero96 | Both | none |
