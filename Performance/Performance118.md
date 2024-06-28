@@ -3,7 +3,7 @@
 A list of performance-enhancing mods for 1.18.x forge/fabric versions.
 
 Any suggestions/complaints?
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [Discord Server](https://discord.gg/8nzHYhVUQS), or use the [Issues](https://github.com/TheUsefulLists/UsefulMods/issues) page.
 
 Don't want to mess around with mods? try out Fabulously Optimized [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/modpack/fabulously-optimized) [![CurseForge Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/CurseForge.png)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized), or Simply Optimized [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/modpack/sop)
 

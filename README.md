@@ -6,7 +6,7 @@ A list of useful mods for most commonly-played versions.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or submit an issue (or a pull request fixing it!)
+Join our [Discord Server](https://discord.gg/8nzHYhVUQS), or — possibly along with a Pull Request — use the [Issues](https://github.com/TheUsefulLists/UsefulMods/issues) page!
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).

@@ -1,6 +1,6 @@
 # Performance Mods
 
-A list of performance-enhancing mods for older versions.
+A list of the recommended performance-enhancing mods for 1.8.9.
 
 Any suggestions/complaints?
 
@@ -10,7 +10,6 @@ Join our [Discord Server](https://discord.gg/8nzHYhVUQS), or use the [Issues](ht
 We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
 
 [![Home](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Buttons/Small/Home.png)](/README.md)
-
 
 ## Babric b1.7.3
 
