@@ -17,6 +17,13 @@ ___
 We try our best to check and make sure there are no malicious mods/software on our list. However, we can not be held responsible if you get infected with malware or a virus from anything on this list. It is not possible for us to check each and every version of every item on this list;
 You are responsible for checking anything you download from the internet using hashes (when provided), extraction software that allows you to see what is contained inside downloaded files, or by any means you see fit.
 ___
+## Modpacks
+We just released two new modpacks.
+
+[The Useful Pack](https://modrinth.com/modpack/the-useful-pack) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/modpack/the-useful-pack) a bare minimum modpack with just optimization and a few QOF mods, with full vanilla compatibility and feel.
+
+[The Useful Pack+](https://modrinth.com/modpack/the-useful-pack+) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/modpack/the-useful-pack+) with a ton of optimizations and enhancements mods while still keeping that full vanilla compatibility.
+___
 
 ## Version List
 
