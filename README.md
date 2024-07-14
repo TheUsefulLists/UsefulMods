@@ -32,6 +32,7 @@ ___
 |     Version     |                    Performance                    |                  Bugfixes                   |
 |:---------------:|:-------------------------------------------------:|:-------------------------------------------:|
 |                 |       *Mods that help improve performance*        |            *Mods that fix bugs*             |
+|     1.21.x      | [✔️ **Available**](Performance/Performance121.md) | [✔️ **Available**](BugFixes/BugFixes121.md) |
 |     1.20.x      | [✔️ **Available**](Performance/Performance120.md) | [✔️ **Available**](BugFixes/BugFixes120.md) |
 |     1.19.x      | [✔️ **Available**](Performance/Performance119.md) | [✔️ **Available**](BugFixes/BugFixes119.md) |
 |     1.18.x      | [✔️ **Available**](Performance/Performance118.md) | [✔️ **Available**](BugFixes/BugFixes118.md) |
