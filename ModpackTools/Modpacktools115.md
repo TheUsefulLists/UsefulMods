@@ -4,7 +4,7 @@ A list of Modpack tool mods for 1.15.x forge.
 
 Any suggestions/complaints?
 
-Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.
+Join our [Discord Server](https://discord.gg/8nzHYhVUQS), or use the [Issues](https://github.com/TheUsefulLists/UsefulMods/issues) page.
 
 [![Bisect Hosting Image](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Promo.png)](https://bisecthosting.com/UsefulLists)
 We have partnered with BisectHosting this is an exciting step for us. All money earned from this will go to the staff of UsefulLists, not including myself (Kevsky).
