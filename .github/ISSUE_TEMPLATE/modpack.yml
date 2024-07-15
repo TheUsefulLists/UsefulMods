@@ -1,0 +1,45 @@
+name: Modpack
+description: Report a issue related to the modpack!
+title: "[Modpack]"
+labels: ["Modpack"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      description: Issue will be closed if incomplete. These are required before submitting and by sumbitting you agree that you have actually done them.
+      options:
+        - label: I've checked that the issue has not already been reported.
+          required: true
+  - type: dropdown
+    attributes:
+      label: What modpack is this report for?
+      multiple: false
+      options:
+        - The Useful Pack
+        - The Useful Pack+
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: What version does this report apply to?
+      multiple: false
+      options:
+        - 1.0.1
+        - 1.1.1
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What is the issue?
+      description: Please provide a detailed description of the issue.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce.
+      description: Please provide a detailed explanation of the steps to reproduce the issue.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: (OPTIONAL) Any extra information about the issue?.
