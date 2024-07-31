@@ -26,7 +26,6 @@ We have partnered with BisectHosting this is an exciting step for us. All money 
 | [ESSENTIAL Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod) | Unknown | Essential is a quality of life mod that boosts Minecraft Java to the next level. | SparkUniverse_ | Client | none |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Unknown | Take insanely large screenshots because why not | ramidzkh | Client | none |
 | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | Unknown | Farsight is a client-side util which lets you see much further in already visited chunks than the servers chunk distance. | someaddon | Client | none |
-| [Flour's Various Tweaks](https://modrinth.com/mod/fvt) | Unknown | Various client-side tweaks & enhancements fabric mod | Flourick | Client | none |
 | [FPS - Display](https://modrinth.com/mod/fpsdisplay) | Unknown | A Fabric mod that shows your ingame FPS on screen | Grayray75 | Client | none |
 | [Full Brightness Toggle](https://www.curseforge.com/minecraft/mc-mods/full-brightness-toggle-fabric) | Unknown | Full Brightness Toggle is a client-side mod which allows players to instantly turn the brightness (gamma) to full with the press of a button | Serilum | Client | none |
 | [HealthCare](https://modrinth.com/mod/healthcare) | Unknown | Neat serverside mob health tags. | samolego | Server | none |
