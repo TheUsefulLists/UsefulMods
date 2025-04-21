@@ -65,3 +65,4 @@
 | frikinjay1       | Let Me Despawn                                          |   |
 | the_computerizer | Dark Redstone                                           |   |
 | fonnymunkey      | Frame Void Patch (MC-59363)                             |   |
+| Shadows_of_Fire  | Toast Control                                           |   |
