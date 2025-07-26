@@ -17,7 +17,9 @@ ___
 We try our best to check and make sure there are no malicious mods/software on our list. However, we can not be held responsible if you get infected with malware or a virus from anything on this list. It is not possible for us to check each and every version of every item on this list;
 You are responsible for checking anything you download from the internet using hashes (when provided), extraction software that allows you to see what is contained inside downloaded files, or by any means you see fit.
 ___
+
 ## Modpacks
+
 We just released two new modpacks.
 
 [The Useful Pack](https://modrinth.com/modpack/the-useful-pack) [![Modrinth Logo](https://raw.githubusercontent.com/TheUsefulLists/assets/main/Images/Platform_Icons/Modrinth.png)](https://modrinth.com/modpack/the-useful-pack) a bare minimum modpack with just optimization and a few QOF mods, with full vanilla compatibility and feel.
@@ -60,6 +62,7 @@ ___
 |     1.14.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful114.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements114.md)    | [✔️ **Available**](modpacktools/modpacktools114.md) |
 |     1.12.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful112.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements112.md)    | [✔️ **Available**](modpacktools/modpacktools112.md) |
 | 1.8.9 and below |    [⚠️ **WIP**](Enhancements/Helpful/HelpfulOld.md)    |    [⚠️ **WIP**](Enhancements/Improvements/ImprovementsOld.md)    | [✔️ **Available**](modpacktools/modpacktoolsold.md) |
+
 ___
 
 ## [Java Arguments optimization](JavaArgumentsOptimization.md)
@@ -71,6 +74,7 @@ ___
 ## Labels
 
 Labels are used to give you a better understanding of how a mod may act.
+
 | Name | Meaning |
 | :--: | :-----: |
 | Alpha | Mod is in alpha and therefore might be unstable. |
@@ -86,6 +90,7 @@ Labels are used to give you a better understanding of how a mod may act.
 ## Severity Level
 
 Severity Level is used alongside labels for a clearer understanding of how severe the issue is.
+
 | Level | Meaning |
 | :---: | :-----: |
 | 1 | Low chance to affect user |
@@ -96,6 +101,7 @@ Severity Level is used alongside labels for a clearer understanding of how sever
 | 6 | Very high chance to affect user |
 | 7 | Will affect user |
 | ? | Level of severity is unknown |
+
 ___
 
 ## Extra Information
