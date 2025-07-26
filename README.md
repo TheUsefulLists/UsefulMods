@@ -54,14 +54,14 @@ ___
 |     Version     |                        Helpful                         |                           Improvements                           |                    Modpack Tools                    |
 |:---------------:|:------------------------------------------------------:|:----------------------------------------------------------------:|:---------------------------------------------------:|
 |                 |   *Mods that help with certain aspects of the game*    |            *Mods that improve on aspects of the game*            |         *Useful mods for modpack creators*          |
-|     1.19.x      | [✔️ **Available**](Enhancements/Helpful/Helpful119.md) | [✔️ **Available**](Enhancements/Improvements/Improvements119.md) | [✔️ **Available**](modpacktools/modpacktools119.md) |
-|     1.18.x      | [✔️ **Available**](Enhancements/Helpful/Helpful118.md) | [✔️ **Available**](Enhancements/Improvements/Improvements118.md) | [✔️ **Available**](modpacktools/modpacktools118.md) |
-|     1.17.x      | [✔️ **Available**](Enhancements/Helpful/Helpful117.md) | [✔️ **Available**](Enhancements/Improvements/Improvements117.md) | [✔️ **Available**](modpacktools/modpacktools117.md) |
-|     1.16.x      | [✔️ **Available**](Enhancements/Helpful/Helpful116.md) | [✔️ **Available**](Enhancements/Improvements/Improvements116.md) | [✔️ **Available**](modpacktools/modpacktools116.md) |
-|     1.15.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful115.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements115.md)    | [✔️ **Available**](modpacktools/modpacktools115.md) |
-|     1.14.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful114.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements114.md)    | [✔️ **Available**](modpacktools/modpacktools114.md) |
-|     1.12.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful112.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements112.md)    | [✔️ **Available**](modpacktools/modpacktools112.md) |
-| 1.8.9 and below |    [⚠️ **WIP**](Enhancements/Helpful/HelpfulOld.md)    |    [⚠️ **WIP**](Enhancements/Improvements/ImprovementsOld.md)    | [✔️ **Available**](modpacktools/modpacktoolsold.md) |
+|     1.19.x      | [✔️ **Available**](Enhancements/Helpful/Helpful119.md) | [✔️ **Available**](Enhancements/Improvements/Improvements119.md) | [✔️ **Available**](ModpackTools/ModpackTools119.md) |
+|     1.18.x      | [✔️ **Available**](Enhancements/Helpful/Helpful118.md) | [✔️ **Available**](Enhancements/Improvements/Improvements118.md) | [✔️ **Available**](ModpackTools/ModpackTools118.md) |
+|     1.17.x      | [✔️ **Available**](Enhancements/Helpful/Helpful117.md) | [✔️ **Available**](Enhancements/Improvements/Improvements117.md) | [✔️ **Available**](ModpackTools/ModpackTools117.md) |
+|     1.16.x      | [✔️ **Available**](Enhancements/Helpful/Helpful116.md) | [✔️ **Available**](Enhancements/Improvements/Improvements116.md) | [✔️ **Available**](ModpackTools/ModpackTools116.md) |
+|     1.15.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful115.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements115.md)    | [✔️ **Available**](ModpackTools/ModpackTools115.md) |
+|     1.14.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful114.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements114.md)    | [✔️ **Available**](ModpackTools/ModpackTools114.md) |
+|     1.12.x      |    [⚠️ **WIP**](Enhancements/Helpful/Helpful112.md)    |    [⚠️ **WIP**](Enhancements/Improvements/Improvements112.md)    | [✔️ **Available**](ModpackTools/ModpackTools112.md) |
+| 1.8.9 and below |    [⚠️ **WIP**](Enhancements/Helpful/HelpfulOld.md)    |    [⚠️ **WIP**](Enhancements/Improvements/ImprovementsOld.md)    | [✔️ **Available**](ModpackTools/ModpackTools189.md) |
 
 ___
 
