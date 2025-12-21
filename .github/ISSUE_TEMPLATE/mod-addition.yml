@@ -35,8 +35,13 @@ body:
         - 1.19.X (Forge)
         - 1.19.X (Fabric)
         - 1.20.X (Forge)
+        - 1.20.X (NeoForge)
         - 1.20.X (Fabric)
+        - 1.21.X (Forge)
+        - 1.21.X (NeoForge)
+        - 1.21.X (Fabric)
         - Other (Forge)
+        - Other (NeoForge)
         - Other (Fabric)
     validations:
       required: true
@@ -58,7 +63,14 @@ body:
         - 1.18.X (Fabric)
         - 1.19.X (Forge)
         - 1.19.X (Fabric)
+        - 1.20.X (Forge)
+        - 1.20.X (NeoForge)
+        - 1.20.X (Fabric)
+        - 1.21.X (Forge)
+        - 1.21.X (NeoForge)
+        - 1.21.X (Fabric)
         - Other (Forge)
+        - Other (NeoForge)
         - Other (Fabric)
     validations:
       required: false
@@ -67,7 +79,7 @@ body:
       label: What is your mod's type?
       description: The type of mod that it is and where it should go on the list(s). Main/Primary type only.
       options:
-        - Preformance
+        - Performance
         - Bugfix
         - Enhancement
         - Enhancement (Helpful)
